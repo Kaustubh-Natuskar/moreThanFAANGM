@@ -145,7 +145,7 @@ If you have any feedback or wanat to contribute please reach out to me on Linked
 
 ## Read this article about Markdown
 
-[Article](https://guides.github.com/features/mastering-markdown/
+[Article](https://guides.github.com/features/mastering-markdown/)
 
 
 ## Authors
