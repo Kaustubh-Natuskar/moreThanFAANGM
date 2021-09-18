@@ -9,10 +9,10 @@ This Repository contains contains the list of companies(more than FAANG) which y
 ## companies to apply
 
 * [1 mg](https://www.1mg.com/jobs)  
-* [Adobe]()  
-* [Airbus]()  
-* [Airtel x labs]()  
-* [Ajio]()  
+* [Adobe](https://www.adobe.com/careers.html)  
+* [Airbus](https://www.airbus.com/careers.html)  
+* [Airtel x labs](https://careers.airtel.com/)  
+* [Ajio](https://www.ajio.com/ajio-careers)  
 * [Amadeus labs]()  
 * [Amazon]()  
 * [American express]()  
