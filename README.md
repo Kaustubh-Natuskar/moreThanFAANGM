@@ -143,6 +143,10 @@ This Repository contains contains the list of companies(more than FAANG) which y
 
 If you have any feedback or wanat to contribute please reach out to me on LinkedIn  
 
+## Read this article about Markdown
+
+[Article](https://guides.github.com/features/mastering-markdown/
+
 
 ## Authors
 
