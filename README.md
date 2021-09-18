@@ -139,7 +139,14 @@ This Repository contains contains the list of companies(more than FAANG) which y
 * [Zomato]()  
 
 
+## Feedback
 
+If you have any feedback or wanat to contribute please reach out to me on LinkedIn  
+
+
+## Authors
+
+- [@kaustubh Natuskar](https://www.linkedin.com/in/kaustubhnatuskar/)
 
 
 
