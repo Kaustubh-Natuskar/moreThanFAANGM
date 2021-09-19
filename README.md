@@ -143,9 +143,18 @@ This Repository contains contains the list of companies(more than FAANG) which y
 
 If you have any feedback or wanat to contribute please reach out to me on LinkedIn  
 
-## Read this article about Markdown
+## FAQ
+
+* #### How can I add more comapnies?
+  raise a issue I'll add it.
+
+* #### How can I contribute?
+  1. Read this article about Markdown
 
 [Article](https://guides.github.com/features/mastering-markdown/)
+  2. DM me on [LinkedIn](https://www.linkedin.com/in/kaustubhnatuskar/)
+
+  
 
 
 ## Authors
