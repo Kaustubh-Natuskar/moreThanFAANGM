@@ -149,9 +149,9 @@ If you have any feedback or wanat to contribute please reach out to me on Linked
   raise a issue I'll add it.
 
 * #### How can I contribute?
-  1. Read this article about Markdown
+  1. Read this [Article](https://guides.github.com/features/mastering-markdown/) about Markdown
 
-[Article](https://guides.github.com/features/mastering-markdown/)
+
   2. DM me on [LinkedIn](https://www.linkedin.com/in/kaustubhnatuskar/)
 
   
