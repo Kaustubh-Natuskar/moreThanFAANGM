@@ -19,7 +19,7 @@ This Repository contains contains the list of companies(more than FAANG) which y
  
  |Total companies added|
  |:-------------------:|
- |      131            |
+ |      132            |
  
  
  
@@ -248,6 +248,7 @@ This Repository contains contains the list of companies(more than FAANG) which y
 # W  
 * [Walmart](https://careers.walmart.com/technology)  
 * [Well fargo](https://www.wellsfargo.com/about/careers/)  
+* [westernDigital](https://jobs.westerndigital.com/) 
 * [worldQuant](https://www.worldquant.com/careers/)  
 
 
