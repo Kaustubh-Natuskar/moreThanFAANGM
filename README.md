@@ -270,7 +270,7 @@ This Repository contains contains the list of companies(more than FAANG) which y
 
 ## Feedback
 
-If you have any feedback or wanat to contribute please reach out to me on LinkedIn  
+If you have any feedback or want to contribute please reach out to me on LinkedIn  
 
 ## FAQ
 
