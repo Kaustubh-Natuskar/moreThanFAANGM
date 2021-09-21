@@ -287,6 +287,8 @@ If you have any feedback or want to contribute please reach out to me on LinkedI
   
 
 
-## Authors
+## Contributors
 
-- [@kaustubh Natuskar](https://www.linkedin.com/in/kaustubhnatuskar/)
+<a href="https://github.com/Kaustubh-Natuskar/companies-to-apply/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Kaustubh-Natuskar/companies-to-apply" />
+</a>
