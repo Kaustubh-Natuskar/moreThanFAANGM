@@ -196,6 +196,7 @@ This Repository contains contains the list of companies(more than FAANG) which y
 * [Phonepe](https://www.phonepe.com/careers/)  
 * [postman](https://www.postman.com/company/careers/)  
 * [priceline](https://careers.priceline.com/search)  
+* [Proximity Labs](https://www.proximity.tech/careers)  
 
 
 
