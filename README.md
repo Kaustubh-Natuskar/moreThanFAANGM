@@ -33,6 +33,7 @@ This Repository contains contains the list of companies(more than FAANG) which y
  ## A  
 * [1 mg](https://www.1mg.com/jobs)  
 * [Adobe](https://www.adobe.com/careers.html)  
+* [Agnikul Cosmos](https://agnikul.in/#/career)
 * [Airbus](https://www.airbus.com/careers.html)  
 * [Airtel x labs](https://careers.airtel.com/)  
 * [Ajio](https://www.ajio.com/ajio-careers)  
@@ -42,7 +43,9 @@ This Repository contains contains the list of companies(more than FAANG) which y
 * [American express](https://www.americanexpress.com/en-us/careers/)  
 * [apna](https://www.instahyre.com/jobs-at-apna/)  
 * [apple](https://www.apple.com/careers/us/)  
-* [arcesium](https://www.arcesium.com/careers.html)  
+* [arcesium](https://www.arcesium.com/careers.html) 
+* [Arista Networks](https://www.arista.com/en/careers) 
+* [Asteria Aerospace Ltd](https://asteria.co.in/careers/) 
 * [Atlassian](https://www.atlassian.com/company/careers)  
  
  
@@ -59,10 +62,13 @@ This Repository contains contains the list of companies(more than FAANG) which y
  
  
  ## B  
+* [Bellatrix Aerospace](http://www.bellatrixaerospace.com/) 
 * [BharatPe](https://bharatpe.com/career)  
 * [BigBasket](https://careers.bigbasket.com/)  
+* [Blackrock](https://careers.blackrock.com/)
 * [BMC software](https://www.bmc.com/careers/careers.html)  
 * [Boeing](https://jobs.boeing.com/)  
+* [Brahmastra Aerospace](https://www.brahmastraspace.org/career)
 * [Browser stack](https://www.browserstack.com/careers)  
 * [BukuWarung](https://www.notion.so/BukuWarung-Building-the-digital-infrastructure-for-60-million-MSMEs-in-Indonesia-7e8a4f614acb4c4888659f9d36179579)
  
@@ -85,6 +91,7 @@ This Repository contains contains the list of companies(more than FAANG) which y
 * [cisco](https://jobs.cisco.com/)  
 * [citrix](https://jobs.citrix.com/)  
 * [Codenation innovation labs](http://codenation.co.in/hiringprocess.html)  
+* [CodingNinjas](https://www.linkedin.com/jobs/coding-ninjas-jobs/?originalSubdomain=in) 
 * [coinDCX](https://careers.coindcx.com/)  
 * [coinswitch kuber](https://recruiterflow.com/coinswitch/jobs)  
 * [Cred](https://careers.cred.club/)  
@@ -92,10 +99,12 @@ This Repository contains contains the list of companies(more than FAANG) which y
 
 
 ## D  
-* [de shaw](https://www.deshawindia.com/careers/career-development)  
+* [de shaw](https://www.deshawindia.com/careers/career-development)
+* [DealShare](https://www.dealshare.in/careers#home)  
 * [Delhivery](https://www.delhivery.com/careers/)  
 * [Dell](https://jobs.dell.com/)  
 * [Deutsche Bank](https://careers.db.com/)  
+* [Dhruva Space](https://angel.co/company/dhruvaspace)
 * [Directi](https://careers.directi.com/)  
 * [discovery inc](https://jobs.discovery.com/careers-home/)  
 * [Dream11](https://www.dreamsports.group/careers)  
@@ -117,6 +126,9 @@ This Repository contains contains the list of companies(more than FAANG) which y
 
 
 ## G  
+* [Garuda Aerospace private Ltd](https://www.garudaaerospace.com/)
+* [GeeksForGeeks](https://www.geeksforgeeks.org/careers/?)
+* [Godrej Aerospace](https://www.godrej.com/godrejandboyce/gnb-careers)
 * [Gojek](https://career.gojek.com/)  
 * [goldman Sachs](https://www.goldmansachs.com/careers/)  
 * [Google](https://careers.google.com/)  
@@ -185,6 +197,7 @@ This Repository contains contains the list of companies(more than FAANG) which y
 ## O  
 * [Ola](https://www.olacabs.com/careers)  
 * [Oracle](https://www.oracle.com/apac/corporate/careers/)  
+* [OYO](https://www.naukri.com/oyo-jobs-careers-2884032)  
 
 
 ## P  
@@ -219,6 +232,7 @@ This Repository contains contains the list of companies(more than FAANG) which y
 * [ServiceNow](https://www.servicenow.com/careers.html)  
 * [Shaadi.com](https://www.naukri.com/)  
 * [shell](https://www.shell.com/careers.html)  
+* [Skyroot Aerospace](https://skyroot.in/join/) 
 * [sprinklr](https://www.sprinklr.com/careers/)  
 * [Swiggy](https://careers.swiggy.com/)  
 * [synopsys](https://www.synopsys.com/careers.html)  
@@ -226,6 +240,7 @@ This Repository contains contains the list of companies(more than FAANG) which y
 
 ## T  
 * [Target](https://corporate.target.com/careers)  
+* [TATA Advanced Sysytems Ltd](https://www.tataadvancedsystems.com/careers.php)
 * [Tekion corp](https://tekion.com/careers)  
 * [texas instruments](https://careers.ti.com/)  
 * [thoughtWorks](https://www.thoughtworks.com/careers/jobs)  
