@@ -62,15 +62,16 @@ This Repository contains contains the list of companies(more than FAANG) which y
  
  
  ## B  
-* [Bellatrix Aerospace](http://www.bellatrixaerospace.com/) 
-* [BharatPe](https://bharatpe.com/career)  
-* [BigBasket](https://careers.bigbasket.com/)  
-* [Blackrock](https://careers.blackrock.com/)
-* [BMC software](https://www.bmc.com/careers/careers.html)  
-* [Boeing](https://jobs.boeing.com/)  
-* [Brahmastra Aerospace](https://www.brahmastraspace.org/career)
-* [Browser stack](https://www.browserstack.com/careers)  
-* [BukuWarung](https://www.notion.so/BukuWarung-Building-the-digital-infrastructure-for-60-million-MSMEs-in-Indonesia-7e8a4f614acb4c4888659f9d36179579)
+1.  [Bellatrix Aerospace](http://www.bellatrixaerospace.com/) 
+1.  [BharatPe](https://bharatpe.com/career)  
+1.  [BigBasket](https://careers.bigbasket.com/)  
+1.  [Blackrock](https://careers.blackrock.com/)
+1.  [BMC software](https://www.bmc.com/careers/careers.html)  
+1.  [Boeing](https://jobs.boeing.com/)  
+1.  [Brahmastra Aerospace](https://www.brahmastraspace.org/career)
+1.  [Browser stack](https://www.browserstack.com/careers)  
+1.  [BukuWarung](https://www.notion.so/BukuWarung-Building-the-digital-infrastructure-for-60-million-MSMEs-in-Indonesia-7e8a4f614acb4c4888659f9d36179579)
+
  
  
  
