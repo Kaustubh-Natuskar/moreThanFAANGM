@@ -72,201 +72,186 @@ This Repository contains contains the list of companies(more than FAANG) which y
 1.  [Browser stack](https://www.browserstack.com/careers)  
 1.  [BukuWarung](https://www.notion.so/BukuWarung-Building-the-digital-infrastructure-for-60-million-MSMEs-in-Indonesia-7e8a4f614acb4c4888659f9d36179579)
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  ## C  
-* [Cadence](https://www.cadence.com/en_US/home/company/careers.html)  
-* [cisco](https://jobs.cisco.com/)  
-* [citrix](https://jobs.citrix.com/)  
-* [Codenation innovation labs](http://codenation.co.in/hiringprocess.html)  
-* [CodingNinjas](https://www.linkedin.com/jobs/coding-ninjas-jobs/?originalSubdomain=in) 
-* [coinDCX](https://careers.coindcx.com/)  
-* [coinswitch kuber](https://recruiterflow.com/coinswitch/jobs)  
-* [Cred](https://careers.cred.club/)  
-* [cure.fit](https://www.cult.fit/careers)  
+1.   [Cadence](https://www.cadence.com/en_US/home/company/careers.html)  
+1.   [cisco](https://jobs.cisco.com/)  
+1.   [citrix](https://jobs.citrix.com/)  
+1.   [Codenation innovation labs](http://codenation.co.in/hiringprocess.html)  
+1.   [CodingNinjas](https://www.linkedin.com/jobs/coding-ninjas-jobs/?originalSubdomain=in) 
+1.   [coinDCX](https://careers.coindcx.com/)  
+1.   [coinswitch kuber](https://recruiterflow.com/coinswitch/jobs)  
+1.   [Cred](https://careers.cred.club/)  
+1.   [cure.fit](https://www.cult.fit/careers)  
 
 
 ## D  
-* [de shaw](https://www.deshawindia.com/careers/career-development)
-* [DealShare](https://www.dealshare.in/careers#home)  
-* [Delhivery](https://www.delhivery.com/careers/)  
-* [Dell](https://jobs.dell.com/)  
-* [Deutsche Bank](https://careers.db.com/)  
-* [Dhruva Space](https://angel.co/company/dhruvaspace)
-* [Directi](https://careers.directi.com/)  
-* [discovery inc](https://jobs.discovery.com/careers-home/)  
-* [Dream11](https://www.dreamsports.group/careers)  
-* [Druva](https://www.druva.com/about/careers/)  
+1.   [de shaw](https://www.deshawindia.com/careers/career-development)
+1.   [DealShare](https://www.dealshare.in/careers#home)  
+1.   [Delhivery](https://www.delhivery.com/careers/)  
+1.   [Dell](https://jobs.dell.com/)  
+1.   [Deutsche Bank](https://careers.db.com/)  
+1.   [Dhruva Space](https://angel.co/company/dhruvaspace)
+1.   [Directi](https://careers.directi.com/)  
+1.   [discovery inc](https://jobs.discovery.com/careers-home/)  
+1.   [Dream11](https://www.dreamsports.group/careers)  
+1.   [Druva](https://www.druva.com/about/careers/)  
 
 
 ## E  
-* [Expedia](https://lifeatexpediagroup.com/jobs/)  
-* [EY](https://careers.ey.com/)  
+1.   [Expedia](https://lifeatexpediagroup.com/jobs/)  
+1.   [EY](https://careers.ey.com/)  
 
 
 ## F  
-* [facebook](https://www.facebook.com/careers/jobs/)  
-* [Fractal](https://fractal.ai/job-openings/)  
-* [Fidelity investments](https://jobs.fidelity.com/)  
-* [fireEye inc](https://www.fireeye.com/company/jobs.html)  
-* [Flipkart](https://www.flipkartcareers.com/)  
-* [FreeCharge](https://careers.freecharge.in/)  
+1.   [facebook](https://www.facebook.com/careers/jobs/)  
+1.   [Fractal](https://fractal.ai/job-openings/)  
+1.   [Fidelity investments](https://jobs.fidelity.com/)  
+1.   [fireEye inc](https://www.fireeye.com/company/jobs.html)  
+1.   [Flipkart](https://www.flipkartcareers.com/)  
+1.   [FreeCharge](https://careers.freecharge.in/)  
 
 
 ## G  
-* [Garuda Aerospace private Ltd](https://www.garudaaerospace.com/)
-* [GeeksForGeeks](https://www.geeksforgeeks.org/careers/?)
-* [Godrej Aerospace](https://www.godrej.com/godrejandboyce/gnb-careers)
-* [Gojek](https://career.gojek.com/)  
-* [goldman Sachs](https://www.goldmansachs.com/careers/)  
-* [Google](https://careers.google.com/)  
-* [Grab](https://grab.careers/)  
-* [Grofers](https://grofers.com/careers/)  
-* [groww](https://groww.skillate.com/)  
+1.   [Garuda Aerospace private Ltd](https://www.garudaaerospace.com/)
+1.   [GeeksForGeeks](https://www.geeksforgeeks.org/careers/?)
+1.   [Godrej Aerospace](https://www.godrej.com/godrejandboyce/gnb-careers)
+1.   [Gojek](https://career.gojek.com/)  
+1.   [goldman Sachs](https://www.goldmansachs.com/careers/)  
+1.   [Google](https://careers.google.com/)  
+1.   [Grab](https://grab.careers/)  
+1.   [Grofers](https://grofers.com/careers/)  
+1.   [groww](https://groww.skillate.com/)  
 
 
 ## H  
-* [healthify me](https://www.healthifyme.com/careers/)  
-* [HERE](https://www.here.com/careers)  
-* [Hotstar](https://tech.hotstar.com/)  
-* [HP](https://jobs.hp.com/)  
+1.   [healthify me](https://www.healthifyme.com/careers/)  
+1.   [HERE](https://www.here.com/careers)  
+1.   [Hotstar](https://tech.hotstar.com/)  
+1.   [HP](https://jobs.hp.com/)  
 
 
 ## I  
-* [IBM](https://www.ibm.com/in-en/employment/)  
-* [Indeed](https://in.indeed.com/cmp/Indeed)  
-* [inmobi](https://www.inmobi.com/company/careers/)  
-* [Intel](https://www.intel.com/content/www/us/en/jobs/jobs-at-intel.html)  
-* [Intuit](https://www.intuit.com/careers/)  
-* [ISRO](https://www.isro.gov.in/careers)  
+1.   [IBM](https://www.ibm.com/in-en/employment/)  
+1.   [Indeed](https://in.indeed.com/cmp/Indeed)  
+1.   [inmobi](https://www.inmobi.com/company/careers/)  
+1.   [Intel](https://www.intel.com/content/www/us/en/jobs/jobs-at-intel.html)  
+1.   [Intuit](https://www.intuit.com/careers/)  
+1.   [ISRO](https://www.isro.gov.in/careers)  
 
 
 ## J  
-* [jaguar](https://www.jaguarlandrovercareers.com/)  
-* [Jio](https://careers.jio.com/)  
-* [jp morgan](https://careers.jpmorgan.com/IN/en/home)    
-* [Jupiter money](https://jobs.lever.co/jupiter)  
-* [Juspay](https://www.juspay.in/careers)  
+1.   [jaguar](https://www.jaguarlandrovercareers.com/)  
+1.   [Jio](https://careers.jio.com/)  
+1.   [jp morgan](https://careers.jpmorgan.com/IN/en/home)    
+1.   [Jupiter money](https://jobs.lever.co/jupiter)  
+1.   [Juspay](https://www.juspay.in/careers)  
 
 
 ## K  
-* [kesari bharat](https://www.linkedin.com/in/deepak-sharda-6594561b1/)  
-* [khatabook](https://khatabook.com/hiring)  
+1.   [kesari bharat](https://www.linkedin.com/in/deepak-sharda-6594561b1/)  
+1.   [khatabook](https://khatabook.com/hiring)  
 
 
 ## L  
-* [land rover](https://www.jaguarlandrovercareers.com/)  
-* [licious](https://www.careers.in/)  
-* [LinkedIn](https://careers.linkedin.com/)  
-* [Lowe's companies, inc](https://corporate.lowes.com/careers/search-apply)  
+1.   [land rover](https://www.jaguarlandrovercareers.com/)  
+1.   [licious](https://www.careers.in/)  
+1.   [LinkedIn](https://careers.linkedin.com/)  
+1.   [Lowe's companies, inc](https://corporate.lowes.com/careers/search-apply)  
 
 
 ## M  
-* [mastercard](https://www.mastercard.us/en-us/vision/who-we-are/careers.html)  
-* [Media.net](https://careers.media.net/)  
-* [Meesho](https://careers.meesho.com/)  
-* [Microsoft](https://careers.microsoft.com/us/en)  
-* [Morgan Stanley](https://www.morganstanley.com/people-opportunities/)  
-* [MPL](https://www.linkedin.com/jobs/mobile-premier-league-%28mpl%29-jobs/?originalSubdomain=in)    
-* [Myntra](https://careers.myntra.com/)  
+1.   [mastercard](https://www.mastercard.us/en-us/vision/who-we-are/careers.html)  
+1.   [Media.net](https://careers.media.net/)  
+1.   [Meesho](https://careers.meesho.com/)  
+1.   [Microsoft](https://careers.microsoft.com/us/en)  
+1.   [Morgan Stanley](https://www.morganstanley.com/people-opportunities/)  
+1.   [MPL](https://www.linkedin.com/jobs/mobile-premier-league-%28mpl%29-jobs/?originalSubdomain=in)    
+1.   [Myntra](https://careers.myntra.com/)  
 
 
 ## N  
-* [nagarro](https://www.nagarro.com/en/careers)  
-* [NASDAQ](https://www.nasdaq.com/about/careers)  
-* [National instruments](https://www.ni.com/en-in/about-ni/careers.html)  
-* [navi](https://www.navifinserv.com/life-at-chaitanya)    
-* [Nokia](https://www.nokia.com/about-us/careers/)  
-* [nurture.farm](https://nurture.farm/join-us/) 
-* [Nvidia](https://www.nvidia.com/en-in/about-nvidia/careers/)  
+1.   [nagarro](https://www.nagarro.com/en/careers)  
+1.   [NASDAQ](https://www.nasdaq.com/about/careers)  
+1.   [National instruments](https://www.ni.com/en-in/about-ni/careers.html)  
+1.   [navi](https://www.navifinserv.com/life-at-chaitanya)    
+1.   [Nokia](https://www.nokia.com/about-us/careers/)  
+1.   [nurture.farm](https://nurture.farm/join-us/) 
+1.   [Nvidia](https://www.nvidia.com/en-in/about-nvidia/careers/)  
 
 
 
 ## O  
-* [Ola](https://www.olacabs.com/careers)  
-* [Oracle](https://www.oracle.com/apac/corporate/careers/)  
-* [OYO](https://www.naukri.com/oyo-jobs-careers-2884032)  
+1.   [Ola](https://www.olacabs.com/careers)  
+1.   [Oracle](https://www.oracle.com/apac/corporate/careers/)  
+1.   [OYO](https://www.naukri.com/oyo-jobs-careers-2884032)  
 
 
 ## P  
-* [park+](https://parkplus.io/we-are-hiring#hiring)  
-* [Paypal](https://www.paypal.com/in/webapps/mpp/jobs)  
-* [Paytm](https://paytm.com/careers/)  
-* [persistent systems](https://www.persistent.com/careers/)  
-* [PharmEasy](https://pharmeasy.in/careers/)  
-* [Phonepe](https://www.phonepe.com/careers/)  
-* [postman](https://www.postman.com/company/careers/)  
-* [priceline](https://careers.priceline.com/search)  
-* [Proximity Labs](https://www.proximity.tech/careers)  
+1.   [park+](https://parkplus.io/we-are-hiring#hiring)  
+1.   [Paypal](https://www.paypal.com/in/webapps/mpp/jobs)  
+1.   [Paytm](https://paytm.com/careers/)  
+1.   [persistent systems](https://www.persistent.com/careers/)  
+1.   [PharmEasy](https://pharmeasy.in/careers/)  
+1.   [Phonepe](https://www.phonepe.com/careers/)  
+1.   [postman](https://www.postman.com/company/careers/)  
+1.   [priceline](https://careers.priceline.com/search)  
+1.   [Proximity Labs](https://www.proximity.tech/careers)  
 
 
 
 ## Q  
-* [Qualcomm](https://www.qualcomm.com/company/careers)   
+1.   [Qualcomm](https://www.qualcomm.com/company/careers)   
 
 
 ## R  
-* [Razorpay](https://razorpay.com/jobs/)  
-* [Red hat](https://www.redhat.com/en/jobs)  
+1.   [Razorpay](https://razorpay.com/jobs/)  
+1.   [Red hat](https://www.redhat.com/en/jobs)  
 
 
 ## S  
-* [Saavan](https://www.jiosaavn.com/corporate/jobs)  
-* [sabre corporation](https://www.sabre.com/careers/)  
-* [Salesforce](https://www.salesforce.com/)  
-* [samsung](https://www.samsung.com/in/about-us/careers/)  
-* [SAP](https://jobs.sap.com/)  
-* [SendinBlue](https://jobs.sendinblue.com/en)  
-* [ServiceNow](https://www.servicenow.com/careers.html)  
-* [Shaadi.com](https://www.naukri.com/)  
-* [shell](https://www.shell.com/careers.html)  
-* [Skyroot Aerospace](https://skyroot.in/join/) 
-* [sprinklr](https://www.sprinklr.com/careers/)  
-* [Swiggy](https://careers.swiggy.com/)  
-* [synopsys](https://www.synopsys.com/careers.html)  
+1.   [Saavan](https://www.jiosaavn.com/corporate/jobs)  
+1.   [sabre corporation](https://www.sabre.com/careers/)  
+1.   [Salesforce](https://www.salesforce.com/)  
+1.   [samsung](https://www.samsung.com/in/about-us/careers/)  
+1.   [SAP](https://jobs.sap.com/)  
+1.   [SendinBlue](https://jobs.sendinblue.com/en)  
+1.   [ServiceNow](https://www.servicenow.com/careers.html)  
+1.   [Shaadi.com](https://www.naukri.com/)  
+1.   [shell](https://www.shell.com/careers.html)  
+1.   [Skyroot Aerospace](https://skyroot.in/join/) 
+1.   [sprinklr](https://www.sprinklr.com/careers/)  
+1.   [Swiggy](https://careers.swiggy.com/)  
+1.   [synopsys](https://www.synopsys.com/careers.html)  
 
 
 ## T  
-* [Target](https://corporate.target.com/careers)  
-* [TATA Advanced Sysytems Ltd](https://www.tataadvancedsystems.com/careers.php)
-* [Tekion corp](https://tekion.com/careers)  
-* [texas instruments](https://careers.ti.com/)  
-* [thoughtWorks](https://www.thoughtworks.com/careers/jobs)  
-* [tower research capital](https://www.tower-research.com/positions)  
-* [turvo](https://turvo.com/careers/)  
+1.   [Target](https://corporate.target.com/careers)  
+1.   [TATA Advanced Sysytems Ltd](https://www.tataadvancedsystems.com/careers.php)
+1.   [Tekion corp](https://tekion.com/careers)  
+1.   [texas instruments](https://careers.ti.com/)  
+1.   [thoughtWorks](https://www.thoughtworks.com/careers/jobs)  
+1.   [tower research capital](https://www.tower-research.com/positions)  
+1.   [turvo](https://turvo.com/careers/)  
 
 
 ## U  
-* [Uber](https://www.uber.com/us/en/careers/)  
-* [Udaan](https://careers.udaan.com/)  
-* [unacadamy](https://unacademy.com/careers)  
-* [Upgrad](https://www.upgrad.com/us/careers/)  
-* [Upstox](https://jobs.lever.co/upstox)  
-* [Urban company](https://careers.urbancompany.com/)   
+1.   [Uber](https://www.uber.com/us/en/careers/)  
+1.   [Udaan](https://careers.udaan.com/)  
+1.   [unacadamy](https://unacademy.com/careers)  
+1.   [Upgrad](https://www.upgrad.com/us/careers/)  
+1.   [Upstox](https://jobs.lever.co/upstox)  
+1.   [Urban company](https://careers.urbancompany.com/)   
 
 
 ## V  
-* [Visa](https://www.visa.co.in/careers.html)  
-* [Vmware](https://careers.vmware.com/main/)  
+1.   [Visa](https://www.visa.co.in/careers.html)  
+1.   [Vmware](https://careers.vmware.com/main/)  
 
 # W  
-* [Walmart](https://careers.walmart.com/technology)  
-* [Well fargo](https://www.wellsfargo.com/about/careers/)  
-* [westernDigital](https://jobs.westerndigital.com/) 
-* [worldQuant](https://www.worldquant.com/careers/)  
+1.   [Walmart](https://careers.walmart.com/technology)  
+1.   [Well fargo](https://www.wellsfargo.com/about/careers/)  
+1.   [westernDigital](https://jobs.westerndigital.com/) 
+1.   [worldQuant](https://www.worldquant.com/careers/)  
 
 
 ## X  
@@ -274,16 +259,31 @@ This Repository contains contains the list of companies(more than FAANG) which y
     
       
 ## Y  
-* [yellow.ai](https://yellow.ai/career)  
+1.   [yellow.ai](https://yellow.ai/career)  
 
 
 ## Z  
-* [zerodha](https://careers.zerodha.com/)  
-* [Zeta](https://careers.zeta.tech/work-with-us/)  
-* [zoho](https://careers.zohocorp.com/jobs/Careers)   
-* [Zomato](https://www.zomato.com/careers)  
- 
+1.   [zerodha](https://careers.zerodha.com/)  
+1.   [Zeta](https://careers.zeta.tech/work-with-us/)  
+1.   [zoho](https://careers.zohocorp.com/jobs/Careers)   
+1.   [Zomato](https://www.zomato.com/careers)  
 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 ## Feedback
 
