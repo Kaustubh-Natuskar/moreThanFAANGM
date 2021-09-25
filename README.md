@@ -31,23 +31,23 @@ This Repository contains contains the list of companies(more than FAANG) which y
  
  
  ## A  
-* [1 mg](https://www.1mg.com/jobs)  
-* [Adobe](https://www.adobe.com/careers.html)  
-* [Agnikul Cosmos](https://agnikul.in/#/career)
-* [Airbus](https://www.airbus.com/careers.html)  
-* [Airtel x labs](https://careers.airtel.com/)  
-* [Ajio](https://www.ajio.com/ajio-careers)  
-* [akamai](https://www.akamai.com/careers) 
-* [Amadeus labs](https://jobs.amadeus.com/)  
-* [Amazon](https://www.amazon.jobs/en/)  
-* [American express](https://www.americanexpress.com/en-us/careers/)  
-* [apna](https://www.instahyre.com/jobs-at-apna/)  
-* [apple](https://www.apple.com/careers/us/)  
-* [arcesium](https://www.arcesium.com/careers.html) 
-* [Arista Networks](https://www.arista.com/en/careers) 
-* [Asteria Aerospace Ltd](https://asteria.co.in/careers/) 
-* [Atlassian](https://www.atlassian.com/company/careers)  
- 
+1.[1 mg](https://www.1mg.com/jobs)  
+1.[Adobe](https://www.adobe.com/careers.html)  
+1.[Agnikul Cosmos](https://agnikul.in/#/career)
+1.[Airbus](https://www.airbus.com/careers.html)  
+1.[Airtel x labs](https://careers.airtel.com/)  
+1.[Ajio](https://www.ajio.com/ajio-careers)  
+1.[akamai](https://www.akamai.com/careers) 
+1.[Amadeus labs](https://jobs.amadeus.com/)  
+1.[Amazon](https://www.amazon.jobs/en/)  
+1.[American express](https://www.americanexpress.com/en-us/careers/)  
+1.[apna](https://www.instahyre.com/jobs-at-apna/)  
+1.[apple](https://www.apple.com/careers/us/)  
+1.[arcesium](https://www.arcesium.com/careers.html) 
+1.[Arista Networks](https://www.arista.com/en/careers) 
+1.[Asteria Aerospace Ltd](https://asteria.co.in/careers/) 
+1.[Atlassian](https://www.atlassian.com/company/careers)
+
  
  
  
