@@ -19,7 +19,7 @@ This Repository contains contains the list of companies(more than FAANG) which y
  
  |Total companies added|
  |:-------------------:|
- |      148            |
+ |      150            |
  
  
  
@@ -297,7 +297,8 @@ This Repository contains contains the list of companies(more than FAANG) which y
 2.  Read this [Article](https://guides.github.com/features/mastering-markdown/) about Markdown.  
 3.  see [this](https://docs.google.com/spreadsheets/d/11uI5wwJCMVpL7jSva6pRAgVWg-I-IN_9-yDrks2ZZ3w/edit#gid=0) sheet to find the right place for the company you want to add.  
 4.  Add the company STRICTLY in the increasing alphabetical order. See this small [article](https://support.google.com/docs/answer/3540681?hl=en&co=GENIE.Platform%3DAndroid).  
-5.  Make a pull request.   
+5.  Don't forgot to increase the count.  
+6.  Make a pull request.   
 
 
   
