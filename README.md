@@ -287,7 +287,7 @@ This Repository contains contains the list of companies(more than FAANG) which y
 
 
 
-* #### How can I Contribute to add more companies?
+## How can I Contribute to add more companies?
   
 
 1.  Fork the repository.  
