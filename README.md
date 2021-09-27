@@ -89,7 +89,8 @@ This Repository contains contains the list of companies(more than FAANG) which y
 1.   [coinDCX](https://careers.coindcx.com/)  
 1.   [coinswitch kuber](https://recruiterflow.com/coinswitch/jobs)  
 1.   [Cred](https://careers.cred.club/)  
-1.   [cure.fit](https://www.cult.fit/careers)  
+1.   [cure.fit](https://www.cult.fit/careers) 
+1.   [Cimpress](https://cimpress.com/careers/) 
 
 
 ## D  
