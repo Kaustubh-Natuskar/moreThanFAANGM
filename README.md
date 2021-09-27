@@ -292,14 +292,17 @@ If you have any feedback or want to contribute please reach out to me on LinkedI
 ## FAQ
 
 * #### How can I add more comapnies?
-  raise a issue I'll add it.
+  
+
+1.  Fork the repository
+2.  Do the desired changes (add/modify)
+3.  Make a pull request
 
 * #### How can I contribute?
-  1. Read this [Article](https://guides.github.com/features/mastering-markdown/) about Markdown
+  * Read this [Article](https://guides.github.com/features/mastering-markdown/) about Markdown
 
 
-  2. DM me on [LinkedIn](https://www.linkedin.com/in/kaustubhnatuskar/)
-
+  
   
 
 
