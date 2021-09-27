@@ -19,7 +19,7 @@ This Repository contains contains the list of companies(more than FAANG) which y
  
  |Total companies added|
  |:-------------------:|
- |      152            |
+ |      161            |
  
  
  
