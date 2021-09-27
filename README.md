@@ -29,7 +29,6 @@ This Repository contains contains the list of companies(more than FAANG) which y
  
  
  
- 
  ## A  
 1. [1 mg](https://www.1mg.com/jobs)    
 1. [Adobe](https://www.adobe.com/careers.html)    
@@ -62,6 +61,7 @@ This Repository contains contains the list of companies(more than FAANG) which y
  
  
  ## B  
+1. [Barclays](https://home.barclays/careers/)
 1.  [Bellatrix Aerospace](http://www.bellatrixaerospace.com/) 
 1.  [BharatPe](https://bharatpe.com/career)  
 1.  [BigBasket](https://careers.bigbasket.com/)  
@@ -72,6 +72,13 @@ This Repository contains contains the list of companies(more than FAANG) which y
 5.  [Brahmastra Aerospace](https://www.brahmastraspace.org/career)
 6.  [Browser stack](https://www.browserstack.com/careers)  
 7.  [BukuWarung](https://www.notion.so/BukuWarung-Building-the-digital-infrastructure-for-60-million-MSMEs-in-Indonesia-7e8a4f614acb4c4888659f9d36179579)
+=======
+1.  [BMC software](https://www.bmc.com/careers/careers.html)  
+1.  [BNY Mellon](https://jobs.bnymellon.com/)
+1.  [Boeing](https://jobs.boeing.com/)  
+1.  [Brahmastra Aerospace](https://www.brahmastraspace.org/career)
+1.  [Browser stack](https://www.browserstack.com/careers)  
+1.  [BukuWarung](https://www.notion.so/BukuWarung-Building-the-digital-infrastructure-for-60-million-MSMEs-in-Indonesia-7e8a4f614acb4c4888659f9d36179579)
 
  ## C  
 1.   [Cadence](https://www.cadence.com/en_US/home/company/careers.html)  
@@ -111,6 +118,7 @@ This Repository contains contains the list of companies(more than FAANG) which y
 1.   [fireEye inc](https://www.fireeye.com/company/jobs.html)  
 1.   [Flipkart](https://www.flipkartcareers.com/)  
 1.   [FreeCharge](https://careers.freecharge.in/)  
+1.   [Freshworks](https://www.freshworks.com/company/life-at-freshworks/careers/)
 
 
 ## G  
@@ -220,12 +228,14 @@ This Repository contains contains the list of companies(more than FAANG) which y
 1.   [SendinBlue](https://jobs.sendinblue.com/en)  
 1.   [ServiceNow](https://www.servicenow.com/careers.html)  
 1.   [Shaadi.com](https://www.naukri.com/)  
+1.   [ShareChat](https://we.sharechat.com/careers)
 1.   [shell](https://www.shell.com/careers.html)  
 1.   [Skyroot Aerospace](https://skyroot.in/join/) 
 3.   [Spinny](https://spinny.freshteam.com/jobs)  
 3.   [sprinklr](https://www.sprinklr.com/careers/)  
 4.   [Swiggy](https://careers.swiggy.com/)  
 5.   [synopsys](https://www.synopsys.com/careers.html)  
+
 
 
 ## T  
@@ -296,9 +306,10 @@ This Repository contains contains the list of companies(more than FAANG) which y
 
 1.  Fork the repository.  
 2.  Read this [Article](https://guides.github.com/features/mastering-markdown/) about Markdown.  
-3.  see [this](https://docs.google.com/spreadsheets/d/11uI5wwJCMVpL7jSva6pRAgVWg-I-IN_9-yDrks2ZZ3w/edit#gid=0) sheet to find the right place for the company you want to add.  
+3.  Download [this](https://docs.google.com/spreadsheets/d/11uI5wwJCMVpL7jSva6pRAgVWg-I-IN_9-yDrks2ZZ3w/edit#gid=0) sheet to find the right place for the company you want to add.  
 4.  Add the company STRICTLY in the increasing alphabetical order. See this small [article](https://support.google.com/docs/answer/3540681?hl=en&co=GENIE.Platform%3DAndroid).  
-5.  Make a pull request.   
+5.  Don't forgot to increase the count.  
+6.  Make a pull request.   
 
 
   
