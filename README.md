@@ -146,7 +146,7 @@ This Repository contains contains the list of companies(more than FAANG) which y
 1.   [Jio](https://careers.jio.com/)  
 1.   [jp morgan](https://careers.jpmorgan.com/IN/en/home)    
 1.   [Jupiter money](https://jobs.lever.co/jupiter)  
-1.   [Juspay](https://www.juspay.in/careers)  
+1.   [Juspay](https://www.juspay.in/careers/)  
 
 
 ## K  
