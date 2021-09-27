@@ -20,6 +20,7 @@ This Repository contains contains the list of companies(more than FAANG) which y
  |Total companies added|
  |:-------------------:|
  |      152            |
+
  
  
  
@@ -290,21 +291,17 @@ This Repository contains contains the list of companies(more than FAANG) which y
  
  
 
-## Feedback
 
-If you have any feedback or want to contribute please reach out to me on LinkedIn  
 
-## FAQ
-
-* #### How can I add more comapnies?
+## How can I Contribute to add more companies?
   
 
-1.  Fork the repository
-2.  Do the desired changes (add/modify)
-3.  Make a pull request
-
-* #### How can I contribute?
-  * Read this [Article](https://guides.github.com/features/mastering-markdown/) about Markdown
+1.  Fork the repository.  
+2.  Read this [Article](https://guides.github.com/features/mastering-markdown/) about Markdown.  
+3.  Download [this](https://docs.google.com/spreadsheets/d/11uI5wwJCMVpL7jSva6pRAgVWg-I-IN_9-yDrks2ZZ3w/edit#gid=0) sheet to find the right place for the company you want to add.  
+4.  Add the company STRICTLY in the increasing alphabetical order. See this small [article](https://support.google.com/docs/answer/3540681?hl=en&co=GENIE.Platform%3DAndroid).  
+5.  Don't forgot to increase the count.  
+6.  Make a pull request.   
 
 
   
@@ -315,4 +312,8 @@ If you have any feedback or want to contribute please reach out to me on LinkedI
 
 <a href="https://github.com/Kaustubh-Natuskar/companies-to-apply/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Kaustubh-Natuskar/companies-to-apply" />
-</a>
+</a>  
+
+## Feedback
+
+If you have any feedback please reach out to me on [LinkedIn](https://www.linkedin.com/in/kaustubhnatuskar/).   
