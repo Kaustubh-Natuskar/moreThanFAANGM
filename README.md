@@ -109,6 +109,7 @@ This Repository contains contains the list of companies(more than FAANG) which y
 1.   [fireEye inc](https://www.fireeye.com/company/jobs.html)  
 1.   [Flipkart](https://www.flipkartcareers.com/)  
 1.   [FreeCharge](https://careers.freecharge.in/)  
+1.   [Freshworks](https://www.freshworks.com/company/life-at-freshworks/careers/)
 
 
 ## G  
