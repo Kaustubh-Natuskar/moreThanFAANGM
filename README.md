@@ -222,6 +222,7 @@ This Repository contains contains the list of companies(more than FAANG) which y
 1.   [sprinklr](https://www.sprinklr.com/careers/)  
 1.   [Swiggy](https://careers.swiggy.com/)  
 1.   [synopsys](https://www.synopsys.com/careers.html)  
+1.   [ShareChat](https://we.sharechat.com/careers)
 
 
 ## T  
