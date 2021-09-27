@@ -20,8 +20,6 @@ This Repository contains contains the list of companies(more than FAANG) which y
  |Total companies added|
  |:-------------------:|
  |      152            |
-
- 
  
  
  
@@ -68,6 +66,13 @@ This Repository contains contains the list of companies(more than FAANG) which y
 1.  [BharatPe](https://bharatpe.com/career)  
 1.  [BigBasket](https://careers.bigbasket.com/)  
 1.  [Blackrock](https://careers.blackrock.com/)
+1.  [Bluestacks](https://www.bluestacks.com/work-at-bluestacks.html)
+3.  [BMC software](https://www.bmc.com/careers/careers.html)  
+4.  [Boeing](https://jobs.boeing.com/)  
+5.  [Brahmastra Aerospace](https://www.brahmastraspace.org/career)
+6.  [Browser stack](https://www.browserstack.com/careers)  
+7.  [BukuWarung](https://www.notion.so/BukuWarung-Building-the-digital-infrastructure-for-60-million-MSMEs-in-Indonesia-7e8a4f614acb4c4888659f9d36179579)
+=======
 1.  [BMC software](https://www.bmc.com/careers/careers.html)  
 1.  [BNY Mellon](https://jobs.bnymellon.com/)
 1.  [Boeing](https://jobs.boeing.com/)  
@@ -98,6 +103,7 @@ This Repository contains contains the list of companies(more than FAANG) which y
 1.   [discovery inc](https://jobs.discovery.com/careers-home/)  
 1.   [Dream11](https://www.dreamsports.group/careers)  
 1.   [Druva](https://www.druva.com/about/careers/)  
+1.   [Dunzo](https://www.dunzo.com/careers#jobs)     
 
 
 ## E  
@@ -148,7 +154,7 @@ This Repository contains contains the list of companies(more than FAANG) which y
 1.   [Jio](https://careers.jio.com/)  
 1.   [jp morgan](https://careers.jpmorgan.com/IN/en/home)    
 1.   [Jupiter money](https://jobs.lever.co/jupiter)  
-1.   [Juspay](https://www.juspay.in/careers)  
+1.   [Juspay](https://www.juspay.in/careers/)  
 
 
 ## K  
@@ -164,6 +170,7 @@ This Repository contains contains the list of companies(more than FAANG) which y
 
 
 ## M  
+1.   [Magicpin](https://magicpin.darwinbox.in/ms/candidate/careers)  
 1.   [mastercard](https://www.mastercard.us/en-us/vision/who-we-are/careers.html)  
 1.   [Media.net](https://careers.media.net/)  
 1.   [Meesho](https://careers.meesho.com/)  
@@ -224,9 +231,10 @@ This Repository contains contains the list of companies(more than FAANG) which y
 1.   [ShareChat](https://we.sharechat.com/careers)
 1.   [shell](https://www.shell.com/careers.html)  
 1.   [Skyroot Aerospace](https://skyroot.in/join/) 
-1.   [sprinklr](https://www.sprinklr.com/careers/)  
-1.   [Swiggy](https://careers.swiggy.com/)  
-1.   [synopsys](https://www.synopsys.com/careers.html)  
+3.   [Spinny](https://spinny.freshteam.com/jobs)  
+3.   [sprinklr](https://www.sprinklr.com/careers/)  
+4.   [Swiggy](https://careers.swiggy.com/)  
+5.   [synopsys](https://www.synopsys.com/careers.html)  
 
 
 
