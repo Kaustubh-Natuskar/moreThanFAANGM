@@ -109,6 +109,7 @@ This Repository contains contains the list of companies(more than FAANG) which y
 1.   [fireEye inc](https://www.fireeye.com/company/jobs.html)  
 1.   [Flipkart](https://www.flipkartcareers.com/)  
 1.   [FreeCharge](https://careers.freecharge.in/)  
+1.   [Freshworks](https://www.freshworks.com/company/life-at-freshworks/careers/)
 
 
 ## G  
@@ -217,11 +218,13 @@ This Repository contains contains the list of companies(more than FAANG) which y
 1.   [SendinBlue](https://jobs.sendinblue.com/en)  
 1.   [ServiceNow](https://www.servicenow.com/careers.html)  
 1.   [Shaadi.com](https://www.naukri.com/)  
+1.   [ShareChat](https://we.sharechat.com/careers)
 1.   [shell](https://www.shell.com/careers.html)  
 1.   [Skyroot Aerospace](https://skyroot.in/join/) 
 1.   [sprinklr](https://www.sprinklr.com/careers/)  
 1.   [Swiggy](https://careers.swiggy.com/)  
 1.   [synopsys](https://www.synopsys.com/careers.html)  
+
 
 
 ## T  
