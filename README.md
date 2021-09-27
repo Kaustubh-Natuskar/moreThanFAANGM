@@ -19,7 +19,8 @@ This Repository contains contains the list of companies(more than FAANG) which y
  
  |Total companies added|
  |:-------------------:|
- |      150            |
+ |      152            |
+
  
  
  
@@ -62,11 +63,13 @@ This Repository contains contains the list of companies(more than FAANG) which y
  
  
  ## B  
+1. [Barclays](https://home.barclays/careers/)
 1.  [Bellatrix Aerospace](http://www.bellatrixaerospace.com/) 
 1.  [BharatPe](https://bharatpe.com/career)  
 1.  [BigBasket](https://careers.bigbasket.com/)  
 1.  [Blackrock](https://careers.blackrock.com/)
 1.  [BMC software](https://www.bmc.com/careers/careers.html)  
+1.  [BNY Mellon](https://jobs.bnymellon.com/)
 1.  [Boeing](https://jobs.boeing.com/)  
 1.  [Brahmastra Aerospace](https://www.brahmastraspace.org/career)
 1.  [Browser stack](https://www.browserstack.com/careers)  
