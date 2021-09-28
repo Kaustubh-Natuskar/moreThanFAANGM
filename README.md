@@ -19,7 +19,7 @@ This Repository contains contains the list of companies(more than FAANG) which y
  
  |Total companies added|
  |:-------------------:|
- |      166     |
+ |      170     |
  
  
  
@@ -39,14 +39,16 @@ This Repository contains contains the list of companies(more than FAANG) which y
 5. [Ajio](https://www.ajio.com/ajio-careers)    
 6. [akamai](https://www.akamai.com/careers)   
 7. [Amadeus labs](https://jobs.amadeus.com/)    
-8. [Amazon](https://www.amazon.jobs/en/)    
-9. [American express](https://www.americanexpress.com/en-us/careers/)    
-10. [apna](https://www.instahyre.com/jobs-at-apna/)    
-11. [apple](https://www.apple.com/careers/us/)    
-12. [arcesium](https://www.arcesium.com/careers.html)   
-13. [Arista Networks](https://www.arista.com/en/careers) 
-14. [Asteria Aerospace Ltd](https://asteria.co.in/careers/) 
-15. [Atlassian](https://www.atlassian.com/company/careers)
+8. [Amazon](https://www.amazon.jobs/en/)  
+9. [AMD](https://www.amd.com/en/corporate/careers)
+10. [Amdocs](https://asset.amdocs.com/careers/)  
+11. [American express](https://www.americanexpress.com/en-us/careers/)    
+12. [apna](https://www.instahyre.com/jobs-at-apna/)    
+13. [apple](https://www.apple.com/careers/us/)    
+14. [arcesium](https://www.arcesium.com/careers.html)   
+15. [Arista Networks](https://www.arista.com/en/careers) 
+16. [Asteria Aerospace Ltd](https://asteria.co.in/careers/) 
+17. [Atlassian](https://www.atlassian.com/company/careers)
  
  
  
@@ -173,7 +175,8 @@ This Repository contains contains the list of companies(more than FAANG) which y
 
 ## M  
 1.   [Magicpin](https://magicpin.darwinbox.in/ms/candidate/careers)  
-1.   [mastercard](https://www.mastercard.us/en-us/vision/who-we-are/careers.html)  
+1.   [mastercard](https://www.mastercard.us/en-us/vision/who-we-are/careers.html)
+1.   [McAfee](https://careers.mcafee.com/)   
 1.   [Media.net](https://careers.media.net/)  
 1.   [Meesho](https://careers.meesho.com/)  
 1.   [Microsoft](https://careers.microsoft.com/us/en)  
@@ -218,7 +221,8 @@ This Repository contains contains the list of companies(more than FAANG) which y
 
 ## R  
 1.   [Razorpay](https://razorpay.com/jobs/)  
-1.   [Red hat](https://www.redhat.com/en/jobs)  
+1.   [Red hat](https://www.redhat.com/en/jobs) 
+1.   [Rockstar Games](https://www.rockstargames.com/careers/) 
 
 
 ## S  
