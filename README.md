@@ -19,7 +19,7 @@ This Repository contains contains the list of companies(more than FAANG) which y
  
  |Total companies added|
  |:-------------------:|
- |      161            |
+ |      166     |
  
  
  
@@ -32,20 +32,21 @@ This Repository contains contains the list of companies(more than FAANG) which y
  ## A  
 1. [1 mg](https://www.1mg.com/jobs)    
 1. [Adobe](https://www.adobe.com/careers.html)    
-1. [Agnikul Cosmos](https://agnikul.in/#/career)  
-1. [Airbus](https://www.airbus.com/careers.html)    
-1. [Airtel x labs](https://careers.airtel.com/)  
-1. [Ajio](https://www.ajio.com/ajio-careers)    
-1. [akamai](https://www.akamai.com/careers)   
-1. [Amadeus labs](https://jobs.amadeus.com/)    
-1. [Amazon](https://www.amazon.jobs/en/)    
-1. [American express](https://www.americanexpress.com/en-us/careers/)    
-1. [apna](https://www.instahyre.com/jobs-at-apna/)    
-1. [apple](https://www.apple.com/careers/us/)    
-1. [arcesium](https://www.arcesium.com/careers.html)   
-1. [Arista Networks](https://www.arista.com/en/careers) 
-1. [Asteria Aerospace Ltd](https://asteria.co.in/careers/) 
-1. [Atlassian](https://www.atlassian.com/company/careers)
+1. [Agnikul Cosmos](https://agnikul.in/#/career) 
+1. [Agile Solutions](http://agilesolutions.com/careers-2/)  
+3. [Airbus](https://www.airbus.com/careers.html)    
+4. [Airtel x labs](https://careers.airtel.com/)  
+5. [Ajio](https://www.ajio.com/ajio-careers)    
+6. [akamai](https://www.akamai.com/careers)   
+7. [Amadeus labs](https://jobs.amadeus.com/)    
+8. [Amazon](https://www.amazon.jobs/en/)    
+9. [American express](https://www.americanexpress.com/en-us/careers/)    
+10. [apna](https://www.instahyre.com/jobs-at-apna/)    
+11. [apple](https://www.apple.com/careers/us/)    
+12. [arcesium](https://www.arcesium.com/careers.html)   
+13. [Arista Networks](https://www.arista.com/en/careers) 
+14. [Asteria Aerospace Ltd](https://asteria.co.in/careers/) 
+15. [Atlassian](https://www.atlassian.com/company/careers)
  
  
  
@@ -142,7 +143,8 @@ This Repository contains contains the list of companies(more than FAANG) which y
 
 ## I  
 1.   [IBM](https://www.ibm.com/in-en/employment/)  
-1.   [Indeed](https://in.indeed.com/cmp/Indeed)  
+1.   [Indeed](https://in.indeed.com/cmp/Indeed)
+1.   [Informatica](https://informatica.gr8people.com/jobs)    
 1.   [inmobi](https://www.inmobi.com/company/careers/)  
 1.   [Intel](https://www.intel.com/content/www/us/en/jobs/jobs-at-intel.html)  
 1.   [Intuit](https://www.intuit.com/careers/)  
@@ -241,11 +243,13 @@ This Repository contains contains the list of companies(more than FAANG) which y
 ## T  
 1.   [Target](https://corporate.target.com/careers)  
 1.   [TATA Advanced Sysytems Ltd](https://www.tataadvancedsystems.com/careers.php)
+1.   [TEK Systems](https://www.teksystems.com/en-in/careers)
 1.   [Tekion corp](https://tekion.com/careers)  
 1.   [texas instruments](https://careers.ti.com/)  
 1.   [thoughtWorks](https://www.thoughtworks.com/careers/jobs)  
 1.   [tower research capital](https://www.tower-research.com/positions)  
 1.   [turvo](https://turvo.com/careers/)  
+1.   [Twitter](https://careers.twitter.com/)   
 
 
 ## U  
@@ -273,6 +277,7 @@ This Repository contains contains the list of companies(more than FAANG) which y
     
       
 ## Y  
+1.   [Yash Technology](https://www.yash.com/about-us/career/)  
 1.   [yellow.ai](https://yellow.ai/career)  
 
 
