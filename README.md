@@ -174,6 +174,7 @@ This Repository contains contains the list of companies(more than FAANG) which y
 1.   [Morgan Stanley](https://www.morganstanley.com/people-opportunities/)  
 1.   [MPL](https://www.linkedin.com/jobs/mobile-premier-league-%28mpl%29-jobs/?originalSubdomain=in)    
 1.   [Myntra](https://careers.myntra.com/)  
+1.   [MakeMyTrip](https://www.makemytrip.com/)  
 
 
 ## N  
