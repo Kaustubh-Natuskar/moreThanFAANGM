@@ -19,7 +19,7 @@ This Repository contains contains the list of companies(more than FAANG) which y
  
  |Total companies added|
  |:-------------------:|
- |      161            |
+ |      160            |
  
  
  
@@ -271,7 +271,6 @@ This Repository contains contains the list of companies(more than FAANG) which y
     
       
 ## Y  
-1.   [Yash Technology](https://www.yash.com/about-us/career/)  
 1.   [yellow.ai](https://yellow.ai/career)  
 
 
