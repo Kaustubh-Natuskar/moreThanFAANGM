@@ -62,18 +62,12 @@ This Repository contains contains the list of companies(more than FAANG) which y
  
  
  ## B  
-1. [Barclays](https://home.barclays/careers/)
+1.  [Barclays](https://home.barclays/careers/)
 1.  [Bellatrix Aerospace](http://www.bellatrixaerospace.com/) 
 1.  [BharatPe](https://bharatpe.com/career)  
 1.  [BigBasket](https://careers.bigbasket.com/)  
 1.  [Blackrock](https://careers.blackrock.com/)
 1.  [Bluestacks](https://www.bluestacks.com/work-at-bluestacks.html)
-3.  [BMC software](https://www.bmc.com/careers/careers.html)  
-4.  [Boeing](https://jobs.boeing.com/)  
-5.  [Brahmastra Aerospace](https://www.brahmastraspace.org/career)
-6.  [Browser stack](https://www.browserstack.com/careers)  
-7.  [BukuWarung](https://www.notion.so/BukuWarung-Building-the-digital-infrastructure-for-60-million-MSMEs-in-Indonesia-7e8a4f614acb4c4888659f9d36179579)
-=======
 1.  [BMC software](https://www.bmc.com/careers/careers.html)  
 1.  [BNY Mellon](https://jobs.bnymellon.com/)
 1.  [Boeing](https://jobs.boeing.com/)  
@@ -309,12 +303,12 @@ This Repository contains contains the list of companies(more than FAANG) which y
 ## How can I Contribute to add more companies?
   
 
-1.  Fork the repository.  
-2.  Read this [Article](https://guides.github.com/features/mastering-markdown/) about Markdown.  
-3.  Download [this](https://docs.google.com/spreadsheets/d/11uI5wwJCMVpL7jSva6pRAgVWg-I-IN_9-yDrks2ZZ3w/edit#gid=0) sheet to find the right place for the company you want to add.  
-4.  Add the company STRICTLY in the increasing alphabetical order. See this small [article](https://support.google.com/docs/answer/3540681?hl=en&co=GENIE.Platform%3DAndroid).  
-5.  Don't forgot to increase the count.  
-6.  Make a pull request.   
+1.   Fork the repository.  
+1.   Read this [Article](https://guides.github.com/features/mastering-markdown/) about Markdown.  
+1.   Download [this](https://docs.google.com/spreadsheets/d/11uI5wwJCMVpL7jSva6pRAgVWg-I-IN_9-yDrks2ZZ3w/edit#gid=0) sheet to find the right place for the company you want to add.  
+1.   Add the company STRICTLY in the increasing alphabetical order. See this small [article](https://support.google.com/docs/answer/3540681?hl=en&co=GENIE.Platform%3DAndroid).  
+1.   Don't forgot to increase the count.  
+1.   Make a pull request.   
 
 
   
