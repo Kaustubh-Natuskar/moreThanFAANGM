@@ -66,6 +66,7 @@ This Repository contains contains the list of companies(more than FAANG) which y
 1.  [Bellatrix Aerospace](http://www.bellatrixaerospace.com/) 
 1.  [BharatPe](https://bharatpe.com/career)  
 1.  [BigBasket](https://careers.bigbasket.com/)  
+1.  [BJS Home Delivery](https://www.bjshomedelivery.com/opportunities)
 1.  [Blackrock](https://careers.blackrock.com/)
 1.  [Bluestacks](https://www.bluestacks.com/work-at-bluestacks.html)
 1.  [BMC software](https://www.bmc.com/careers/careers.html)  
