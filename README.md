@@ -242,7 +242,7 @@ This Repository contains contains the list of companies(more than FAANG) which y
 1.   [texas instruments](https://careers.ti.com/)  
 1.   [thoughtWorks](https://www.thoughtworks.com/careers/jobs)  
 1.   [tower research capital](https://www.tower-research.com/positions)  
-1.   [Treebo Hotels](https://www.treebo.com/)
+1.   [Treebo Hotels](https://www.linkedin.com/company/treebohotels/jobs/)
 3.   [turvo](https://turvo.com/careers/)  
 4.   [Twitter](https://careers.twitter.com/)   
 
