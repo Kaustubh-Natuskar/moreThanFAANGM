@@ -167,13 +167,14 @@ This Repository contains contains the list of companies(more than FAANG) which y
 
 ## M  
 1.   [Magicpin](https://magicpin.darwinbox.in/ms/candidate/careers)  
-1.   [mastercard](https://www.mastercard.us/en-us/vision/who-we-are/careers.html)  
-1.   [Media.net](https://careers.media.net/)  
-1.   [Meesho](https://careers.meesho.com/)  
-1.   [Microsoft](https://careers.microsoft.com/us/en)  
-1.   [Morgan Stanley](https://www.morganstanley.com/people-opportunities/)  
-1.   [MPL](https://www.linkedin.com/jobs/mobile-premier-league-%28mpl%29-jobs/?originalSubdomain=in)    
-1.   [Myntra](https://careers.myntra.com/)  
+2.   [MakeMyTrip](https://careers.makemytrip.com/)  
+3.   [mastercard](https://www.mastercard.us/en-us/vision/who-we-are/careers.html)  
+4.   [Media.net](https://careers.media.net/)  
+5.   [Meesho](https://careers.meesho.com/)  
+6.   [Microsoft](https://careers.microsoft.com/us/en)  
+7.   [Morgan Stanley](https://www.morganstanley.com/people-opportunities/)  
+8.   [MPL](https://www.linkedin.com/jobs/mobile-premier-league-%28mpl%29-jobs/?originalSubdomain=in)    
+9.   [Myntra](https://careers.myntra.com/)  
 
 
 ## N  
