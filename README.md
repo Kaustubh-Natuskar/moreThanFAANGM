@@ -74,6 +74,7 @@ This Repository contains contains the list of companies(more than FAANG) which y
 1.  [Brahmastra Aerospace](https://www.brahmastraspace.org/career)
 1.  [Browser stack](https://www.browserstack.com/careers)  
 1.  [BukuWarung](https://www.notion.so/BukuWarung-Building-the-digital-infrastructure-for-60-million-MSMEs-in-Indonesia-7e8a4f614acb4c4888659f9d36179579)
+2.  [ByteDance](https://jobs.bytedance.com/en/)
 
  ## C  
 1.   [Cadence](https://www.cadence.com/en_US/home/company/careers.html)  
@@ -133,6 +134,7 @@ This Repository contains contains the list of companies(more than FAANG) which y
 1.   [HERE](https://www.here.com/careers)  
 1.   [Hotstar](https://tech.hotstar.com/)  
 1.   [HP](https://jobs.hp.com/)  
+2.   [Hashedin](https://hashedin.com/careers/)
 
 
 ## I  
@@ -271,7 +273,8 @@ This Repository contains contains the list of companies(more than FAANG) which y
     
       
 ## Y  
-1.   [yellow.ai](https://yellow.ai/career)  
+1.   [yellow.ai](https://yellow.ai/career) 
+2.   [Yelp](https://www.yelp.careers/us/en) 
 
 
 ## Z  
