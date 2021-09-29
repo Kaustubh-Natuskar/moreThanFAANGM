@@ -188,9 +188,10 @@ This Repository contains contains the list of companies(more than FAANG) which y
 
 
 ## O  
-1.   [Ola](https://www.olacabs.com/careers)  
-1.   [Oracle](https://www.oracle.com/apac/corporate/careers/)  
-1.   [OYO](https://www.naukri.com/oyo-jobs-careers-2884032)  
+1.   [Ola](https://www.olacabs.com/careers) 
+2.   [Olx](https://careers.olxgroup.com/) 
+3.   [Oracle](https://www.oracle.com/apac/corporate/careers/)  
+4.   [OYO](https://www.naukri.com/oyo-jobs-careers-2884032)  
 
 
 ## P  
