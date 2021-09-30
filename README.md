@@ -19,7 +19,7 @@ This Repository contains contains the list of companies(more than FAANG) which y
  
  |Total companies added|
  |:-------------------:|
- |      160            |
+ |      161            |
  
  
  
@@ -178,12 +178,13 @@ This Repository contains contains the list of companies(more than FAANG) which y
 
 ## N  
 1.   [nagarro](https://www.nagarro.com/en/careers)  
-1.   [NASDAQ](https://www.nasdaq.com/about/careers)  
-1.   [National instruments](https://www.ni.com/en-in/about-ni/careers.html)  
-1.   [navi](https://www.navifinserv.com/life-at-chaitanya)    
-1.   [Nokia](https://www.nokia.com/about-us/careers/)  
-1.   [nurture.farm](https://nurture.farm/join-us/) 
-1.   [Nvidia](https://www.nvidia.com/en-in/about-nvidia/careers/)  
+2.   [NASDAQ](https://www.nasdaq.com/about/careers)  
+3.   [National instruments](https://www.ni.com/en-in/about-ni/careers.html)  
+4.   [NatWest Group](https://jobs.natwestgroup.com/search/jobs/in/country/india)
+5.   [navi](https://www.navifinserv.com/life-at-chaitanya)    
+6.   [Nokia](https://www.nokia.com/about-us/careers/)  
+7.   [nurture.farm](https://nurture.farm/join-us/) 
+8.   [Nvidia](https://www.nvidia.com/en-in/about-nvidia/careers/)  
 
 
 
