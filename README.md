@@ -222,7 +222,7 @@ This Repository contains contains the list of companies(more than FAANG) which y
 ## R  
 1.   [Razorpay](https://razorpay.com/jobs/)  
 1.   [Red hat](https://www.redhat.com/en/jobs)  
-
+1.   [Rocket Companies](https://www.myrocketcareer.com/)
 
 ## S  
 1.   [Saavan](https://www.jiosaavn.com/corporate/jobs)  
