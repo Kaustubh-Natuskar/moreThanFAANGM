@@ -30,23 +30,28 @@ This Repository contains contains the list of companies(more than FAANG) which y
  
  
  ## A  
-1. [1 mg](https://www.1mg.com/jobs)    
-1. [Adobe](https://www.adobe.com/careers.html)    
-1. [Agnikul Cosmos](https://agnikul.in/#/career) 
-1. [Agile Solutions](http://agilesolutions.com/careers-2/)  
-3. [Airbus](https://www.airbus.com/careers.html)    
-4. [Airtel x labs](https://careers.airtel.com/)  
-5. [Ajio](https://www.ajio.com/ajio-careers)    
-6. [akamai](https://www.akamai.com/careers)   
-7. [Amadeus labs](https://jobs.amadeus.com/)    
-8. [Amazon](https://www.amazon.jobs/en/)    
-9. [American express](https://www.americanexpress.com/en-us/careers/)    
-10. [apna](https://www.instahyre.com/jobs-at-apna/)    
-11. [apple](https://www.apple.com/careers/us/)    
-12. [arcesium](https://www.arcesium.com/careers.html)   
-13. [Arista Networks](https://www.arista.com/en/careers) 
-14. [Asteria Aerospace Ltd](https://asteria.co.in/careers/) 
-15. [Atlassian](https://www.atlassian.com/company/careers)
+1. [1 mg](https://www.1mg.com/jobs)  
+1. [Accolite software]()  
+2. [Accord software]()
+3. [Adobe](https://www.adobe.com/careers.html)    
+4. [Agnikul Cosmos](https://agnikul.in/#/career) 
+5. [Agile Solutions](http://agilesolutions.com/careers-2/)  
+6. [Airbus](https://www.airbus.com/careers.html)    
+7. [Airtel x labs](https://careers.airtel.com/)  
+8. [Ajio](https://www.ajio.com/ajio-careers)    
+9. [akamai](https://www.akamai.com/careers)   
+10. [Amadeus labs](https://jobs.amadeus.com/)    
+11. [Amazon](https://www.amazon.jobs/en/)    
+12. [American express](https://www.americanexpress.com/en-us/careers/)    
+13. [apna](https://www.instahyre.com/jobs-at-apna/)    
+14. [apple](https://www.apple.com/careers/us/)    
+15. [arcesium](https://www.arcesium.com/careers.html)   
+16. [Arista Networks](https://www.arista.com/en/careers)  
+17.  [Aryaka networks]()
+18. [Asteria Aerospace Ltd](https://asteria.co.in/careers/)  
+19. [Athena Health]()  
+20. [Atlassian](https://www.atlassian.com/company/careers)  
+21. [Avaya]()
  
  
  
@@ -115,6 +120,7 @@ This Repository contains contains the list of companies(more than FAANG) which y
 1.   [Flipkart](https://www.flipkartcareers.com/)  
 1.   [FreeCharge](https://careers.freecharge.in/)  
 1.   [Freshworks](https://www.freshworks.com/company/life-at-freshworks/careers/)
+1.   [fyle]()
 
 
 ## G  
@@ -152,6 +158,7 @@ This Repository contains contains the list of companies(more than FAANG) which y
 1.   [jp morgan](https://careers.jpmorgan.com/IN/en/home)    
 1.   [Jupiter money](https://jobs.lever.co/jupiter)  
 1.   [Juspay](https://www.juspay.in/careers/)  
+1.   [Juniper networks]()
 
 
 ## K  
