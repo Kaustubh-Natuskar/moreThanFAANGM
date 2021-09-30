@@ -31,8 +31,8 @@ This Repository contains contains the list of companies(more than FAANG) which y
  
  ## A  
 1. [1 mg](https://www.1mg.com/jobs)  
-1. [Accolite software]()  
-2. [Accord software]()
+1. [Accolite software](https://www.accolite.com/careers)  
+2. [Accord software](https://accord-global.com/careers.html)
 3. [Adobe](https://www.adobe.com/careers.html)    
 4. [Agnikul Cosmos](https://agnikul.in/#/career) 
 5. [Agile Solutions](http://agilesolutions.com/careers-2/)  
@@ -47,11 +47,11 @@ This Repository contains contains the list of companies(more than FAANG) which y
 14. [apple](https://www.apple.com/careers/us/)    
 15. [arcesium](https://www.arcesium.com/careers.html)   
 16. [Arista Networks](https://www.arista.com/en/careers)  
-17.  [Aryaka networks]()
+17. [Aryaka networks](https://www.linkedin.com/company/aryaka-networks/jobs?originalSubdomain=in)
 18. [Asteria Aerospace Ltd](https://asteria.co.in/careers/)  
-19. [Athena Health]()  
+19. [Athena Health](https://www.athenahealth.com/careers)  
 20. [Atlassian](https://www.atlassian.com/company/careers)  
-21. [Avaya]()
+21. [Avaya](https://careers.avaya.com/)
  
  
  
@@ -85,12 +85,15 @@ This Repository contains contains the list of companies(more than FAANG) which y
 1.   [Cadence](https://www.cadence.com/en_US/home/company/careers.html)  
 1.   [cisco](https://jobs.cisco.com/)  
 1.   [citrix](https://jobs.citrix.com/)  
-1.   [Codenation innovation labs](http://codenation.co.in/hiringprocess.html)  
-1.   [CodingNinjas](https://www.linkedin.com/jobs/coding-ninjas-jobs/?originalSubdomain=in) 
-1.   [coinDCX](https://careers.coindcx.com/)  
-1.   [coinswitch kuber](https://recruiterflow.com/coinswitch/jobs)  
-1.   [Cred](https://careers.cred.club/)  
-1.   [cure.fit](https://www.cult.fit/careers)  
+2.   [cleartrip](https://careers.cleartrip.com/#!/)
+3.   [cloudera](https://www.cloudera.com/careers.html)  
+4.   [Codenation innovation labs](http://codenation.co.in/hiringprocess.html)  
+5.   [CodingNinjas](https://www.linkedin.com/jobs/coding-ninjas-jobs/?originalSubdomain=in) 
+6.   [coinDCX](https://careers.coindcx.com/)  
+7.   [coinswitch kuber](https://recruiterflow.com/coinswitch/jobs)  
+8.   [cradlepoint](https://cradlepoint.com/about-us/careers/job-listings/)  
+9.   [Cred](https://careers.cred.club/)  
+10.   [cure.fit](https://www.cult.fit/careers)  
 
 
 ## D  
@@ -120,7 +123,7 @@ This Repository contains contains the list of companies(more than FAANG) which y
 1.   [Flipkart](https://www.flipkartcareers.com/)  
 1.   [FreeCharge](https://careers.freecharge.in/)  
 1.   [Freshworks](https://www.freshworks.com/company/life-at-freshworks/careers/)
-1.   [fyle]()
+1.   [fyle](https://www.fylehq.com/company/team/join)
 
 
 ## G  
@@ -179,26 +182,22 @@ This Repository contains contains the list of companies(more than FAANG) which y
 1.   [mastercard](https://www.mastercard.us/en-us/vision/who-we-are/careers.html)  
 1.   [Media.net](https://careers.media.net/)  
 1.   [Meesho](https://careers.meesho.com/)  
-1.   [Microsoft](https://careers.microsoft.com/us/en)  
-1.   [mastercard](https://www.mastercard.us/en-us/vision/who-we-are/careers.html)  
-1.   [Media.net](https://careers.media.net/)  
-1.   [Meesho](https://careers.meesho.com/)  
-1.   [Microsoft](https://careers.microsoft.com/us/en)  
+1.   [Microsoft](https://careers.microsoft.com/us/en)        
 1.   [MobiKwik](https://mobikwik.recruiterbox.com/)  
-1. [Morgan Stanley](https://www.morganstanley.com/people-opportunities/)  
-1. [MPL](https://www.linkedin.com/jobs/mobile-premier-league-%28mpl%29-jobs/?originalSubdomain=in)    
-1.  [Myntra](https://careers.myntra.com/)  
+1.   [Morgan Stanley](https://www.morganstanley.com/people-opportunities/)  
+1.   [MPL](https://www.linkedin.com/jobs/mobile-premier-league-%28mpl%29-jobs/?originalSubdomain=in)    
+1.   [Myntra](https://careers.myntra.com/)  
 
 
 ## N  
 1.   [nagarro](https://www.nagarro.com/en/careers)  
 2.   [NASDAQ](https://www.nasdaq.com/about/careers)  
 3.   [National instruments](https://www.ni.com/en-in/about-ni/careers.html)  
-4.   [NatWest Group](https://jobs.natwestgroup.com/search/jobs/in/country/india)
-5.   [navi](https://www.navifinserv.com/life-at-chaitanya)    
-6.   [Nokia](https://www.nokia.com/about-us/careers/)  
-7.   [nurture.farm](https://nurture.farm/join-us/) 
-8.   [Nvidia](https://www.nvidia.com/en-in/about-nvidia/careers/)  
+5.   [NatWest Group](https://jobs.natwestgroup.com/search/jobs/in/country/india)
+6.   [navi](https://www.navifinserv.com/life-at-chaitanya)    
+7.   [Nokia](https://www.nokia.com/about-us/careers/)  
+8.   [nurture.farm](https://nurture.farm/join-us/) 
+9.   [Nvidia](https://www.nvidia.com/en-in/about-nvidia/careers/)  
 
 
 
@@ -215,10 +214,11 @@ This Repository contains contains the list of companies(more than FAANG) which y
 1.   [Paytm](https://paytm.com/careers/)  
 1.   [persistent systems](https://www.persistent.com/careers/)  
 1.   [PharmEasy](https://pharmeasy.in/careers/)  
-1.   [Phonepe](https://www.phonepe.com/careers/)  
-1.   [postman](https://www.postman.com/company/careers/)  
-1.   [priceline](https://careers.priceline.com/search)  
-1.   [Proximity Labs](https://www.proximity.tech/careers)  
+2.   [Phillips](https://www.careers.philips.com/professional/in/en)
+3.   [Phonepe](https://www.phonepe.com/careers/)  
+4.   [postman](https://www.postman.com/company/careers/)  
+5.   [priceline](https://careers.priceline.com/search)  
+6.   [Proximity Labs](https://www.proximity.tech/careers)  
 
 
 
@@ -290,6 +290,7 @@ This Repository contains contains the list of companies(more than FAANG) which y
       
 ## Y  
 1.   [yellow.ai](https://yellow.ai/career)  
+2.   [yugabyte](https://www.yugabyte.com/careers/)
 
 
 ## Z  
