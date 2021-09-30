@@ -19,7 +19,7 @@ This Repository contains contains the list of companies(more than FAANG) which y
  
  |Total companies added|
  |:-------------------:|
- |      160            |
+ |      161            |
  
  
  
@@ -63,17 +63,18 @@ This Repository contains contains the list of companies(more than FAANG) which y
  
  ## B  
 1.  [Barclays](https://home.barclays/careers/)
-1.  [Bellatrix Aerospace](http://www.bellatrixaerospace.com/) 
-1.  [BharatPe](https://bharatpe.com/career)  
-1.  [BigBasket](https://careers.bigbasket.com/)  
-1.  [Blackrock](https://careers.blackrock.com/)
-1.  [Bluestacks](https://www.bluestacks.com/work-at-bluestacks.html)
-1.  [BMC software](https://www.bmc.com/careers/careers.html)  
-1.  [BNY Mellon](https://jobs.bnymellon.com/)
-1.  [Boeing](https://jobs.boeing.com/)  
-1.  [Brahmastra Aerospace](https://www.brahmastraspace.org/career)
-1.  [Browser stack](https://www.browserstack.com/careers)  
-1.  [BukuWarung](https://www.notion.so/BukuWarung-Building-the-digital-infrastructure-for-60-million-MSMEs-in-Indonesia-7e8a4f614acb4c4888659f9d36179579)
+2.  [Bellatrix Aerospace](http://www.bellatrixaerospace.com/) 
+3.  [Better](https://better.com/about-us/careers)
+4.  [BharatPe](https://bharatpe.com/career)  
+5.  [BigBasket](https://careers.bigbasket.com/)  
+6.  [Blackrock](https://careers.blackrock.com/)
+7.  [Bluestacks](https://www.bluestacks.com/work-at-bluestacks.html)
+8.  [BMC software](https://www.bmc.com/careers/careers.html)  
+9.  [BNY Mellon](https://jobs.bnymellon.com/)
+10.  [Boeing](https://jobs.boeing.com/)  
+11.  [Brahmastra Aerospace](https://www.brahmastraspace.org/career)
+12.  [Browser stack](https://www.browserstack.com/careers)  
+13.  [BukuWarung](https://www.notion.so/BukuWarung-Building-the-digital-infrastructure-for-60-million-MSMEs-in-Indonesia-7e8a4f614acb4c4888659f9d36179579)
 
  ## C  
 1.   [Cadence](https://www.cadence.com/en_US/home/company/careers.html)  
@@ -167,31 +168,38 @@ This Repository contains contains the list of companies(more than FAANG) which y
 
 ## M  
 1.   [Magicpin](https://magicpin.darwinbox.in/ms/candidate/careers)  
-2.   [MakeMyTrip](https://careers.makemytrip.com/)  
-3.   [mastercard](https://www.mastercard.us/en-us/vision/who-we-are/careers.html)  
-4.   [Media.net](https://careers.media.net/)  
-5.   [Meesho](https://careers.meesho.com/)  
-6.   [Microsoft](https://careers.microsoft.com/us/en)  
-7.   [Morgan Stanley](https://www.morganstanley.com/people-opportunities/)  
-8.   [MPL](https://www.linkedin.com/jobs/mobile-premier-league-%28mpl%29-jobs/?originalSubdomain=in)    
-9.   [Myntra](https://careers.myntra.com/)  
+1.   [MakeMyTrip](https://careers.makemytrip.com/)  
+1.   [mastercard](https://www.mastercard.us/en-us/vision/who-we-are/careers.html)  
+1.   [Media.net](https://careers.media.net/)  
+1.   [Meesho](https://careers.meesho.com/)  
+1.   [Microsoft](https://careers.microsoft.com/us/en)  
+1.   [mastercard](https://www.mastercard.us/en-us/vision/who-we-are/careers.html)  
+1.   [Media.net](https://careers.media.net/)  
+1.   [Meesho](https://careers.meesho.com/)  
+1.   [Microsoft](https://careers.microsoft.com/us/en)  
+1.   [MobiKwik](https://mobikwik.recruiterbox.com/)  
+1. [Morgan Stanley](https://www.morganstanley.com/people-opportunities/)  
+1. [MPL](https://www.linkedin.com/jobs/mobile-premier-league-%28mpl%29-jobs/?originalSubdomain=in)    
+1.  [Myntra](https://careers.myntra.com/)  
 
 
 ## N  
 1.   [nagarro](https://www.nagarro.com/en/careers)  
-1.   [NASDAQ](https://www.nasdaq.com/about/careers)  
-1.   [National instruments](https://www.ni.com/en-in/about-ni/careers.html)  
-1.   [navi](https://www.navifinserv.com/life-at-chaitanya)    
-1.   [Nokia](https://www.nokia.com/about-us/careers/)  
-1.   [nurture.farm](https://nurture.farm/join-us/) 
-1.   [Nvidia](https://www.nvidia.com/en-in/about-nvidia/careers/)  
+2.   [NASDAQ](https://www.nasdaq.com/about/careers)  
+3.   [National instruments](https://www.ni.com/en-in/about-ni/careers.html)  
+4.   [NatWest Group](https://jobs.natwestgroup.com/search/jobs/in/country/india)
+5.   [navi](https://www.navifinserv.com/life-at-chaitanya)    
+6.   [Nokia](https://www.nokia.com/about-us/careers/)  
+7.   [nurture.farm](https://nurture.farm/join-us/) 
+8.   [Nvidia](https://www.nvidia.com/en-in/about-nvidia/careers/)  
 
 
 
 ## O  
-1.   [Ola](https://www.olacabs.com/careers)  
-1.   [Oracle](https://www.oracle.com/apac/corporate/careers/)  
-1.   [OYO](https://www.naukri.com/oyo-jobs-careers-2884032)  
+1.   [Ola](https://www.olacabs.com/careers) 
+2.   [Olx](https://careers.olxgroup.com/) 
+3.   [Oracle](https://www.oracle.com/apac/corporate/careers/)  
+4.   [OYO](https://www.naukri.com/oyo-jobs-careers-2884032)  
 
 
 ## P  
@@ -222,7 +230,8 @@ This Repository contains contains the list of companies(more than FAANG) which y
 1.   [Salesforce](https://www.salesforce.com/)  
 1.   [samsung](https://www.samsung.com/in/about-us/careers/)  
 1.   [SAP](https://jobs.sap.com/)  
-1.   [SendinBlue](https://jobs.sendinblue.com/en)  
+1.   [SendinBlue](https://jobs.sendinblue.com/en)
+1.   [SerpApi](https://serpapi.com/team)  
 1.   [ServiceNow](https://www.servicenow.com/careers.html)  
 1.   [Shaadi.com](https://www.naukri.com/)  
 1.   [ShareChat](https://we.sharechat.com/careers)
@@ -243,8 +252,9 @@ This Repository contains contains the list of companies(more than FAANG) which y
 1.   [texas instruments](https://careers.ti.com/)  
 1.   [thoughtWorks](https://www.thoughtworks.com/careers/jobs)  
 1.   [tower research capital](https://www.tower-research.com/positions)  
-1.   [turvo](https://turvo.com/careers/)  
-1.   [Twitter](https://careers.twitter.com/)   
+1.   [Treebo Hotels](https://www.linkedin.com/company/treebohotels/jobs/)
+3.   [turvo](https://turvo.com/careers/)  
+4.   [Twitter](https://careers.twitter.com/)   
 
 
 ## U  
