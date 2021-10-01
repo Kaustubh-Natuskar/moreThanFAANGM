@@ -273,9 +273,10 @@ This Repository contains the list of companies(more than FAANG) which you can jo
 1.   [Uber](https://www.uber.com/us/en/careers/)  
 1.   [Udaan](https://careers.udaan.com/)  
 1.   [unacadamy](https://unacademy.com/careers)  
-1.   [Upgrad](https://www.upgrad.com/us/careers/)  
-1.   [Upstox](https://jobs.lever.co/upstox)  
-1.   [Urban company](https://careers.urbancompany.com/)   
+2.   [Unicommerce](https://unicommerce.com/careers/)  
+3.   [Upgrad](https://www.upgrad.com/us/careers/)  
+4.   [Upstox](https://jobs.lever.co/upstox)  
+5.   [Urban company](https://careers.urbancompany.com/)   
 
 
 ## V  
