@@ -197,10 +197,12 @@ This Repository contains the list of companies(more than FAANG) which you can jo
 2.   [NASDAQ](https://www.nasdaq.com/about/careers)  
 3.   [National instruments](https://www.ni.com/en-in/about-ni/careers.html)  
 5.   [NatWest Group](https://jobs.natwestgroup.com/search/jobs/in/country/india)
-6.   [navi](https://www.navifinserv.com/life-at-chaitanya)    
-7.   [Nokia](https://www.nokia.com/about-us/careers/)  
-8.   [nurture.farm](https://nurture.farm/join-us/) 
-9.   [Nvidia](https://www.nvidia.com/en-in/about-nvidia/careers/)  
+6.   [navi](https://www.navifinserv.com/life-at-chaitanya)  
+7.   [NetApp](https://www.netapp.com/company/careers/)      
+8.   [Nokia](https://www.nokia.com/about-us/careers/)  
+9.   [nurture.farm](https://nurture.farm/join-us/)  
+10.   [Nutanix](https://www.nutanix.com/company/careers)   
+11.   [Nvidia](https://www.nvidia.com/en-in/about-nvidia/careers/)  
 
 
 
