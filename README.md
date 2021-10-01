@@ -1,11 +1,11 @@
 # Good Product Base Companies & start-up's 
 
-This Repository contains contains the list of companies(more than FAANG) which you can join!
+This Repository contains the list of companies(more than FAANG) which you can join!
 
 
 
 
-## find companies Alphabetically
+## Find Companies Alphabetically
  |      |    |    |    |
  |  --- |--- | ---|--- |
  |    [A](#A) |  [B](#B) |  [C](#C) | [D](#D)  |  
@@ -19,7 +19,7 @@ This Repository contains contains the list of companies(more than FAANG) which y
  
  |Total companies added|
  |:-------------------:|
- |      184            |
+ |      185            |
  
  
  
@@ -72,14 +72,15 @@ This Repository contains contains the list of companies(more than FAANG) which y
 3.  [Better](https://better.com/about-us/careers)
 4.  [BharatPe](https://bharatpe.com/career)  
 5.  [BigBasket](https://careers.bigbasket.com/)  
-6.  [Blackrock](https://careers.blackrock.com/)
-7.  [Bluestacks](https://www.bluestacks.com/work-at-bluestacks.html)
-8.  [BMC software](https://www.bmc.com/careers/careers.html)  
-9.  [BNY Mellon](https://jobs.bnymellon.com/)
-10.  [Boeing](https://jobs.boeing.com/)  
-11.  [Brahmastra Aerospace](https://www.brahmastraspace.org/career)
-12.  [Browser stack](https://www.browserstack.com/careers)  
-13.  [BukuWarung](https://www.notion.so/BukuWarung-Building-the-digital-infrastructure-for-60-million-MSMEs-in-Indonesia-7e8a4f614acb4c4888659f9d36179579)
+6.  [BlackBuck](https://www.blackbuck.com/careers.php)
+7.  [Blackrock](https://careers.blackrock.com/)
+8.  [Bluestacks](https://www.bluestacks.com/work-at-bluestacks.html)
+9.  [BMC software](https://www.bmc.com/careers/careers.html)  
+10.  [BNY Mellon](https://jobs.bnymellon.com/)
+11.  [Boeing](https://jobs.boeing.com/)  
+12.  [Brahmastra Aerospace](https://www.brahmastraspace.org/career)
+13.  [Browser stack](https://www.browserstack.com/careers)  
+14.  [BukuWarung](https://www.notion.so/BukuWarung-Building-the-digital-infrastructure-for-60-million-MSMEs-in-Indonesia-7e8a4f614acb4c4888659f9d36179579)
 
  ## C  
 1.   [Cadence](https://www.cadence.com/en_US/home/company/careers.html)  
