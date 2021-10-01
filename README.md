@@ -1,4 +1,4 @@
-# Good Product Base Companies & start-up's 
+# Good Product Based Companies & Startups 
 
 This Repository contains the list of companies(more than FAANG) which you can join!
 
@@ -19,7 +19,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
  
  |Total companies added|
  |:-------------------:|
- |      185            |
+ |      196            |
  
  
  
@@ -84,6 +84,8 @@ This Repository contains the list of companies(more than FAANG) which you can jo
 
  ## C  
 1.   [Cadence](https://www.cadence.com/en_US/home/company/careers.html)  
+2.   [Celigo](https://www.celigo.com/company/careers/)  
+3.   [Chronus](https://chronus.com/about-us/careers)  
 1.   [cisco](https://jobs.cisco.com/)  
 1.   [citrix](https://jobs.citrix.com/)  
 2.   [cleartrip](https://careers.cleartrip.com/#!/)
@@ -112,6 +114,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
 
 
 ## E  
+1.   [Eurofins](https://careers.eurofins.com/in/)  
 1.   [Expedia](https://lifeatexpediagroup.com/jobs/)  
 1.   [EY](https://careers.ey.com/)  
 
@@ -130,6 +133,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
 ## G  
 1.   [Garuda Aerospace private Ltd](https://www.garudaaerospace.com/)
 1.   [GeeksForGeeks](https://www.geeksforgeeks.org/careers/?)
+1.   [Ghost](https://careers.ghost.org/)
 1.   [Github](https://github.com/about/careers)
 1.   [Godrej Aerospace](https://www.godrej.com/godrejandboyce/gnb-careers)
 1.   [Gojek](https://career.gojek.com/)  
@@ -152,6 +156,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
 1.   [Indeed](https://in.indeed.com/cmp/Indeed)
 1.   [Informatica](https://informatica.gr8people.com/jobs)    
 1.   [inmobi](https://www.inmobi.com/company/careers/)  
+1.   [Innovaccer](https://innovaccer.com/careers/)  
 1.   [Intel](https://www.intel.com/content/www/us/en/jobs/jobs-at-intel.html)  
 1.   [Intuit](https://www.intuit.com/careers/)  
 1.   [ISRO](https://www.isro.gov.in/careers)  
@@ -193,7 +198,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
 
 
 ## N  
-1.   [nagarro](https://www.nagarro.com/en/careers)  
+1.   [Nagarro](https://www.nagarro.com/en/careers)  
 2.   [NASDAQ](https://www.nasdaq.com/about/careers)  
 3.   [National instruments](https://www.ni.com/en-in/about-ni/careers.html)  
 5.   [NatWest Group](https://jobs.natwestgroup.com/search/jobs/in/country/india)
@@ -273,12 +278,17 @@ This Repository contains the list of companies(more than FAANG) which you can jo
 
 ## U  
 1.   [Uber](https://www.uber.com/us/en/careers/)  
-1.   [Udaan](https://careers.udaan.com/)  
-1.   [unacadamy](https://unacademy.com/careers)  
-2.   [Unicommerce](https://unicommerce.com/careers/)  
-3.   [Upgrad](https://www.upgrad.com/us/careers/)  
-4.   [Upstox](https://jobs.lever.co/upstox)  
-5.   [Urban company](https://careers.urbancompany.com/)   
+1.   [Udaan](https://careers.udaan.com/)    
+1.   [unacadamy](https://unacademy.com/careers)    
+1.   [Unicommerce](https://unicommerce.com/careers/)    
+1.   [Unisys](https://jobs.unisys.com/us/en)    
+1.   [Upgrad](https://www.upgrad.com/us/careers/)    
+1.   [Upstox](https://jobs.lever.co/upstox)    
+1.   [Urban company](https://careers.urbancompany.com/)     
+1.   [Unicommerce](https://unicommerce.com/careers/)    
+1.   [Upgrad](https://www.upgrad.com/us/careers/)    
+1.   [Upstox](https://jobs.lever.co/upstox)    
+1.   [Urban company](https://careers.urbancompany.com/)     
 
 
 ## V  
@@ -287,8 +297,9 @@ This Repository contains the list of companies(more than FAANG) which you can jo
 
 # W  
 1.   [Walmart](https://careers.walmart.com/technology)  
-1.   [Well fargo](https://www.wellsfargo.com/about/careers/)  
-1.   [westernDigital](https://jobs.westerndigital.com/) 
+1.   [Wells Fargo](https://www.wellsfargo.com/about/careers/)  
+1.   [Western Digital](https://jobs.westerndigital.com/)  
+1.   [Whatfix](https://whatfix.com/careers/)
 1.   [worldQuant](https://www.worldquant.com/careers/)  
 
 
@@ -306,6 +317,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
 1.   [Zeta](https://careers.zeta.tech/work-with-us/)  
 1.   [zoho](https://careers.zohocorp.com/jobs/Careers)   
 1.   [Zomato](https://www.zomato.com/careers)  
+1.   [ZS](https://jobs.zs.com/all/jobs)  
 
 
  
