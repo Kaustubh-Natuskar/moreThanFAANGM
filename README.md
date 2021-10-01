@@ -19,7 +19,7 @@ This Repository contains contains the list of companies(more than FAANG) which y
  
  |Total companies added|
  |:-------------------:|
- |      180            |
+ |      184            |
  
  
  
@@ -129,6 +129,7 @@ This Repository contains contains the list of companies(more than FAANG) which y
 ## G  
 1.   [Garuda Aerospace private Ltd](https://www.garudaaerospace.com/)
 1.   [GeeksForGeeks](https://www.geeksforgeeks.org/careers/?)
+1.   [Github](https://github.com/about/careers)
 1.   [Godrej Aerospace](https://www.godrej.com/godrejandboyce/gnb-careers)
 1.   [Gojek](https://career.gojek.com/)  
 1.   [goldman Sachs](https://www.goldmansachs.com/careers/)  
@@ -166,7 +167,8 @@ This Repository contains contains the list of companies(more than FAANG) which y
 
 ## K  
 1.   [kesari bharat](https://www.linkedin.com/in/deepak-sharda-6594561b1/)  
-1.   [khatabook](https://khatabook.com/hiring)  
+1.   [khatabook](https://khatabook.com/hiring)
+1.   [KLA Tencor](https://www.kla-tencor.com/careers)  
 
 
 ## L  
@@ -245,7 +247,8 @@ This Repository contains contains the list of companies(more than FAANG) which y
 1.   [shell](https://www.shell.com/careers.html)  
 1.   [Skyroot Aerospace](https://skyroot.in/join/) 
 3.   [Spinny](https://spinny.freshteam.com/jobs)  
-3.   [sprinklr](https://www.sprinklr.com/careers/)  
+3.   [sprinklr](https://www.sprinklr.com/careers/)
+3.   [Stripe](https://stripe.com/in/jobs)  
 4.   [Swiggy](https://careers.swiggy.com/)  
 5.   [synopsys](https://www.synopsys.com/careers.html)  
 
@@ -260,7 +263,8 @@ This Repository contains contains the list of companies(more than FAANG) which y
 1.   [thoughtWorks](https://www.thoughtworks.com/careers/jobs)  
 1.   [tower research capital](https://www.tower-research.com/positions)  
 1.   [Treebo Hotels](https://www.linkedin.com/company/treebohotels/jobs/)
-3.   [turvo](https://turvo.com/careers/)  
+3.   [turvo](https://turvo.com/careers/)
+3.   [Twilio](https://www.twilio.com/company/jobs)  
 4.   [Twitter](https://careers.twitter.com/)   
 
 
