@@ -287,8 +287,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
 1.   [Urban company](https://careers.urbancompany.com/)     
 1.   [Unicommerce](https://unicommerce.com/careers/)    
 1.   [Upgrad](https://www.upgrad.com/us/careers/)    
-1.   [Upstox](https://jobs.lever.co/upstox)    
-1.   [Urban company](https://careers.urbancompany.com/)     
+1.   [Upstox](https://jobs.lever.co/upstox)   
 
 
 ## V  
