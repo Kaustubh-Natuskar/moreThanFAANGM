@@ -19,7 +19,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
  
  |Total companies added|
  |:-------------------:|
- |      196            |
+ |      197            |
  
  
  
@@ -139,7 +139,8 @@ This Repository contains the list of companies(more than FAANG) which you can jo
 1.   [Gojek](https://career.gojek.com/)  
 1.   [goldman Sachs](https://www.goldmansachs.com/careers/)  
 1.   [Google](https://careers.google.com/)  
-1.   [Grab](https://grab.careers/)  
+1.   [Grab](https://grab.careers/) 
+1.   [graviton research capital llp](https://www.gravitontrading.com/)
 1.   [Grofers](https://grofers.com/careers/)  
 1.   [groww](https://groww.skillate.com/)  
 
