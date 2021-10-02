@@ -282,13 +282,11 @@ Please refer to the [Guidelines](#Guidelines) before contributing.
 1.   [unacadamy](https://unacademy.com/careers)    
 1.   [Unicommerce](https://unicommerce.com/careers/)    
 1.   [Unisys](https://jobs.unisys.com/us/en)    
-1.   [Upgrad](https://www.upgrad.com/us/careers/)    
-1.   [Upstox](https://jobs.lever.co/upstox)    
+1.   [Upgrad](https://www.upgrad.com/us/careers/)   
+1.   [Upstox](https://jobs.lever.co/upstox)      
 1.   [Urban company](https://careers.urbancompany.com/)     
-1.   [Unicommerce](https://unicommerce.com/careers/)    
-1.   [Upgrad](https://www.upgrad.com/us/careers/)    
-1.   [Upstox](https://jobs.lever.co/upstox)    
-1.   [Urban company](https://careers.urbancompany.com/)     
+    
+   
 
 
 ## V  
