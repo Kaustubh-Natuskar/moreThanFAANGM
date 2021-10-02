@@ -1,6 +1,7 @@
 # Good Product Based Companies & Startups 
 
 This Repository contains the list of companies(more than FAANG) which you can join!
+Please refer to the [Guidelines](#Guidelines) before contributing. 
 
 
 
@@ -13,8 +14,8 @@ This Repository contains the list of companies(more than FAANG) which you can jo
  |    [I](#I) |  [J](#J) |  [K](#K) | [L](#L)  |  
  |    [M](#M) |  [N](#N) |  [O](#O) | [P](#P)  |  
  |    [Q](#Q) |  [R](#R) |  [S](#S) | [T](#T)  |  
- |    [U](#U) |  [V](#V) |  [W](#W) |    |  
- |    [X](#X) |  [Y](#Y) |  [Z](#Z) |    | 
+ |    [U](#U) |  [V](#V) |  [W](#W) | [X](#X)  |  
+ |    [Y](#Y) |  [Z](#Z) |   [0-9](#0-9)     | 
  
  
  |Total companies added|
@@ -27,10 +28,9 @@ This Repository contains the list of companies(more than FAANG) which you can jo
  
  
  
- 
+
  
  ## A  
-1. [1 mg](https://www.1mg.com/jobs)  
 1. [Accolite software](https://www.accolite.com/careers)  
 2. [Accord software](https://accord-global.com/careers.html)
 3. [Adobe](https://www.adobe.com/careers.html)    
@@ -319,7 +319,8 @@ This Repository contains the list of companies(more than FAANG) which you can jo
 1.   [Zomato](https://www.zomato.com/careers)  
 1.   [ZS](https://jobs.zs.com/all/jobs)  
 
-
+ ## 0-9  
+1.   [1 mg](https://www.1mg.com/jobs)  
  
  
  
@@ -337,15 +338,17 @@ This Repository contains the list of companies(more than FAANG) which you can jo
  
 
 
+  
 
-## How can I Contribute to add more companies?
+## Guidelines
   
 
 1.   Fork the repository.  
 1.   Read this [Article](https://guides.github.com/features/mastering-markdown/) about Markdown.  
 1.   Download [this](https://docs.google.com/spreadsheets/d/11uI5wwJCMVpL7jSva6pRAgVWg-I-IN_9-yDrks2ZZ3w/edit#gid=0) sheet to find the right place for the company you want to add.  
 1.   Add the company STRICTLY in the increasing alphabetical order. See this small [article](https://support.google.com/docs/answer/3540681?hl=en&co=GENIE.Platform%3DAndroid).  
-1.   Don't forgot to increase the count.  
+1.   Please don't add the numbering in logical order. Keep every number equal to ```1```. Markdown handles the numbering on its own. 
+1.   Don't forget to increase the count.  
 1.   Make a pull request.   
 
 
