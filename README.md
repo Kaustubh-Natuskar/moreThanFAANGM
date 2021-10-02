@@ -19,7 +19,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
  
  |Total companies added|
  |:-------------------:|
- |      196            |
+ |      197           |
  
  
  
@@ -292,8 +292,9 @@ This Repository contains the list of companies(more than FAANG) which you can jo
 
 
 ## V  
-1.   [Visa](https://www.visa.co.in/careers.html)  
-1.   [Vmware](https://careers.vmware.com/main/)  
+1.   [VideoAmp](https://videoamp.com/jobs/)
+2.   [Visa](https://www.visa.co.in/careers.html)  
+3.   [Vmware](https://careers.vmware.com/main/)  
 
 # W  
 1.   [Walmart](https://careers.walmart.com/technology)  
