@@ -152,6 +152,7 @@ This Repository contains contains the list of companies(more than FAANG) which y
 ## K  
 * [kesari bharat](https://www.linkedin.com/in/deepak-sharda-6594561b1/)  
 * [khatabook](https://khatabook.com/hiring)  
+* [Khoros](https://khoros.com/about/careers)
 
 
 ## L  
