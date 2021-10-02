@@ -13,8 +13,8 @@ This Repository contains the list of companies(more than FAANG) which you can jo
  |    [I](#I) |  [J](#J) |  [K](#K) | [L](#L)  |  
  |    [M](#M) |  [N](#N) |  [O](#O) | [P](#P)  |  
  |    [Q](#Q) |  [R](#R) |  [S](#S) | [T](#T)  |  
- |    [U](#U) |  [V](#V) |  [W](#W) |    |  
- |    [X](#X) |  [Y](#Y) |  [Z](#Z) |    | 
+ |    [U](#U) |  [V](#V) |  [W](#W) | [X](#X)  |  
+ |    [Y](#Y) |  [Z](#Z) |   [0-9](#0-9)     | 
  
  
  |Total companies added|
@@ -27,10 +27,9 @@ This Repository contains the list of companies(more than FAANG) which you can jo
  
  
  
- 
+
  
  ## A  
-1. [1 mg](https://www.1mg.com/jobs)  
 1. [Accolite software](https://www.accolite.com/careers)  
 2. [Accord software](https://accord-global.com/careers.html)
 3. [Adobe](https://www.adobe.com/careers.html)    
@@ -319,7 +318,8 @@ This Repository contains the list of companies(more than FAANG) which you can jo
 1.   [Zomato](https://www.zomato.com/careers)  
 1.   [ZS](https://jobs.zs.com/all/jobs)  
 
-
+ ## 0-9  
+1.   [1 mg](https://www.1mg.com/jobs)  
  
  
  
