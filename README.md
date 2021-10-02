@@ -169,6 +169,7 @@ This Repository contains contains the list of companies(more than FAANG) which y
 * [Morgan Stanley](https://www.morganstanley.com/people-opportunities/)  
 * [MPL](https://www.linkedin.com/jobs/mobile-premier-league-%28mpl%29-jobs/?originalSubdomain=in)    
 * [Myntra](https://careers.myntra.com/)  
+* [Micron](https://in.micron.com/careers)
 
 
 ## N  
