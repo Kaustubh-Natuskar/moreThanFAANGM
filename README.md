@@ -20,7 +20,7 @@ Please refer to the [Guidelines](#Guidelines) before contributing.
  
  |Total companies added|
  |:-------------------:|
- |      210            |
+ |      217            |
  
  
  
@@ -108,6 +108,7 @@ Please refer to the [Guidelines](#Guidelines) before contributing.
 1.   [Dhruva Space](https://angel.co/company/dhruvaspace)
 1.   [Directi](https://careers.directi.com/)  
 1.   [discovery inc](https://jobs.discovery.com/careers-home/)  
+1.   [DP World](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions)  
 1.   [DRDO](https://www.drdo.gov.in/careers)
 1.   [Dream11](https://www.dreamsports.group/careers)  
 1.   [Druva](https://www.druva.com/about/careers/)  
@@ -123,10 +124,11 @@ Please refer to the [Guidelines](#Guidelines) before contributing.
 
 ## F  
 1.   [facebook](https://www.facebook.com/careers/jobs/)  
-1.   [Fractal](https://fractal.ai/job-openings/)  
 1.   [Fidelity investments](https://jobs.fidelity.com/)  
 1.   [fireEye inc](https://www.fireeye.com/company/jobs.html)  
+1.   [Fischer Jordan](https://fischerjordan.com/careers/)  
 1.   [Flipkart](https://www.flipkartcareers.com/)  
+1.   [Fractal](https://fractal.ai/job-openings/)  
 1.   [Frappe Technologies](https://frappe.io/careers)
 1.   [FreeCharge](https://careers.freecharge.in/)  
 1.   [Freshworks](https://www.freshworks.com/company/life-at-freshworks/careers/)
@@ -136,6 +138,7 @@ Please refer to the [Guidelines](#Guidelines) before contributing.
 ## G  
 1.   [Garuda Aerospace private Ltd](https://www.garudaaerospace.com/)
 1.   [GeeksForGeeks](https://www.geeksforgeeks.org/careers/?)
+1.   [GE Healthcare](https://jobs.gecareers.com/healthcare/global/en)
 1.   [Ghost](https://careers.ghost.org/)
 1.   [Github](https://github.com/about/careers)
 1.   [Godrej Aerospace](https://www.godrej.com/godrejandboyce/gnb-careers)
@@ -158,6 +161,7 @@ Please refer to the [Guidelines](#Guidelines) before contributing.
 ## I  
 1.   [IBM](https://www.ibm.com/in-en/employment/)
 1.   [ideaForge](https://www.ideaforge.co.in/career/)  
+1.   [Impact Analytics](https://www.impactanalytics.co/join-us/)
 1.   [Indeed](https://in.indeed.com/cmp/Indeed)
 1.   [Informatica](https://informatica.gr8people.com/jobs)    
 1.   [inmobi](https://www.inmobi.com/company/careers/)  
@@ -195,7 +199,9 @@ Please refer to the [Guidelines](#Guidelines) before contributing.
 1.   [mastercard](https://www.mastercard.us/en-us/vision/who-we-are/careers.html)  
 1.   [Media.net](https://careers.media.net/)  
 1.   [Meesho](https://careers.meesho.com/)  
+1.   [Micron](https://micron.eightfold.ai/careers)
 1.   [Microsoft](https://careers.microsoft.com/us/en)        
+1.   [MindTickle](https://www.mindtickle.com/careers/)
 1.   [MobiKwik](https://mobikwik.recruiterbox.com/)  
 1.   [Morgan Stanley](https://www.morganstanley.com/people-opportunities/)  
 1.   [MPL](https://www.linkedin.com/jobs/mobile-premier-league-%28mpl%29-jobs/?originalSubdomain=in)    
