@@ -108,15 +108,17 @@ Please refer to the [Guidelines](#Guidelines) before contributing.
 1.   [Dhruva Space](https://angel.co/company/dhruvaspace)
 1.   [Directi](https://careers.directi.com/)  
 1.   [discovery inc](https://jobs.discovery.com/careers-home/)  
-1.   [Dream11](https://www.dreamsports.group/careers)  
-1.   [Druva](https://www.druva.com/about/careers/)  
-1.   [Dunzo](https://www.dunzo.com/careers#jobs)     
+2.   [DRDO](https://www.drdo.gov.in/careers)
+3.   [Dream11](https://www.dreamsports.group/careers)  
+4.   [Druva](https://www.druva.com/about/careers/)  
+5.   [Dunzo](https://www.dunzo.com/careers#jobs)     
 
 
 ## E  
 1.   [Eurofins](https://careers.eurofins.com/in/)  
 1.   [Expedia](https://lifeatexpediagroup.com/jobs/)  
 1.   [EY](https://careers.ey.com/)  
+2.   [EyeROV](https://www.eyerov.com/careers/)
 
 
 ## F  
@@ -146,21 +148,23 @@ Please refer to the [Guidelines](#Guidelines) before contributing.
 
 
 ## H  
-1.   [healthify me](https://www.healthifyme.com/careers/)  
-1.   [HERE](https://www.here.com/careers)  
-1.   [Hotstar](https://tech.hotstar.com/)  
-1.   [HP](https://jobs.hp.com/)  
+1.   [hackerearth](https://www.hackerearth.com/careers/)
+2.   [healthify me](https://www.healthifyme.com/careers/)  
+3.   [HERE](https://www.here.com/careers)  
+4.   [Hotstar](https://tech.hotstar.com/)  
+5.   [HP](https://jobs.hp.com/)  
 
 
 ## I  
-1.   [IBM](https://www.ibm.com/in-en/employment/)  
-1.   [Indeed](https://in.indeed.com/cmp/Indeed)
-1.   [Informatica](https://informatica.gr8people.com/jobs)    
-1.   [inmobi](https://www.inmobi.com/company/careers/)  
-1.   [Innovaccer](https://innovaccer.com/careers/)  
-1.   [Intel](https://www.intel.com/content/www/us/en/jobs/jobs-at-intel.html)  
-1.   [Intuit](https://www.intuit.com/careers/)  
-1.   [ISRO](https://www.isro.gov.in/careers)  
+1.   [IBM](https://www.ibm.com/in-en/employment/)
+2.   [ideaForge](https://www.ideaforge.co.in/career/)  
+3.   [Indeed](https://in.indeed.com/cmp/Indeed)
+4.   [Informatica](https://informatica.gr8people.com/jobs)    
+5.   [inmobi](https://www.inmobi.com/company/careers/)  
+6.   [Innovaccer](https://innovaccer.com/careers/)  
+7.   [Intel](https://www.intel.com/content/www/us/en/jobs/jobs-at-intel.html)  
+8.   [Intuit](https://www.intuit.com/careers/)  
+9.   [ISRO](https://www.isro.gov.in/careers)  
 
 
 ## J  
