@@ -118,6 +118,7 @@ Please refer to the [Guidelines](#Guidelines) before contributing.
 
 
 ## E  
+1.   [Envestnet Yoodlee](https://www.yodlee.com/oceania/india-careers) 
 1.   [Eurofins](https://careers.eurofins.com/in/)  
 1.   [Expedia](https://lifeatexpediagroup.com/jobs/)  
 1.   [EY](https://careers.ey.com/)  
