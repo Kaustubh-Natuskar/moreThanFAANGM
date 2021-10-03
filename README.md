@@ -20,7 +20,7 @@ Please refer to the [Guidelines](#Guidelines) before contributing.
  
  |Total companies added|
  |:-------------------:|
- |      196            |
+ |      197            |
  
  
  
@@ -125,6 +125,7 @@ Please refer to the [Guidelines](#Guidelines) before contributing.
 1.   [Fidelity investments](https://jobs.fidelity.com/)  
 1.   [fireEye inc](https://www.fireeye.com/company/jobs.html)  
 1.   [Flipkart](https://www.flipkartcareers.com/)  
+1.   [Frappe Technologies](https://frappe.io/careers)
 1.   [FreeCharge](https://careers.freecharge.in/)  
 1.   [Freshworks](https://www.freshworks.com/company/life-at-freshworks/careers/)
 1.   [fyle](https://www.fylehq.com/company/team/join)
