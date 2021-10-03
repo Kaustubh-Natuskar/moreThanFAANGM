@@ -232,8 +232,9 @@ Please refer to the [Guidelines](#Guidelines) before contributing.
 2.   [Phillips](https://www.careers.philips.com/professional/in/en)
 3.   [Phonepe](https://www.phonepe.com/careers/)  
 4.   [postman](https://www.postman.com/company/careers/)  
-5.   [priceline](https://careers.priceline.com/search)  
-6.   [Proximity Labs](https://www.proximity.tech/careers)  
+5.   [Practo](https://practo.app.param.ai/jobs)
+6.   [priceline](https://careers.priceline.com/search)  
+7.   [Proximity Labs](https://www.proximity.tech/careers)  
 
 
 
