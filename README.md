@@ -20,7 +20,7 @@ Please refer to the [Guidelines](#Guidelines) before contributing.
  
  |Total companies added|
  |:-------------------:|
- |      203            |
+ |      210            |
  
  
  
@@ -208,7 +208,9 @@ Please refer to the [Guidelines](#Guidelines) before contributing.
 3.   [National instruments](https://www.ni.com/en-in/about-ni/careers.html)  
 5.   [NatWest Group](https://jobs.natwestgroup.com/search/jobs/in/country/india)
 6.   [navi](https://www.navifinserv.com/life-at-chaitanya)  
+1.   [NCR Corporation](https://www.ncr.com/careers)
 7.   [NetApp](https://www.netapp.com/company/careers/)      
+1.   [Netcracker](https://www.netcracker.com/careers/)
 8.   [Nokia](https://www.nokia.com/about-us/careers/)  
 9.   [nurture.farm](https://nurture.farm/join-us/)  
 10.   [Nutanix](https://www.nutanix.com/company/careers)   
@@ -227,6 +229,7 @@ Please refer to the [Guidelines](#Guidelines) before contributing.
 1.   [park+](https://parkplus.io/we-are-hiring#hiring)  
 1.   [Paypal](https://www.paypal.com/in/webapps/mpp/jobs)  
 1.   [Paytm](https://paytm.com/careers/)  
+1.   [PayU](https://payu.in/careers)
 1.   [persistent systems](https://www.persistent.com/careers/)  
 1.   [PharmEasy](https://pharmeasy.in/careers/)  
 1.   [Phillips](https://www.careers.philips.com/professional/in/en)
@@ -234,7 +237,9 @@ Please refer to the [Guidelines](#Guidelines) before contributing.
 1.   [postman](https://www.postman.com/company/careers/)  
 1.   [Practo](https://practo.app.param.ai/jobs)
 1.   [priceline](https://careers.priceline.com/search)  
+1.   [Providence Healthcare](https://www.providencehealthcare.org/careers)
 1.   [Proximity Labs](https://www.proximity.tech/careers)  
+1.   [Publicis Sapient](https://careers.publicissapient.com/)
 
 
 
@@ -259,6 +264,7 @@ Please refer to the [Guidelines](#Guidelines) before contributing.
 1.   [Shaadi.com](https://www.naukri.com/)  
 1.   [ShareChat](https://we.sharechat.com/careers)
 1.   [shell](https://www.shell.com/careers.html)  
+1.   [Siemens](https://new.siemens.com/global/en/company/jobs/our-locations/india.html)
 1.   [Skyroot Aerospace](https://skyroot.in/join/) 
 3.   [Spinny](https://spinny.freshteam.com/jobs)  
 3.   [sprinklr](https://www.sprinklr.com/careers/)
@@ -273,6 +279,7 @@ Please refer to the [Guidelines](#Guidelines) before contributing.
 1.   [TATA Advanced Sysytems Ltd](https://www.tataadvancedsystems.com/careers.php)
 1.   [TEK Systems](https://www.teksystems.com/en-in/careers)
 1.   [Tekion corp](https://tekion.com/careers)  
+1.   [Teradata](https://careers.teradata.com/)
 1.   [texas instruments](https://careers.ti.com/)  
 1.   [thoughtWorks](https://www.thoughtworks.com/careers/jobs)  
 1.   [tower research capital](https://www.tower-research.com/positions)  
