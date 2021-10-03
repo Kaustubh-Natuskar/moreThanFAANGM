@@ -20,7 +20,7 @@ Please refer to the [Guidelines](#Guidelines) before contributing.
  
  |Total companies added|
  |:-------------------:|
- |      202            |
+ |      203            |
  
  
  
@@ -229,11 +229,12 @@ Please refer to the [Guidelines](#Guidelines) before contributing.
 1.   [Paytm](https://paytm.com/careers/)  
 1.   [persistent systems](https://www.persistent.com/careers/)  
 1.   [PharmEasy](https://pharmeasy.in/careers/)  
-2.   [Phillips](https://www.careers.philips.com/professional/in/en)
-3.   [Phonepe](https://www.phonepe.com/careers/)  
-4.   [postman](https://www.postman.com/company/careers/)  
-5.   [priceline](https://careers.priceline.com/search)  
-6.   [Proximity Labs](https://www.proximity.tech/careers)  
+1.   [Phillips](https://www.careers.philips.com/professional/in/en)
+1.   [Phonepe](https://www.phonepe.com/careers/)  
+1.   [postman](https://www.postman.com/company/careers/)  
+1.   [Practo](https://practo.app.param.ai/jobs)
+1.   [priceline](https://careers.priceline.com/search)  
+1.   [Proximity Labs](https://www.proximity.tech/careers)  
 
 
 
