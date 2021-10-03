@@ -67,20 +67,21 @@ Please refer to the [Guidelines](#Guidelines) before contributing.
  
  
  ## B  
-1.  [Barclays](https://home.barclays/careers/)
-2.  [Bellatrix Aerospace](http://www.bellatrixaerospace.com/) 
-3.  [Better](https://better.com/about-us/careers)
-4.  [BharatPe](https://bharatpe.com/career)  
-5.  [BigBasket](https://careers.bigbasket.com/)  
-6.  [BlackBuck](https://www.blackbuck.com/careers.php)
-7.  [Blackrock](https://careers.blackrock.com/)
-8.  [Bluestacks](https://www.bluestacks.com/work-at-bluestacks.html)
-9.  [BMC software](https://www.bmc.com/careers/careers.html)  
-10.  [BNY Mellon](https://jobs.bnymellon.com/)
-11.  [Boeing](https://jobs.boeing.com/)  
-12.  [Brahmastra Aerospace](https://www.brahmastraspace.org/career)
-13.  [Browser stack](https://www.browserstack.com/careers)  
-14.  [BukuWarung](https://www.notion.so/BukuWarung-Building-the-digital-infrastructure-for-60-million-MSMEs-in-Indonesia-7e8a4f614acb4c4888659f9d36179579)
+1.  [Bain & Co](https://www.bain.com/careers/)
+2.  [Barclays](https://home.barclays/careers/)
+3.  [Bellatrix Aerospace](http://www.bellatrixaerospace.com/) 
+4.  [Better](https://better.com/about-us/careers)
+5.  [BharatPe](https://bharatpe.com/career)  
+6.  [BigBasket](https://careers.bigbasket.com/)  
+7.  [BlackBuck](https://www.blackbuck.com/careers.php)
+8.  [Blackrock](https://careers.blackrock.com/)
+9.  [Bluestacks](https://www.bluestacks.com/work-at-bluestacks.html)
+10.  [BMC software](https://www.bmc.com/careers/careers.html)  
+11.  [BNY Mellon](https://jobs.bnymellon.com/)
+12.  [Boeing](https://jobs.boeing.com/)  
+13.  [Brahmastra Aerospace](https://www.brahmastraspace.org/career)
+14.  [Browser stack](https://www.browserstack.com/careers)  
+15.  [BukuWarung](https://www.notion.so/BukuWarung-Building-the-digital-infrastructure-for-60-million-MSMEs-in-Indonesia-7e8a4f614acb4c4888659f9d36179579)
 
  ## C  
 1.   [Cadence](https://www.cadence.com/en_US/home/company/careers.html)  
@@ -95,8 +96,9 @@ Please refer to the [Guidelines](#Guidelines) before contributing.
 6.   [coinDCX](https://careers.coindcx.com/)  
 7.   [coinswitch kuber](https://recruiterflow.com/coinswitch/jobs)  
 8.   [cradlepoint](https://cradlepoint.com/about-us/careers/job-listings/)  
-9.   [Cred](https://careers.cred.club/)  
-10.   [cure.fit](https://www.cult.fit/careers)  
+9.   [Crowdstrike](https://www.crowdstrike.com/careers/10.) 
+10.  [Cred](https://careers.cred.club/)  
+11.  [cure.fit](https://www.cult.fit/careers)  
 
 
 ## D  
@@ -146,8 +148,9 @@ Please refer to the [Guidelines](#Guidelines) before contributing.
 1.   [goldman Sachs](https://www.goldmansachs.com/careers/)  
 1.   [Google](https://careers.google.com/)  
 1.   [Grab](https://grab.careers/)  
-1.   [Grofers](https://grofers.com/careers/)  
-1.   [groww](https://groww.skillate.com/)  
+2.   [Grant Thornton](https://www.grantthornton.com/careers.aspx)
+3.   [Grofers](https://grofers.com/careers/)  
+4.   [groww](https://groww.skillate.com/)  
 
 
 ## H  
@@ -319,9 +322,8 @@ Please refer to the [Guidelines](#Guidelines) before contributing.
 1.   [Whatfix](https://whatfix.com/careers/)
 1.   [worldQuant](https://www.worldquant.com/careers/)  
 
-
 ## X  
-  
+1.   [Xiaomi](https://xiaomi.app.param.ai/jobs/)
     
       
 ## Y  
