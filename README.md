@@ -341,7 +341,7 @@ Please refer to the [Guidelines](#Guidelines) before contributing.
 ## Guidelines
   
 
-Refer [rules](https://github.com/Kaustubh-Natuskar/companies-to-apply/blob/main/rules.txt)
+Refer [rules](https://github.com/Kaustubh-Natuskar/companies-to-apply/blob/main/GUIDELINES.MD)
 
   
   
