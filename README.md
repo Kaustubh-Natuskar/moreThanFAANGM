@@ -20,7 +20,7 @@ Please refer to the [Guidelines](#Guidelines) before contributing.
  
  |Total companies added|
  |:-------------------:|
- |      201            |
+ |      202            |
  
  
  
@@ -324,7 +324,7 @@ Please refer to the [Guidelines](#Guidelines) before contributing.
 
  ## 0-9  
 1.   [1 mg](https://www.1mg.com/jobs)  
- 
+2.   [3i Infotech](3i-infotech.com/careers/) 
  
  
  
