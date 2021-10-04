@@ -20,7 +20,7 @@ Please refer to the [Guidelines](#Guidelines) before contributing.
  
  |Total companies added|
  |:-------------------:|
- |      217            |
+ |      219           |
  
  
  
@@ -229,6 +229,7 @@ Please refer to the [Guidelines](#Guidelines) before contributing.
 2.   [Olx](https://careers.olxgroup.com/) 
 3.   [Oracle](https://www.oracle.com/apac/corporate/careers/)  
 4.   [OYO](https://www.naukri.com/oyo-jobs-careers-2884032)  
+5.   [Observe.ai](https://www.observe.ai/careers#section-current-openings)
 
 
 ## P  
@@ -293,6 +294,7 @@ Please refer to the [Guidelines](#Guidelines) before contributing.
 3.   [turvo](https://turvo.com/careers/)
 3.   [Twilio](https://www.twilio.com/company/jobs)  
 4.   [Twitter](https://careers.twitter.com/)   
+5.   [Tesla](https://www.tesla.com/careers)
 
 
 ## U  
