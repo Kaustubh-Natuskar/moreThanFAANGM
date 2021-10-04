@@ -236,8 +236,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 ## R  
 1.   [Razorpay](https://razorpay.com/jobs/)  
 1.   [Red hat](https://www.redhat.com/en/jobs)  
-2.   [Rivigo](https://www.rivigo.com/careers/)
-3.   [Rocket Companies](https://www.myrocketcareer.com/)
+1.   [Rivigo](https://www.rivigo.com/careers/)
+1.   [Rocket Companies](https://www.myrocketcareer.com/)
 
 ## S  
 1.   [Saavan](https://www.jiosaavn.com/corporate/jobs)  
@@ -251,14 +251,14 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Shaadi.com](https://www.naukri.com/)  
 1.   [ShareChat](https://we.sharechat.com/careers)
 1.   [shell](https://www.shell.com/careers.html)  
-2.   [Shopee](https://careers.shopee.sg/)
-3.   [Siemens](https://new.siemens.com/global/en/company/jobs/our-locations/india.html)
-4.   [Skyroot Aerospace](https://skyroot.in/join/) 
-5.   [Spinny](https://spinny.freshteam.com/jobs)  
-6.   [sprinklr](https://www.sprinklr.com/careers/)
-7.   [Stripe](https://stripe.com/in/jobs)  
-8.   [Swiggy](https://careers.swiggy.com/)  
-9.   [synopsys](https://www.synopsys.com/careers.html)  
+1.   [Shopee](https://careers.shopee.sg/)
+1.   [Siemens](https://new.siemens.com/global/en/company/jobs/our-locations/india.html)
+1.   [Skyroot Aerospace](https://skyroot.in/join/) 
+1.   [Spinny](https://spinny.freshteam.com/jobs)  
+1.   [sprinklr](https://www.sprinklr.com/careers/)
+1.   [Stripe](https://stripe.com/in/jobs)  
+1.   [Swiggy](https://careers.swiggy.com/)  
+1.   [synopsys](https://www.synopsys.com/careers.html)  
 
 ## T  
 1.   [Target](https://corporate.target.com/careers)  
