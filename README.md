@@ -166,6 +166,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Google](https://careers.google.com/)  
 1.   [Groupon](https://www.grouponcareers.com/)
 1.   [Grab](https://grab.careers/)  
+1.   [Gravitont Rading](https://www.gravitontrading.com/careers.html)
 1.   [Grofers](https://grofers.com/careers/)  
 1.   [groww](https://groww.skillate.com/)  
 
@@ -237,6 +238,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [NCR Corporation](https://www.ncr.com/careers)
 1.   [NetApp](https://www.netapp.com/company/careers/)      
 1.   [Netcracker](https://www.netcracker.com/careers/)
+1.   [Nike](https://jobs.nike.com/)
 1.   [Nokia](https://www.nokia.com/about-us/careers/)  
 1.   [nurture.farm](https://nurture.farm/join-us/)  
 1.   [Nutanix](https://www.nutanix.com/company/careers)   
@@ -278,7 +280,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 ## R  
 1.   [Razorpay](https://razorpay.com/jobs/)  
 1.   [Red hat](https://www.redhat.com/en/jobs)  
-1.   [Rocket Companies](https://www.myrocketcareer.com/)
+2.   [Rivigo](https://www.rivigo.com/careers/)
+3.   [Rocket Companies](https://www.myrocketcareer.com/)
 
 ## S  
 1.   [Saavan](https://www.jiosaavn.com/corporate/jobs)  
@@ -342,7 +345,9 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Wells Fargo](https://www.wellsfargo.com/about/careers/)  
 1.   [Western Digital](https://jobs.westerndigital.com/)  
 1.   [Whatfix](https://whatfix.com/careers/)
+1.   [Wooqer](https://wooqer.com/careers/)
 1.   [worldQuant](https://www.worldquant.com/careers/)  
+
 
 
 ## X  
