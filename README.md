@@ -286,10 +286,10 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Urban company](https://careers.urbancompany.com/)     
        
 ## V  
-1.   [Visa](https://www.visa.co.in/careers.html)  
+1.   [Viasat](https://careers.viasat.com/)  
+1.   [Visa](https://www.visa.co.in/careers.html)
 1.   [Vmware](https://careers.vmware.com/main/)  
-1.    [Vogo](https://vogo.in/careers/)
-1.    [Viasat](https://careers.viasat.com/)
+1.   [Vogo](https://vogo.in/careers/)
 
 # W  
 1.   [Walmart](https://careers.walmart.com/technology)  
