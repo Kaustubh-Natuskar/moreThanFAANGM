@@ -20,7 +20,7 @@ Please refer to the [Guidelines](#Guidelines) before contributing.
  
  |Total companies added|
  |:-------------------:|
- |      217            |
+ |      219           |
  
 
  
@@ -31,6 +31,27 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
  
  ## A  
 1. [Accolite software](https://www.accolite.com/careers)  
+1. [Accord software](https://accord-global.com/careers.html)
+1. [Adobe](https://www.adobe.com/careers.html)    
+1. [Agnikul Cosmos](https://agnikul.in/#/career) 
+1. [Agile Solutions](http://agilesolutions.com/careers-2/)  
+1. [Airbus](https://www.airbus.com/careers.html)    
+1. [Airbnb](https://careers.airbnb.com/)
+1. [Airtel x labs](https://careers.airtel.com/)  
+1. [Ajio](https://www.ajio.com/ajio-careers)    
+1. [akamai](https://www.akamai.com/careers)   
+1. [Amadeus labs](https://jobs.amadeus.com/)    
+1. [Amazon](https://www.amazon.jobs/en/)    
+1. [American express](https://www.americanexpress.com/en-us/careers/)    
+1. [apna](https://www.instahyre.com/jobs-at-apna/)    
+1. [apple](https://www.apple.com/careers/us/)    
+1. [arcesium](https://www.arcesium.com/careers.html)   
+1. [Arista Networks](https://www.arista.com/en/careers)  
+1. [Aryaka networks](https://www.linkedin.com/company/aryaka-networks/jobs?originalSubdomain=in)
+1. [Asteria Aerospace Ltd](https://asteria.co.in/careers/)  
+1. [Athena Health](https://www.athenahealth.com/careers)  
+1. [Atlassian](https://www.atlassian.com/company/careers)  
+1. [Avaya](https://careers.avaya.com/)
 1. [Accord software](https://accord-global.com/careers.html)
 1. [Adobe](https://www.adobe.com/careers.html)    
 1. [Agnikul Cosmos](https://agnikul.in/#/career) 
@@ -51,7 +72,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1. [Athena Health](https://www.athenahealth.com/careers)  
 1. [Atlassian](https://www.atlassian.com/company/careers)  
 1. [Avaya](https://careers.avaya.com/)
- 
  
  
  
@@ -144,6 +164,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Gojek](https://career.gojek.com/)  
 1.   [goldman Sachs](https://www.goldmansachs.com/careers/)  
 1.   [Google](https://careers.google.com/)  
+1.   [Groupon](https://www.grouponcareers.com/)
 1.   [Grab](https://grab.careers/)  
 1.   [Grofers](https://grofers.com/careers/)  
 1.   [groww](https://groww.skillate.com/)  
@@ -227,7 +248,9 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Ola](https://www.olacabs.com/careers) 
 1.   [Olx](https://careers.olxgroup.com/) 
 1.   [Oracle](https://www.oracle.com/apac/corporate/careers/)  
-1.   [OYO](https://www.naukri.com/oyo-jobs-careers-2884032)  
+1.   [OYO](https://www.naukri.com/oyo-jobs-careers-2884032)
+1.   [Observe.ai](https://www.observe.ai/careers#section-current-openings)
+
 
 
 ## P  
@@ -283,7 +306,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Target](https://corporate.target.com/careers)  
 1.   [TATA Advanced Sysytems Ltd](https://www.tataadvancedsystems.com/careers.php)
 1.   [TEK Systems](https://www.teksystems.com/en-in/careers)
-1.   [Tekion corp](https://tekion.com/careers)  
+1.   [Tekion corp](https://tekion.com/careers) 
+1.   [Tesla](https://www.tesla.com/careers) 
 1.   [Teradata](https://careers.teradata.com/)
 1.   [texas instruments](https://careers.ti.com/)  
 1.   [thoughtWorks](https://www.thoughtworks.com/careers/jobs)  
@@ -291,7 +315,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Treebo Hotels](https://www.linkedin.com/company/treebohotels/jobs/)
 1.   [turvo](https://turvo.com/careers/)
 1.   [Twilio](https://www.twilio.com/company/jobs)  
-1.   [Twitter](https://careers.twitter.com/)   
+1.   [Twitter](https://careers.twitter.com/) 
 
 
 ## U  
@@ -310,6 +334,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 ## V  
 1.   [Visa](https://www.visa.co.in/careers.html)  
 1.   [Vmware](https://careers.vmware.com/main/)  
+1.    [Vogo](https://vogo.in/careers/)
+
 
 # W  
 1.   [Walmart](https://careers.walmart.com/technology)  
