@@ -20,7 +20,7 @@ Please refer to the [Guidelines](#Guidelines) before contributing.
  
  |Total companies added|
  |:-------------------:|
- |      244           |
+ |      244            |
  
 
  
@@ -56,6 +56,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
  
  ## B  
 1.  [Barclays](https://home.barclays/careers/)
+1.  [Bain & Co](https://www.bain.com/careers/)
 1.  [Bellatrix Aerospace](http://www.bellatrixaerospace.com/) 
 1.  [Better](https://better.com/about-us/careers)
 1.  [BharatPe](https://bharatpe.com/career)  
@@ -88,6 +89,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [cradlepoint](https://cradlepoint.com/about-us/careers/job-listings/) 
 1.   [Cred](https://careers.cred.club/)  
 1.   [Credit Suisse](https://www.credit-suisse.com/careers/en/apply.html)
+1.   [Crowdstrike](https://www.crowdstrike.com/careers/)  
 1.   [cure.fit](https://www.cult.fit/careers)  
 
 ## D  
@@ -106,6 +108,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Dunzo](https://www.dunzo.com/careers#jobs)     
 
 ## E  
+1.   [Envestnet Yoodlee](https://www.yodlee.com/oceania/india-careers) 
 1.   [Eurofins](https://careers.eurofins.com/in/)  
 1.   [Expedia](https://lifeatexpediagroup.com/jobs/)  
 1.   [EY](https://careers.ey.com/)  
@@ -132,11 +135,11 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Github](https://github.com/about/careers)
 1.   [Godrej Aerospace](https://www.godrej.com/godrejandboyce/gnb-careers)
 1.   [Gojek](https://career.gojek.com/)  
-1.   [goldman Sachs](https://www.goldmansachs.com/careers/)  
-1.   [Google](https://careers.google.com/)  
-1.   [Groupon](https://www.grouponcareers.com/)
-1.   [Grab](https://grab.careers/)  
-1.   [Gravitont Rading](https://www.gravitontrading.com/careers.html)
+1.   [goldman Sachs](https://www.goldmansachs.com/careers/)   
+1.   [Google](https://careers.google.com/)
+1.   [Grab](https://grab.careers/)
+1.   [Gravitont Rading](https://www.gravitontrading.com/careers.html)   
+1.   [Groupon](https://www.grouponcareers.com/) 
 1.   [Grofers](https://grofers.com/careers/)  
 1.   [groww](https://groww.skillate.com/)  
 
@@ -162,7 +165,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 ## J  
 1.   [jaguar](https://www.jaguarlandrovercareers.com/)  
 1.   [Jio](https://careers.jio.com/)  
-1.   [jp morgan](https://careers.jpmorgan.com/IN/en/home)    
+1.   [jp morgan](https://careers.jpmorgan.com/IN/en/home)  
+1.   [Juniper networks](https://www.juniper.net/us/en/company/culture-careers.html)
 1.   [Jupiter money](https://jobs.lever.co/jupiter)  
 1.   [Juspay](https://www.juspay.in/careers/)  
 1.   [Jumbotail](https://jumbotail.com/careers/)
@@ -311,6 +315,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [worldQuant](https://www.worldquant.com/careers/)  
 
 ## X  
+1.   [Xiaomi](https://xiaomi.app.param.ai/jobs/)   
       
 ## Y  
 1.   [yellow.ai](https://yellow.ai/career)  
