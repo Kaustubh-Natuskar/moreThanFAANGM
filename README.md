@@ -20,7 +20,7 @@ Please refer to the [Guidelines](#Guidelines) before contributing.
  
  |Total companies added|
  |:-------------------:|
- |      222            |
+ |      244            |
  
 
  
@@ -73,6 +73,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
  ## C  
 1.   [Cadence](https://www.cadence.com/en_US/home/company/careers.html)  
+1.   [Capillary](https://www.capillarytech.com/about-us/careers/)
+1.   [Cimpress](https://cimpress.com/careers/)
 1.   [Celigo](https://www.celigo.com/company/careers/)  
 1.   [Chronus](https://chronus.com/about-us/careers)  
 1.   [cisco](https://jobs.cisco.com/)  
@@ -83,8 +85,9 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [CodingNinjas](https://www.linkedin.com/jobs/coding-ninjas-jobs/?originalSubdomain=in) 
 1.   [coinDCX](https://careers.coindcx.com/)  
 1.   [coinswitch kuber](https://recruiterflow.com/coinswitch/jobs)  
-1.   [cradlepoint](https://cradlepoint.com/about-us/careers/job-listings/)  
-1.   [Cred](https://careers.cred.club/) 
+1.   [Commvault](https://careers.commvault.com/)
+1.   [cradlepoint](https://cradlepoint.com/about-us/careers/job-listings/) 
+1.   [Cred](https://careers.cred.club/)  
 1.   [Credit Suisse](https://www.credit-suisse.com/careers/en/apply.html)
 1.   [Crowdstrike](https://www.crowdstrike.com/careers/)  
 1.   [cure.fit](https://www.cult.fit/careers)  
@@ -166,9 +169,12 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Juniper networks](https://www.juniper.net/us/en/company/culture-careers.html)
 1.   [Jupiter money](https://jobs.lever.co/jupiter)  
 1.   [Juspay](https://www.juspay.in/careers/)  
+1.   [Jumbotail](https://jumbotail.com/careers/)
+1.   [Juniper networks]()
 
 ## K  
 1.   [kesari bharat](https://www.linkedin.com/in/deepak-sharda-6594561b1/)  
+1.   [Keyvalue](https://keyvalue.systems/)
 1.   [khatabook](https://khatabook.com/hiring)
 1.   [KLA Tencor](https://www.kla-tencor.com/careers)  
 
@@ -176,6 +182,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [land rover](https://www.jaguarlandrovercareers.com/)  
 1.   [licious](https://www.careers.in/)  
 1.   [LinkedIn](https://careers.linkedin.com/)  
+1.   [Logicmonitor](https://www.logicmonitor.com/careers)
 1.   [Lowe's companies, inc](https://corporate.lowes.com/careers/search-apply)  
 
 ## M  
@@ -202,6 +209,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [NetApp](https://www.netapp.com/company/careers/)      
 1.   [Netcracker](https://www.netcracker.com/careers/)
 1.   [Nike](https://jobs.nike.com/)
+1.   [Ninjacart](https://ninjacart.in/careers/)
 1.   [Nokia](https://www.nokia.com/about-us/careers/)  
 1.   [nurture.farm](https://nurture.farm/join-us/)  
 1.   [Nutanix](https://www.nutanix.com/company/careers)   
@@ -224,6 +232,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [PharmEasy](https://pharmeasy.in/careers/)  
 1.   [Phillips](https://www.careers.philips.com/professional/in/en)
 1.   [Phonepe](https://www.phonepe.com/careers/)  
+1.   [Playment](https://www.playment.io/careers)
 1.   [postman](https://www.postman.com/company/careers/)  
 1.   [Practo](https://practo.app.param.ai/jobs)
 1.   [priceline](https://careers.priceline.com/search)  
@@ -259,6 +268,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Skyroot Aerospace](https://skyroot.in/join/) 
 1.   [Spinny](https://spinny.freshteam.com/jobs)  
 1.   [sprinklr](https://www.sprinklr.com/careers/)
+1.   [Squadstack](https://www.squadstack.com/careers/)
 1.   [Stripe](https://stripe.com/in/jobs)  
 1.   [Swiggy](https://careers.swiggy.com/)  
 1.   [synopsys](https://www.synopsys.com/careers.html)  
@@ -271,7 +281,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Tesla](https://www.tesla.com/careers) 
 1.   [Teradata](https://careers.teradata.com/)
 1.   [texas instruments](https://careers.ti.com/)  
-1.   [thoughtWorks](https://www.thoughtworks.com/careers/jobs)  
+1.   [thoughtWorks](https://www.thoughtworks.com/careers/jobs) 
+1.   [Toptal](https://www.toptal.com/careers) 
 1.   [tower research capital](https://www.tower-research.com/positions)  
 1.   [Treebo Hotels](https://www.linkedin.com/company/treebohotels/jobs/)
 1.   [turvo](https://turvo.com/careers/)
@@ -290,6 +301,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
        
 ## V  
 1.   [Viasat](https://careers.viasat.com/)  
+1.   [Vicara](https://vicara.ch/careers/)
 1.   [Visa](https://www.visa.co.in/careers.html)
 1.   [Vmware](https://careers.vmware.com/main/)  
 1.   [Vogo](https://vogo.in/careers/)
