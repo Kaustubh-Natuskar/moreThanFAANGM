@@ -20,7 +20,7 @@ Please refer to the [Guidelines](#Guidelines) before contributing.
  
  |Total companies added|
  |:-------------------:|
- |      238            |
+ |      244           |
  
 
  
@@ -72,6 +72,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
  ## C  
 1.   [Cadence](https://www.cadence.com/en_US/home/company/careers.html)  
+1.   [Capillary](https://www.capillarytech.com/about-us/careers/)
+1.   [Cimpress](https://cimpress.com/careers/)
 1.   [Celigo](https://www.celigo.com/company/careers/)  
 1.   [Chronus](https://chronus.com/about-us/careers)  
 1.   [cisco](https://jobs.cisco.com/)  
@@ -168,6 +170,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 ## K  
 1.   [kesari bharat](https://www.linkedin.com/in/deepak-sharda-6594561b1/)  
+1.   [Keyvalue](https://keyvalue.systems/)
 1.   [khatabook](https://khatabook.com/hiring)
 1.   [KLA Tencor](https://www.kla-tencor.com/careers)  
 
@@ -202,6 +205,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [NetApp](https://www.netapp.com/company/careers/)      
 1.   [Netcracker](https://www.netcracker.com/careers/)
 1.   [Nike](https://jobs.nike.com/)
+1.   [Ninjacart](https://ninjacart.in/careers/)
 1.   [Nokia](https://www.nokia.com/about-us/careers/)  
 1.   [nurture.farm](https://nurture.farm/join-us/)  
 1.   [Nutanix](https://www.nutanix.com/company/careers)   
@@ -224,6 +228,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [PharmEasy](https://pharmeasy.in/careers/)  
 1.   [Phillips](https://www.careers.philips.com/professional/in/en)
 1.   [Phonepe](https://www.phonepe.com/careers/)  
+1.   [Playment](https://www.playment.io/careers)
 1.   [postman](https://www.postman.com/company/careers/)  
 1.   [Practo](https://practo.app.param.ai/jobs)
 1.   [priceline](https://careers.priceline.com/search)  
@@ -259,6 +264,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Skyroot Aerospace](https://skyroot.in/join/) 
 1.   [Spinny](https://spinny.freshteam.com/jobs)  
 1.   [sprinklr](https://www.sprinklr.com/careers/)
+1.   [Squadstack](https://www.squadstack.com/careers/)
 1.   [Stripe](https://stripe.com/in/jobs)  
 1.   [Swiggy](https://careers.swiggy.com/)  
 1.   [synopsys](https://www.synopsys.com/careers.html)  
