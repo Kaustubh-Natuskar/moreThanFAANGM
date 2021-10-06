@@ -20,7 +20,7 @@ Please refer to the [Guidelines](#Guidelines) before contributing.
  
  |Total companies added|
  |:-------------------:|
- |      244            |
+ |      245            |
  
 
  
@@ -196,6 +196,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [MindTickle](https://www.mindtickle.com/careers/)
 1.   [MobiKwik](https://mobikwik.recruiterbox.com/)  
 1.   [Morgan Stanley](https://www.morganstanley.com/people-opportunities/)  
+1.   [Mount talent](https://careers.mounttalent.com/)
 1.   [MPL](https://www.linkedin.com/jobs/mobile-premier-league-%28mpl%29-jobs/?originalSubdomain=in)    
 1.   [Myntra](https://careers.myntra.com/)  
 
