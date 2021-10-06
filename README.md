@@ -44,6 +44,7 @@ This Repository contains contains the list of companies(more than FAANG) which y
 * [apple](https://www.apple.com/careers/us/)  
 * [arcesium](https://www.arcesium.com/careers.html)  
 * [Atlassian](https://www.atlassian.com/company/careers)  
+* [AppviewX](https://www.appviewx.com/company/careers/)
  
  
  
@@ -115,6 +116,7 @@ This Repository contains contains the list of companies(more than FAANG) which y
 * [fireEye inc](https://www.fireeye.com/company/jobs.html)  
 * [Flipkart](https://www.flipkartcareers.com/)  
 * [FreeCharge](https://careers.freecharge.in/)  
+* [FamPay](https://fampay.in/careers)
 
 
 ## G  
@@ -131,6 +133,7 @@ This Repository contains contains the list of companies(more than FAANG) which y
 * [HERE](https://www.here.com/careers)  
 * [Hotstar](https://tech.hotstar.com/)  
 * [HP](https://jobs.hp.com/)  
+* [Honeywell](https://careers.honeywell.com/us/en)
 
 
 ## I  
@@ -188,6 +191,7 @@ This Repository contains contains the list of companies(more than FAANG) which y
 ## O  
 * [Ola](https://www.olacabs.com/careers)  
 * [Oracle](https://www.oracle.com/apac/corporate/careers/)  
+* [OnePlus](https://oneplus.kekahire.com/)
 
 
 ## P  
@@ -247,6 +251,7 @@ This Repository contains contains the list of companies(more than FAANG) which y
 ## V  
 * [Visa](https://www.visa.co.in/careers.html)  
 * [Vmware](https://careers.vmware.com/main/)  
+* [Vedantu](https://www.vedantu.com/careers)
 
 # W  
 * [Walmart](https://careers.walmart.com/technology)  
