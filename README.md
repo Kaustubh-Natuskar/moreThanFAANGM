@@ -104,7 +104,8 @@ This Repository contains contains the list of companies(more than FAANG) which y
 
 ## E  
 * [Expedia](https://lifeatexpediagroup.com/jobs/)  
-* [EY](https://careers.ey.com/)  
+* [EY](https://careers.ey.com/) 
+* [eBay](https://careers.ebayinc.com/) 
 
 
 ## F  
@@ -254,7 +255,7 @@ This Repository contains contains the list of companies(more than FAANG) which y
 
 
 ## X  
-  
+* [Xilinx](https://careers.xilinx.com/)  
     
       
 ## Y  
