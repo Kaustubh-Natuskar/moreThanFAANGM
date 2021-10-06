@@ -20,7 +20,7 @@ Please refer to the [Guidelines](#Guidelines) before contributing.
  
  |Total companies added|
  |:-------------------:|
- |      245            |
+ |      249            |
  
 
  
@@ -170,7 +170,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Jupiter money](https://jobs.lever.co/jupiter)  
 1.   [Juspay](https://www.juspay.in/careers/)  
 1.   [Jumbotail](https://jumbotail.com/careers/)
-1.   [Juniper networks]()
 
 ## K  
 1.   [kesari bharat](https://www.linkedin.com/in/deepak-sharda-6594561b1/)  
