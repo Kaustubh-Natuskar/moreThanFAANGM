@@ -20,7 +20,7 @@ Please refer to the [Guidelines](#Guidelines) before contributing.
  
  |Total companies added|
  |:-------------------:|
- |      251            |
+ |      256            |
  
 
  
@@ -373,4 +373,6 @@ Refer [rules](https://github.com/Kaustubh-Natuskar/companies-to-apply/blob/main/
 
 ## Feedback
 
-If you have any feedback please reach out to me on [LinkedIn](https://www.linkedin.com/in/kaustubhnatuskar/).   
+If you have any feedback or suggestions please reach out to maintainers of this repository.  
+* [Kaustubh Natuskar](https://www.linkedin.com/in/kaustubhnatuskar/)  
+* [Aayushi Singh](https://www.linkedin.com/in/aayushisingh1703/)
