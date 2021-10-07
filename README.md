@@ -33,6 +33,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1. [Accolite software](https://www.accolite.com/careers)  
 1. [Accord software](https://accord-global.com/careers.html)
 1. [Adobe](https://www.adobe.com/careers.html)  
+1. [Acko](https://acko.hirexp.com/)
 1. [Agile Solutions](http://agilesolutions.com/careers-2/)      
 1. [Agnikul Cosmos](https://agnikul.in/#/career)   
 1. [Airbnb](https://careers.airbnb.com/)  
@@ -70,6 +71,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.  [Brahmastra Aerospace](https://www.brahmastraspace.org/career)
 1.  [Browser stack](https://www.browserstack.com/careers)  
 1.  [BukuWarung](https://www.notion.so/BukuWarung-Building-the-digital-infrastructure-for-60-million-MSMEs-in-Indonesia-7e8a4f614acb4c4888659f9d36179579)
+1.  [ByteDance](https://jobs.bytedance.com/en)
 
  ## C  
 1.   [Cadence](https://www.cadence.com/en_US/home/company/careers.html)  
@@ -135,51 +137,53 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Github](https://github.com/about/careers)
 1.   [Godrej Aerospace](https://www.godrej.com/godrejandboyce/gnb-careers)
 1.   [Gojek](https://career.gojek.com/)  
-1.   [goldman Sachs](https://www.goldmansachs.com/careers/)   
+1.   [Goldman Sachs](https://www.goldmansachs.com/careers/)   
 1.   [Google](https://careers.google.com/)
+1.   [Global Logic](https://www.globallogic.com/in/careers/)
 1.   [Grab](https://grab.careers/)
 1.   [Gravitont Rading](https://www.gravitontrading.com/careers.html)   
 1.   [Groupon](https://www.grouponcareers.com/) 
 1.   [Grofers](https://grofers.com/careers/)  
-1.   [groww](https://groww.skillate.com/)  
+1.   [Groww](https://groww.skillate.com/)  
 
 ## H  
-1.   [hackerearth](https://www.hackerearth.com/careers/)
-1.   [healthify me](https://www.healthifyme.com/careers/)  
+1.   [Hackerearth](https://www.hackerearth.com/careers/)
+1.   [Healthify me](https://www.healthifyme.com/careers/)  
 1.   [HERE](https://www.here.com/careers)  
 1.   [Hotstar](https://tech.hotstar.com/)  
 1.   [HP](https://jobs.hp.com/)  
 
 ## I  
 1.   [IBM](https://www.ibm.com/in-en/employment/)
-1.   [ideaForge](https://www.ideaforge.co.in/career/)  
+1.   [IdeaForge](https://www.ideaforge.co.in/career/)  
 1.   [Impact Analytics](https://www.impactanalytics.co/join-us/)
 1.   [Indeed](https://in.indeed.com/cmp/Indeed)
-1.   [Informatica](https://informatica.gr8people.com/jobs)    
-1.   [inmobi](https://www.inmobi.com/company/careers/)  
-1.   [Innovaccer](https://innovaccer.com/careers/)  
-1.   [Intel](https://www.intel.com/content/www/us/en/jobs/jobs-at-intel.html)  
-1.   [Intuit](https://www.intuit.com/careers/)  
-1.   [ISRO](https://www.isro.gov.in/careers)  
+2.   [India Mart](https://careers.indiamart.com/)
+3.   [Informatica](https://informatica.gr8people.com/jobs)    
+4.   [Inmobi](https://www.inmobi.com/company/careers/)  
+5.   [Innovaccer](https://innovaccer.com/careers/)  
+6.   [Intel](https://www.intel.com/content/www/us/en/jobs/jobs-at-intel.html)  
+7.   [Intuit](https://www.intuit.com/careers/)  
+8.   [ISRO](https://www.isro.gov.in/careers)  
 
 ## J  
-1.   [jaguar](https://www.jaguarlandrovercareers.com/)  
+1.   [Jaguar](https://www.jaguarlandrovercareers.com/)  
 1.   [Jio](https://careers.jio.com/)  
-1.   [jp morgan](https://careers.jpmorgan.com/IN/en/home)  
+1.   [Jp morgan](https://careers.jpmorgan.com/IN/en/home)  
 1.   [Juniper networks](https://www.juniper.net/us/en/company/culture-careers.html)
 1.   [Jupiter money](https://jobs.lever.co/jupiter)  
 1.   [Juspay](https://www.juspay.in/careers/)  
 1.   [Jumbotail](https://jumbotail.com/careers/)
 
 ## K  
-1.   [kesari bharat](https://www.linkedin.com/in/deepak-sharda-6594561b1/)  
+1.   [Kesari bharat](https://www.linkedin.com/in/deepak-sharda-6594561b1/)  
 1.   [Keyvalue](https://keyvalue.systems/)
-1.   [khatabook](https://khatabook.com/hiring)
+1.   [Khatabook](https://khatabook.com/hiring)
 1.   [KLA Tencor](https://www.kla-tencor.com/careers)  
 
 ## L  
-1.   [land rover](https://www.jaguarlandrovercareers.com/)  
-1.   [licious](https://www.careers.in/)  
+1.   [Land rover](https://www.jaguarlandrovercareers.com/)  
+1.   [Licious](https://www.careers.in/)  
 1.   [LinkedIn](https://careers.linkedin.com/)  
 1.   [Logicmonitor](https://www.logicmonitor.com/careers)
 1.   [Lowe's companies, inc](https://corporate.lowes.com/careers/search-apply)  
@@ -187,7 +191,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 ## M  
 1.   [Magicpin](https://magicpin.darwinbox.in/ms/candidate/careers)  
 1.   [MakeMyTrip](https://careers.makemytrip.com/)  
-1.   [mastercard](https://www.mastercard.us/en-us/vision/who-we-are/careers.html)  
+1.   [Mastercard](https://www.mastercard.us/en-us/vision/who-we-are/careers.html)  
 1.   [Media.net](https://careers.media.net/)  
 1.   [Meesho](https://careers.meesho.com/)  
 1.   [Micron](https://micron.eightfold.ai/careers)
@@ -224,7 +228,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Optum](https://www.optum.in/about/careers.html)
 
 ## P  
-1.   [park+](https://parkplus.io/we-are-hiring#hiring)  
+1.   [Park+](https://parkplus.io/we-are-hiring#hiring)  
 1.   [Paypal](https://www.paypal.com/in/webapps/mpp/jobs)  
 1.   [Paytm](https://paytm.com/careers/)  
 1.   [PayU](https://payu.in/careers)
@@ -239,6 +243,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Principal](https://www.principal.com/about-us/careers/global-jobs)
 1.   [Providence Healthcare](https://www.providencehealthcare.org/careers)
 1.   [Proximity Labs](https://www.proximity.tech/careers)  
+1.   [Prodapt](https://www.prodapt.com/en/careers/)
 1.   [Publicis Sapient](https://careers.publicissapient.com/)
 
 ## Q  
@@ -253,25 +258,25 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 ## S  
 1.   [Saavan](https://www.jiosaavn.com/corporate/jobs)  
-1.   [sabre corporation](https://www.sabre.com/careers/)  
+1.   [Sabre corporation](https://www.sabre.com/careers/)  
 1.   [Salesforce](https://www.salesforce.com/)  
-1.   [samsung](https://www.samsung.com/in/about-us/careers/)  
+1.   [Samsung](https://www.samsung.com/in/about-us/careers/)  
 1.   [SAP](https://jobs.sap.com/)  
 1.   [SendinBlue](https://jobs.sendinblue.com/en)
 1.   [SerpApi](https://serpapi.com/team)  
 1.   [ServiceNow](https://www.servicenow.com/careers.html)  
 1.   [Shaadi.com](https://www.naukri.com/)  
 1.   [ShareChat](https://we.sharechat.com/careers)
-1.   [shell](https://www.shell.com/careers.html)  
+1.   [Shell](https://www.shell.com/careers.html)  
 1.   [Shopee](https://careers.shopee.sg/)
 1.   [Siemens](https://new.siemens.com/global/en/company/jobs/our-locations/india.html)
 1.   [Skyroot Aerospace](https://skyroot.in/join/) 
 1.   [Spinny](https://spinny.freshteam.com/jobs)  
-1.   [sprinklr](https://www.sprinklr.com/careers/)
+1.   [Sprinklr](https://www.sprinklr.com/careers/)
 1.   [Squadstack](https://www.squadstack.com/careers/)
 1.   [Stripe](https://stripe.com/in/jobs)  
 1.   [Swiggy](https://careers.swiggy.com/)  
-1.   [synopsys](https://www.synopsys.com/careers.html)  
+1.   [Synopsys](https://www.synopsys.com/careers.html)  
 
 ## T  
 1.   [Target](https://corporate.target.com/careers)  
