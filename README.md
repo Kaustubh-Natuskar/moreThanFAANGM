@@ -33,16 +33,17 @@ This Repository contains contains the list of companies(more than FAANG) which y
  ## A  
 * [1 mg](https://www.1mg.com/jobs)  
 * [Adobe](https://www.adobe.com/careers.html)  
+* [Acko](https://acko.hirexp.com/)
 * [Airbus](https://www.airbus.com/careers.html)  
 * [Airtel x labs](https://careers.airtel.com/)  
 * [Ajio](https://www.ajio.com/ajio-careers)  
-* [akamai](https://www.akamai.com/careers) 
+* [Akamai](https://www.akamai.com/careers) 
 * [Amadeus labs](https://jobs.amadeus.com/)  
 * [Amazon](https://www.amazon.jobs/en/)  
 * [American express](https://www.americanexpress.com/en-us/careers/)  
-* [apna](https://www.instahyre.com/jobs-at-apna/)  
-* [apple](https://www.apple.com/careers/us/)  
-* [arcesium](https://www.arcesium.com/careers.html)  
+* [Apna](https://www.instahyre.com/jobs-at-apna/)  
+* [Apple](https://www.apple.com/careers/us/)  
+* [Arcesium](https://www.arcesium.com/careers.html)  
 * [Atlassian](https://www.atlassian.com/company/careers)  
 * [AppviewX](https://www.appviewx.com/company/careers/)
  
@@ -66,6 +67,7 @@ This Repository contains contains the list of companies(more than FAANG) which y
 * [Boeing](https://jobs.boeing.com/)  
 * [Browser stack](https://www.browserstack.com/careers)  
 * [BukuWarung](https://www.notion.so/BukuWarung-Building-the-digital-infrastructure-for-60-million-MSMEs-in-Indonesia-7e8a4f614acb4c4888659f9d36179579)
+* [ByteDance](https://jobs.bytedance.com/en)
  
  
  
@@ -83,22 +85,22 @@ This Repository contains contains the list of companies(more than FAANG) which y
  
  ## C  
 * [Cadence](https://www.cadence.com/en_US/home/company/careers.html)  
-* [cisco](https://jobs.cisco.com/)  
-* [citrix](https://jobs.citrix.com/)  
+* [Cisco](https://jobs.cisco.com/)  
+* [Citrix](https://jobs.citrix.com/)  
 * [Codenation innovation labs](http://codenation.co.in/hiringprocess.html)  
-* [coinDCX](https://careers.coindcx.com/)  
-* [coinswitch kuber](https://recruiterflow.com/coinswitch/jobs)  
+* [CoinDCX](https://careers.coindcx.com/)  
+* [Coinswitch kuber](https://recruiterflow.com/coinswitch/jobs)  
 * [Cred](https://careers.cred.club/)  
-* [cure.fit](https://www.cult.fit/careers)  
+* [Cure.fit](https://www.cult.fit/careers)  
 
 
 ## D  
-* [de shaw](https://www.deshawindia.com/careers/career-development)  
+* [De shaw](https://www.deshawindia.com/careers/career-development)  
 * [Delhivery](https://www.delhivery.com/careers/)  
 * [Dell](https://jobs.dell.com/)  
 * [Deutsche Bank](https://careers.db.com/)  
 * [Directi](https://careers.directi.com/)  
-* [discovery inc](https://jobs.discovery.com/careers-home/)  
+* [Discovery inc](https://jobs.discovery.com/careers-home/)  
 * [Dream11](https://www.dreamsports.group/careers)  
 * [Druva](https://www.druva.com/about/careers/)  
 
@@ -110,22 +112,23 @@ This Repository contains contains the list of companies(more than FAANG) which y
 
 
 ## F  
-* [facebook](https://www.facebook.com/careers/jobs/)  
+* [Facebook](https://www.facebook.com/careers/jobs/)  
 * [Fractal](https://fractal.ai/job-openings/)  
 * [Fidelity investments](https://jobs.fidelity.com/)  
-* [fireEye inc](https://www.fireeye.com/company/jobs.html)  
+* [FireEye inc](https://www.fireeye.com/company/jobs.html)  
 * [Flipkart](https://www.flipkartcareers.com/)  
 * [FreeCharge](https://careers.freecharge.in/)  
 * [FamPay](https://fampay.in/careers)
 
 
 ## G  
+* [Global Logic](https://www.globallogic.com/in/careers/)
 * [Gojek](https://career.gojek.com/)  
-* [goldman Sachs](https://www.goldmansachs.com/careers/)  
+* [Goldman Sachs](https://www.goldmansachs.com/careers/)  
 * [Google](https://careers.google.com/)  
 * [Grab](https://grab.careers/)  
 * [Grofers](https://grofers.com/careers/)  
-* [groww](https://groww.skillate.com/)  
+* [Groww](https://groww.skillate.com/)  
 
 
 ## H  
@@ -139,6 +142,7 @@ This Repository contains contains the list of companies(more than FAANG) which y
 ## I  
 * [IBM](https://www.ibm.com/in-en/employment/)  
 * [Indeed](https://in.indeed.com/cmp/Indeed)  
+* [India Mart](https://careers.indiamart.com/)
 * [inmobi](https://www.inmobi.com/company/careers/)  
 * [Intel](https://www.intel.com/content/www/us/en/jobs/jobs-at-intel.html)  
 * [Intuit](https://www.intuit.com/careers/)  
@@ -203,6 +207,7 @@ This Repository contains contains the list of companies(more than FAANG) which y
 * [Phonepe](https://www.phonepe.com/careers/)  
 * [postman](https://www.postman.com/company/careers/)  
 * [priceline](https://careers.priceline.com/search)  
+* [Prodapt](https://www.prodapt.com/en/careers/)
 
 
 
@@ -219,30 +224,31 @@ This Repository contains contains the list of companies(more than FAANG) which y
 * [Saavan](https://www.jiosaavn.com/corporate/jobs)  
 * [sabre corporation](https://www.sabre.com/careers/)  
 * [Salesforce](https://www.salesforce.com/)  
-* [samsung](https://www.samsung.com/in/about-us/careers/)  
+* [Samsung](https://www.samsung.com/in/about-us/careers/)  
 * [SAP](https://jobs.sap.com/)  
 * [SendinBlue](https://jobs.sendinblue.com/en)  
 * [ServiceNow](https://www.servicenow.com/careers.html)  
 * [Shaadi.com](https://www.naukri.com/)  
-* [shell](https://www.shell.com/careers.html)  
-* [sprinklr](https://www.sprinklr.com/careers/)  
+* [Shell](https://www.shell.com/careers.html)  
+* [Sprinklr](https://www.sprinklr.com/careers/)  
 * [Swiggy](https://careers.swiggy.com/)  
-* [synopsys](https://www.synopsys.com/careers.html)  
+* [Synopsys](https://www.synopsys.com/careers.html)  
 
 
 ## T  
 * [Target](https://corporate.target.com/careers)  
 * [Tekion corp](https://tekion.com/careers)  
-* [texas instruments](https://careers.ti.com/)  
-* [thoughtWorks](https://www.thoughtworks.com/careers/jobs)  
-* [tower research capital](https://www.tower-research.com/positions)  
-* [turvo](https://turvo.com/careers/)  
+* [Texas instruments](https://careers.ti.com/)  
+* [ThoughtWorks](https://www.thoughtworks.com/careers/jobs)  
+* [Tower research capital](https://www.tower-research.com/positions)
+* [Totality Corps](https://www.totalitycorp.com/careers) 
+* [Turvo](https://turvo.com/careers/)  
 
 
 ## U  
 * [Uber](https://www.uber.com/us/en/careers/)  
 * [Udaan](https://careers.udaan.com/)  
-* [unacadamy](https://unacademy.com/careers)  
+* [Unacadamy](https://unacademy.com/careers)  
 * [Upgrad](https://www.upgrad.com/us/careers/)  
 * [Upstox](https://jobs.lever.co/upstox)  
 * [Urban company](https://careers.urbancompany.com/)   
@@ -256,7 +262,7 @@ This Repository contains contains the list of companies(more than FAANG) which y
 # W  
 * [Walmart](https://careers.walmart.com/technology)  
 * [Well fargo](https://www.wellsfargo.com/about/careers/)  
-* [worldQuant](https://www.worldquant.com/careers/)  
+* [WorldQuant](https://www.worldquant.com/careers/)  
 
 
 ## X  
@@ -264,13 +270,13 @@ This Repository contains contains the list of companies(more than FAANG) which y
     
       
 ## Y  
-* [yellow.ai](https://yellow.ai/career)  
+* [Yellow.ai](https://yellow.ai/career)  
 
 
 ## Z  
-* [zerodha](https://careers.zerodha.com/)  
+* [Zerodha](https://careers.zerodha.com/)  
 * [Zeta](https://careers.zeta.tech/work-with-us/)  
-* [zoho](https://careers.zohocorp.com/jobs/Careers)   
+* [Zoho](https://careers.zohocorp.com/jobs/Careers)   
 * [Zomato](https://www.zomato.com/careers)  
  
 
