@@ -41,6 +41,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1. [Airtel x labs](https://careers.airtel.com/)  
 1. [Ajio](https://www.ajio.com/ajio-careers)    
 1. [akamai](https://www.akamai.com/careers)   
+1. [Alstom](https://www.alstom.com/careers)
 1. [Amadeus labs](https://jobs.amadeus.com/)    
 1. [Amazon](https://www.amazon.jobs/en/)    
 1. [American express](https://www.americanexpress.com/en-us/careers/)    
@@ -79,6 +80,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Capillary](https://www.capillarytech.com/about-us/careers/)
 1.   [Cimpress](https://cimpress.com/careers/)
 1.   [Celigo](https://www.celigo.com/company/careers/)  
+1.   [Cerner](https://careers.cerner.com/)
 1.   [Chronus](https://chronus.com/about-us/careers)  
 1.   [cisco](https://jobs.cisco.com/)  
 1.   [citrix](https://jobs.citrix.com/)  
@@ -120,6 +122,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 ## F  
 1.   [facebook](https://www.facebook.com/careers/jobs/)  
+1.   [FamPay](https://fampay.in/careers)
 1.   [Fidelity investments](https://jobs.fidelity.com/)  
 1.   [fireEye inc](https://www.fireeye.com/company/jobs.html)  
 1.   [Fischer Jordan](https://fischerjordan.com/careers/) 
@@ -150,6 +153,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 ## H  
 1.   [Hackerearth](https://www.hackerearth.com/careers/)
+1.   [HackerRank](https://www.hackerrank.com/careers/)
 1.   [Healthify me](https://www.healthifyme.com/careers/)  
 1.   [HERE](https://www.here.com/careers)  
 1.   [Hotstar](https://tech.hotstar.com/)  
@@ -214,6 +218,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [NCR Corporation](https://www.ncr.com/careers)
 1.   [NetApp](https://www.netapp.com/company/careers/)      
 1.   [Netcracker](https://www.netcracker.com/careers/)
+1.   [Netmeds](https://netmeds.darwinbox.in/ms/candidate/careers)
 1.   [Nike](https://jobs.nike.com/)
 1.   [Ninjacart](https://ninjacart.in/careers/)
 1.   [Nokia](https://www.nokia.com/about-us/careers/)  
@@ -270,6 +275,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Shaadi.com](https://www.naukri.com/)  
 1.   [ShareChat](https://we.sharechat.com/careers)
 1.   [Shell](https://www.shell.com/careers.html)  
+1.   [Shipsy](https://shipsy.io/career/)
 1.   [Shopee](https://careers.shopee.sg/)
 1.   [Siemens](https://new.siemens.com/global/en/company/jobs/our-locations/india.html)
 1.   [Skyroot Aerospace](https://skyroot.in/join/) 
