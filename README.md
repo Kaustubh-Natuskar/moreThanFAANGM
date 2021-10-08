@@ -29,7 +29,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 -->
 
  
- ## A  
+ ## A
+1. [314e Corporation](https://www.314e.com/)  
 1. [Accolite software](https://www.accolite.com/careers)  
 1. [Accord software](https://accord-global.com/careers.html)
 1. [Adobe](https://www.adobe.com/careers.html)  
@@ -96,7 +97,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Credit Suisse](https://www.credit-suisse.com/careers/en/apply.html)
 1.   [Crowdstrike](https://www.crowdstrike.com/careers/)
 1.   [CSS Corp](https://www.csscorp.com/company/careers/)  
-1.   [cure.fit](https://www.cult.fit/careers)  
+1.   [cure.fit](https://www.cult.fit/careers)
+1.   [Cvent](https://www.cvent.com/en/careers)  
 
 ## D  
 1.   [D. E. Shaw & Co.](https://www.deshawindia.com/careers/career-development)
@@ -140,6 +142,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [GE Healthcare](https://jobs.gecareers.com/healthcare/global/en)
 1.   [Ghost](https://careers.ghost.org/)
 1.   [Github](https://github.com/about/careers)
+1.   [GoDigit](https://www.godigit.com/)
 1.   [Godrej Aerospace](https://www.godrej.com/godrejandboyce/gnb-careers)
 1.   [Gojek](https://career.gojek.com/)  
 1.   [Goldman Sachs](https://www.goldmansachs.com/careers/)   
@@ -161,7 +164,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 ## I  
 1.   [IBM](https://www.ibm.com/in-en/employment/)
-1.   [IdeaForge](https://www.ideaforge.co.in/career/)  
+1.   [IdeaForge](https://www.ideaforge.co.in/career/)
+1.   [IHS Markit](https://careers.ihsmarkit.com/)  
 1.   [Impact Analytics](https://www.impactanalytics.co/join-us/)
 1.   [Indeed](https://in.indeed.com/cmp/Indeed)
 2.   [India Mart](https://careers.indiamart.com/)
@@ -190,7 +194,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 ## L  
 1.   [Land rover](https://www.jaguarlandrovercareers.com/)  
 1.   [Licious](https://www.careers.in/)  
-1.   [LinkedIn](https://careers.linkedin.com/)  
+1.   [LinkedIn](https://careers.linkedin.com/) 
+1.   [LogicFruit](https://www.logic-fruit.com/) 
 1.   [Logicmonitor](https://www.logicmonitor.com/careers)
 1.   [Lowe's companies, inc](https://corporate.lowes.com/careers/search-apply)  
 
@@ -239,6 +244,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Paypal](https://www.paypal.com/in/webapps/mpp/jobs)  
 1.   [Paytm](https://paytm.com/careers/)  
 1.   [PayU](https://payu.in/careers)
+1.   [PeopleStrong](https://www.peoplestrong.com/careers/)
 1.   [persistent systems](https://www.persistent.com/careers/)  
 1.   [PharmEasy](https://pharmeasy.in/careers/)  
 1.   [Phillips](https://www.careers.philips.com/professional/in/en)
