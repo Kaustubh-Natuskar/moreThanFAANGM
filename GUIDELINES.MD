@@ -31,3 +31,4 @@
 2. There will be a file categories.md, where we have mentioned domaninsa of companies, feel free to add new ones.  
 3. Now add the companies from readme.md to their respective categories alphabetically.
 4. make a PR :)
+* NOTE: As of now we are adding these changes only to categories.md only once we decided about how we should organize the new section on readme.md(on front pagre which people will see) till then no need to add add new section in readme.md. 
