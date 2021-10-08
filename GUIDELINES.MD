@@ -24,3 +24,10 @@
 
  
 3. Work Life Balance MUST be good.  
+
+# Help us to resolve issue [#4](https://github.com/Kaustubh-Natuskar/companies-to-apply/issues/4#issue-1000096274) 
+
+1. fork the latest main.  
+2. There will be a file categories.md, where we have mentioned domaninsa of companies, feel free to add new ones.  
+3. Now add the companies from readme.md to their respective categories alphabetically.
+4. make a PR :)
