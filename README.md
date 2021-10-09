@@ -20,7 +20,7 @@ Please refer to the [Guidelines](#Guidelines) before contributing.
  
  |Total companies added|
  |:-------------------:|
- |      262            |
+ |      263            |
  
 
  
@@ -285,6 +285,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Shopee](https://careers.shopee.sg/)
 1.   [Siemens](https://new.siemens.com/global/en/company/jobs/our-locations/india.html)
 1.   [Skyroot Aerospace](https://skyroot.in/join/) 
+1.   [Slack](https://slack.com/intl/en-in/careers)
 1.   [Spinny](https://spinny.freshteam.com/jobs)  
 1.   [Sprinklr](https://www.sprinklr.com/careers/)
 1.   [Squadstack](https://www.squadstack.com/careers/)
