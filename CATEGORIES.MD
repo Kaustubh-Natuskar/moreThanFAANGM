@@ -56,8 +56,8 @@
 
 ## Remote First
 1. [Atlassian](https://www.atlassian.com/company/careers)
-2. [BrowserStack](https://www.browserstack.com/careers)
-3. [GitHub](https://github.com/about/careers)
-4. [Indeed](https://in.indeed.com/cmp/Indeed)
-5. [Udaan](https://careers.udaan.com/)
-6. [VMware](https://careers.vmware.com/main/)
+1. [BrowserStack](https://www.browserstack.com/careers)
+1. [GitHub](https://github.com/about/careers)
+1. [Indeed](https://in.indeed.com/cmp/Indeed)
+1. [Udaan](https://careers.udaan.com/)
+1. [VMware](https://careers.vmware.com/main/)
