@@ -15,6 +15,8 @@
 ##  Communication  
 
 ##  E commerce  
+
+Stripe
  
 ##  Cloud services / saas  
 
