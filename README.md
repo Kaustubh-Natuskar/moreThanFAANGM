@@ -48,7 +48,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1. [Amdocs](https://asset.amdocs.com/careers/)
 1. [American express](https://www.americanexpress.com/en-us/careers/)    
 1. [Apna](https://www.instahyre.com/jobs-at-apna/)    
-1. [Apple](https://www.apple.com/careers/us/)    
+1. [Apple](https://www.apple.com/careers/us/) 
+1. [AppInventiv](https://appinventiv.com/career/)   
 1. [Arcesium](https://www.arcesium.com/careers.html)   
 1. [Arista Networks](https://www.arista.com/en/careers)  
 1. [Aryaka networks](https://www.linkedin.com/company/aryaka-networks/jobs?originalSubdomain=in)
@@ -81,6 +82,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
  ## C  
 1.   [Cadence](https://www.cadence.com/en_US/home/company/careers.html)  
 1.   [Capillary](https://www.capillarytech.com/about-us/careers/)
+1.   [CarDekho](https://careers.cardekho.com/)
 1.   [Cimpress](https://cimpress.com/careers/)
 1.   [Celigo](https://www.celigo.com/company/careers/)  
 1.   [Cerner](https://careers.cerner.com/)
@@ -234,6 +236,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Nvidia](https://www.nvidia.com/en-in/about-nvidia/careers/)  
 
 ## O  
+1.   [Obvious](https://obvious.in/careers)
 1.   [Ola](https://www.olacabs.com/careers) 
 1.   [Olx](https://careers.olxgroup.com/) 
 1.   [Oracle](https://www.oracle.com/apac/corporate/careers/)  
@@ -301,7 +304,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Tekion corp](https://tekion.com/careers) 
 1.   [Tesla](https://www.tesla.com/careers) 
 1.   [Teradata](https://careers.teradata.com/)
-1.   [texas instruments](https://careers.ti.com/)  
+1.   [texas instruments](https://careers.ti.com/)
+1.   [ThoughtSpot](https://www.thoughtspot.com/careers-listing)  
 1.   [thoughtWorks](https://www.thoughtworks.com/careers/jobs) 
 1.   [Toptal](https://www.toptal.com/careers) 
 1.   [tower research capital](https://www.tower-research.com/positions)  
@@ -336,7 +340,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [worldQuant](https://www.worldquant.com/careers/)  
 
 ## X  
-1.   [Xiaomi](https://xiaomi.app.param.ai/jobs/)   
+1.   [Xiaomi](https://xiaomi.app.param.ai/jobs/)  
+1.   [Xicom Technologies](https://www.xicom.biz/careers/) 
       
 ## Y  
 1.   [yellow.ai](https://yellow.ai/career)  
@@ -390,3 +395,4 @@ Refer [rules](https://github.com/Kaustubh-Natuskar/companies-to-apply/blob/main/
 If you have any feedback or suggestions please reach out to maintainers of this repository.  
 * [Kaustubh Natuskar](https://www.linkedin.com/in/kaustubhnatuskar/)  
 * [Aayushi Singh](https://www.linkedin.com/in/aayushisingh1703/)
+
