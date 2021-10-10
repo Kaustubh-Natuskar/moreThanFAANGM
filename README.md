@@ -20,7 +20,7 @@ Please refer to the [Guidelines](#Guidelines) before contributing.
  
  |Total companies added|
  |:-------------------:|
- |      263           |
+ |      277           |
  
 
  
@@ -48,7 +48,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1. [Amdocs](https://asset.amdocs.com/careers/)
 1. [American express](https://www.americanexpress.com/en-us/careers/)    
 1. [Apna](https://www.instahyre.com/jobs-at-apna/)    
-1. [Apple](https://www.apple.com/careers/us/)    
+1. [Apple](https://www.apple.com/careers/us/) 
+1. [AppInventiv](https://appinventiv.com/career/)   
 1. [Arcesium](https://www.arcesium.com/careers.html)   
 1. [Arista Networks](https://www.arista.com/en/careers)  
 1. [Aryaka networks](https://www.linkedin.com/company/aryaka-networks/jobs?originalSubdomain=in)
@@ -68,19 +69,23 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.  [BigBasket](https://careers.bigbasket.com/)  
 1.  [BlackBuck](https://www.blackbuck.com/careers.php)
 1.  [Blackrock](https://careers.blackrock.com/)
+1.  [BlueJeans](https://www.bluejeans.com/careers)
 1.  [Bluestacks](https://www.bluestacks.com/work-at-bluestacks.html)
 1.  [BMC software](https://www.bmc.com/careers/careers.html)  
 1.  [BNY Mellon](https://jobs.bnymellon.com/)
 1.  [Boeing](https://jobs.boeing.com/) 
 1.  [Bottemline Technologies](https://www.bottomline.com/apac/about/careers) 
+1.  [Bounce](https://careers-bounce.peoplestrong.com/portal/job/joblist)
 1.  [Brahmastra Aerospace](https://www.brahmastraspace.org/career)
 1.  [Browser stack](https://www.browserstack.com/careers)  
 1.  [BukuWarung](https://www.notion.so/BukuWarung-Building-the-digital-infrastructure-for-60-million-MSMEs-in-Indonesia-7e8a4f614acb4c4888659f9d36179579)
+1.  [Byju's](https://byjus.com/careers/all-openings/job-category/tech/)
 1.  [ByteDance](https://jobs.bytedance.com/en)
 
  ## C  
 1.   [Cadence](https://www.cadence.com/en_US/home/company/careers.html)  
 1.   [Capillary](https://www.capillarytech.com/about-us/careers/)
+1.   [CarDekho](https://careers.cardekho.com/)
 1.   [Cimpress](https://cimpress.com/careers/)
 1.   [Celigo](https://www.celigo.com/company/careers/)  
 1.   [Cerner](https://careers.cerner.com/)
@@ -103,12 +108,14 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Cvent](https://www.cvent.com/en/careers)  
 
 ## D  
+1.   [DailyHunt](https://careers.dailyhunt.com/#!/)
 1.   [D. E. Shaw & Co.](https://www.deshawindia.com/careers/career-development)
 1.   [DealShare](https://www.dealshare.in/careers#home)  
 1.   [Delhivery](https://www.delhivery.com/careers/)  
 1.   [Dell](https://jobs.dell.com/)  
 1.   [Deutsche Bank](https://careers.db.com/)  
 1.   [Dhruva Space](https://angel.co/company/dhruvaspace)
+1.   [Dialpad](https://www.dialpad.com/careers/)
 1.   [Directi](https://careers.directi.com/)  
 1.   [Discovery inc](https://jobs.discovery.com/careers-home/)  
 1.   [DP World](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions)  
@@ -181,7 +188,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 ## J  
 1.   [Jaguar](https://www.jaguarlandrovercareers.com/)  
 1.   [Jio](https://careers.jio.com/)  
-1.   [Jp morgan](https://careers.jpmorgan.com/IN/en/home)  
+1.   [JP Morgan](https://careers.jpmorgan.com/IN/en/home)  
 1.   [Juniper networks](https://www.juniper.net/us/en/company/culture-careers.html)
 1.   [Jupiter money](https://jobs.lever.co/jupiter)  
 1.   [Juspay](https://www.juspay.in/careers/)  
@@ -195,6 +202,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 ## L  
 1.   [Land rover](https://www.jaguarlandrovercareers.com/)  
+1.   [Lenskart](https://hiring.lenskart.com/)
 1.   [Licious](https://www.careers.in/)  
 1.   [LinkedIn](https://careers.linkedin.com/) 
 1.   [LogicFruit](https://www.logic-fruit.com/) 
@@ -213,7 +221,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [MobiKwik](https://mobikwik.recruiterbox.com/)  
 1.   [Morgan Stanley](https://www.morganstanley.com/people-opportunities/)  
 1.   [Mount talent](https://careers.mounttalent.com/)
-1.   [MPL](https://www.linkedin.com/jobs/mobile-premier-league-%28mpl%29-jobs/?originalSubdomain=in)    
+1.   [MPL](https://mpl.darwinbox.in/ms/candidate/careers)    
 1.   [Myntra](https://careers.myntra.com/)  
 
 ## N  
@@ -234,6 +242,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Nvidia](https://www.nvidia.com/en-in/about-nvidia/careers/)  
 
 ## O  
+1.   [Obvious](https://obvious.in/careers)
 1.   [Ola](https://www.olacabs.com/careers) 
 1.   [Olx](https://careers.olxgroup.com/) 
 1.   [Oracle](https://www.oracle.com/apac/corporate/careers/)  
@@ -301,7 +310,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Tekion corp](https://tekion.com/careers) 
 1.   [Tesla](https://www.tesla.com/careers) 
 1.   [Teradata](https://careers.teradata.com/)
-1.   [texas instruments](https://careers.ti.com/)  
+1.   [texas instruments](https://careers.ti.com/)
+1.   [ThoughtSpot](https://www.thoughtspot.com/careers-listing)  
 1.   [thoughtWorks](https://www.thoughtworks.com/careers/jobs) 
 1.   [Toptal](https://www.toptal.com/careers) 
 1.   [tower research capital](https://www.tower-research.com/positions)  
@@ -336,17 +346,21 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [worldQuant](https://www.worldquant.com/careers/)  
 
 ## X  
-1.   [Xiaomi](https://xiaomi.app.param.ai/jobs/)   
+1.   [Xiaomi](https://xiaomi.app.param.ai/jobs/)  
+1.   [Xicom Technologies](https://www.xicom.biz/careers/) 
       
 ## Y  
 1.   [yellow.ai](https://yellow.ai/career)  
 1.   [yugabyte](https://www.yugabyte.com/careers/)
+1.   [Yulu Bikes](https://www.yulu.bike/careers/)
 
 ## Z  
 1.   [zerodha](https://careers.zerodha.com/)  
-1.   [Zeta](https://careers.zeta.tech/work-with-us/)  
+1.   [Zeta](https://careers.zeta.tech/work-with-us/)
+1.   [ZivaMe](https://careers.zivame.com/)  
 1.   [zoho](https://careers.zohocorp.com/jobs/Careers)   
-1.   [Zomato](https://www.zomato.com/careers)  
+1.   [Zomato](https://www.zomato.com/careers) 
+1.   [ZoomCar](https://www.zoomcar.com/careers) 
 1.   [ZS](https://jobs.zs.com/all/jobs)  
 
  ## 0-9  
@@ -390,3 +404,4 @@ Refer [rules](https://github.com/Kaustubh-Natuskar/companies-to-apply/blob/main/
 If you have any feedback or suggestions please reach out to maintainers of this repository.  
 * [Kaustubh Natuskar](https://www.linkedin.com/in/kaustubhnatuskar/)  
 * [Aayushi Singh](https://www.linkedin.com/in/aayushisingh1703/)
+
