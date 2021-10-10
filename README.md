@@ -29,8 +29,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 -->
 
  
- ## A
-1. [314e Corporation](https://www.314e.com/)  
+ ## A  
 1. [Accolite software](https://www.accolite.com/careers)  
 1. [Accord software](https://accord-global.com/careers.html)
 1. [Adobe](https://www.adobe.com/careers.html)  
@@ -365,6 +364,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
  ## 0-9  
 1.   [1 mg](https://www.1mg.com/jobs)  
+1.   [314e Corporation](https://www.314e.com/)
 1.   [3i Infotech](3i-infotech.com/careers/) 
  
  
