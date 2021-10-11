@@ -20,7 +20,7 @@ Please refer to the [Guidelines](#Guidelines) before contributing.
  
  |Total companies added|
  |:-------------------:|
- |      277           |
+ |      278           |
  
 
  
@@ -349,6 +349,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Xicom Technologies](https://www.xicom.biz/careers/) 
       
 ## Y  
+1.   [Yahoo](https://research.yahoo.com/careers)
 1.   [yellow.ai](https://yellow.ai/career)  
 1.   [yugabyte](https://www.yugabyte.com/careers/)
 1.   [Yulu Bikes](https://www.yulu.bike/careers/)
