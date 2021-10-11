@@ -20,7 +20,7 @@ Please refer to the [Guidelines](#Guidelines) before contributing.
  
  |Total companies added|
  |:-------------------:|
- |      278           |
+ |      279           |
  
 
  
@@ -367,6 +367,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [1 mg](https://www.1mg.com/jobs)  
 1.   [3i Infotech](3i-infotech.com/careers/) 
 1.   [314e Corporation](https://www.314e.com/)  
+1.   [[24]7.ai](https://www.247.ai/career-search) 
   
  
  
