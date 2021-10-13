@@ -20,7 +20,7 @@ Please refer to the [Guidelines](#Guidelines) before contributing.
  
  |Total companies added|
  |:-------------------:|
- |      304           |
+ |      305           |
  
 
  
@@ -225,6 +225,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Magicpin](https://magicpin.darwinbox.in/ms/candidate/careers)  
 1.   [MakeMyTrip](https://careers.makemytrip.com/)  
 1.   [Mastercard](https://www.mastercard.us/en-us/vision/who-we-are/careers.html)  
+1.   [Mathworks](https://in.mathworks.com/company/jobs/opportunities.html)
 1.   [Media.net](https://careers.media.net/)  
 1.   [Meesho](https://careers.meesho.com/)  
 1.   [Micron](https://micron.eightfold.ai/careers)
