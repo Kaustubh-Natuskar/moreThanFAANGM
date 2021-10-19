@@ -20,7 +20,7 @@ Please refer to the [Guidelines](#Guidelines) before contributing.
  
  |Total companies added|
  |:-------------------:|
- |      305           |
+ |      306           |
  
 
  
@@ -204,7 +204,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Juspay](https://www.juspay.in/careers/)  
 1.   [Jumbotail](https://jumbotail.com/careers/)
 
-## K  
+## K
+1.   [Kantar](https://www.kantar.com/careers)  
 1.   [Kesari bharat](https://www.linkedin.com/in/deepak-sharda-6594561b1/)  
 1.   [Keyvalue](https://keyvalue.systems/)
 1.   [Khatabook](https://khatabook.com/hiring)
