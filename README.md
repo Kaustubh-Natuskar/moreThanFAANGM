@@ -20,7 +20,7 @@ Please refer to the [Guidelines](#Guidelines) before contributing.
  
  |Total companies added|
  |:-------------------:|
- |      306           |
+ |      307           |
  
 
  
@@ -210,8 +210,9 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Keyvalue](https://keyvalue.systems/)
 1.   [Khatabook](https://khatabook.com/hiring)
 1.   [khoros](https://khoros.com/about/careers)
-1.   [KLA Tencor](https://www.kla-tencor.com/careers)  
+1.   [KLA Tencor](https://www.kla-tencor.com/careers) 
 1.   [Koch](https://jobs.kochcareers.com/)
+1.   [Kreeti Technology](https://careers.kreeti.com/) 
 
 ## L  
 1.   [Land rover](https://www.jaguarlandrovercareers.com/)  
