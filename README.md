@@ -424,7 +424,7 @@ Refer [rules](https://github.com/Kaustubh-Natuskar/companies-to-apply/blob/main/
 
 ## Feedback
 
-If you have any feedback or suggestions please reach out to maintainers of this repository.  
+If you have any feedback or suggestions please reach out to maintainers.  
 * [Kaustubh Natuskar](https://www.linkedin.com/in/kaustubhnatuskar/)  
 * [Aayushi Singh](https://www.linkedin.com/in/aayushisingh1703/)
 
