@@ -80,8 +80,10 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.  [Brahmastra Aerospace](https://www.brahmastraspace.org/career)
 1.  [Browser stack](https://www.browserstack.com/careers)  
 1.  [BukuWarung](https://www.notion.so/BukuWarung-Building-the-digital-infrastructure-for-60-million-MSMEs-in-Indonesia-7e8a4f614acb4c4888659f9d36179579)
+1.  [Buyhatke](https://compare.buyhatke.com/company/)
 1.  [Byju's](https://byjus.com/careers/all-openings/job-category/tech/)
 1.  [ByteDance](https://jobs.bytedance.com/en)
+.    
 
  ## C  
 1.   [Cadence](https://www.cadence.com/en_US/home/company/careers.html)  
@@ -122,11 +124,13 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Dialpad](https://www.dialpad.com/careers/)
 1.   [Directi](https://careers.directi.com/)  
 1.   [Discovery inc](https://jobs.discovery.com/careers-home/)  
+1.   [Disney+hotstar](https://jobs.disneycareers.com/business/industry/disney%2B%20hotstar/391-28648/5)  
 1.   [DP World](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions)  
 1.   [DRDO](https://www.drdo.gov.in/careers)
 1.   [Dream11](https://www.dreamsports.group/careers)  
 1.   [Druva](https://www.druva.com/about/careers/)  
-1.   [Dunzo](https://www.dunzo.com/careers#jobs)     
+1.   [Dunzo](https://www.dunzo.com/careers#jobs)   
+
 
 ## E  
 1.   [Enfussion](https://enfusion.com/careers/)
@@ -151,6 +155,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [fyle](https://www.fylehq.com/company/team/join)
 
 ## G  
+1.   [GamesKraft](https://www.gameskraft.com/careers/)
 1.   [Garuda Aerospace private Ltd](https://www.garudaaerospace.com/)
 1.   [GeeksForGeeks](https://www.geeksforgeeks.org/careers/?)
 1.   [GE](https://www.ge.com/in/careers/opportunities)
@@ -162,9 +167,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Gojek](https://career.gojek.com/)  
 1.   [Goldman Sachs](https://www.goldmansachs.com/careers/)   
 1.   [Google](https://careers.google.com/)
-1.   [Global Logic](https://www.globallogic.com/in/careers/)
 1.   [Grab](https://grab.careers/)
-1.   [Gravitont Rading](https://www.gravitontrading.com/careers.html)   
+1.   [Graviton Research Capital LLP](https://www.gravitontrading.com/careers.html)   
 1.   [Groupon](https://www.grouponcareers.com/) 
 1.   [Grofers](https://grofers.com/careers/)  
 1.   [Groww](https://groww.skillate.com/)  
@@ -233,6 +237,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Microsoft](https://careers.microsoft.com/us/en)        
 1.   [MindTickle](https://www.mindtickle.com/careers/)
 1.   [MobiKwik](https://mobikwik.recruiterbox.com/)  
+1.   [Mobstac](https://careers.mobstac.com/jobs)
 1.   [Morgan Stanley](https://www.morganstanley.com/people-opportunities/)  
 1.   [Mount talent](https://careers.mounttalent.com/)
 1.   [MPL](https://mpl.darwinbox.in/ms/candidate/careers)    
@@ -293,6 +298,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Red hat](https://www.redhat.com/en/jobs)  
 1.   [Rivigo](https://www.rivigo.com/careers/)
 1.   [Rocket Companies](https://www.myrocketcareer.com/)
+1.   [Rippling](https://www.rippling.com/careers)
 
 ## S  
 1.   [Saavan](https://www.jiosaavn.com/corporate/jobs)  
@@ -382,6 +388,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Zomato](https://www.zomato.com/careers) 
 1.   [ZoomCar](https://www.zoomcar.com/careers) 
 1.   [ZS](https://jobs.zs.com/all/jobs)  
+1.   [Zynga](https://www.zynga.com/jobs/careers/)
 
  ## 0-9  
 1.   [1 mg](https://www.1mg.com/jobs)  
