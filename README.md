@@ -126,7 +126,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [DRDO](https://www.drdo.gov.in/careers)
 1.   [Dream11](https://www.dreamsports.group/careers)  
 1.   [Druva](https://www.druva.com/about/careers/)  
-1.   [Dunzo](https://www.dunzo.com/careers#jobs)     
+1.   [Dunzo](https://www.dunzo.com/careers#jobs)   
+1.   [Disney+hotstar](https://jobs.disneycareers.com/business/industry/disney%2B%20hotstar/391-28648/5)  
 
 ## E  
 1.   [Enfussion](https://enfusion.com/careers/)
