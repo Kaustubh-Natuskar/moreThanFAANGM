@@ -129,7 +129,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Dunzo](https://www.dunzo.com/careers#jobs)     
 
 ## E  
-1.   [Enfussion](https://enfusion.com/careers/)
+1.   [Enfusion](https://enfusion.com/careers/)
 1.   [Envestnet Yoodlee](https://www.yodlee.com/oceania/india-careers) 
 1.   [Eurofins](https://careers.eurofins.com/in/)  
 1.   [Expedia](https://lifeatexpediagroup.com/jobs/)  
