@@ -295,7 +295,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Rocket Companies](https://www.myrocketcareer.com/)
 
 ## S  
-1.   [Saavan](https://www.jiosaavn.com/corporate/jobs)  
+1.   [JioSaavn](https://www.jiosaavn.com/corporate/jobs)  
 1.   [Sabre corporation](https://www.sabre.com/careers/)  
 1.   [Salesforce](https://www.salesforce.com/)  
 1.   [Samsung](https://www.samsung.com/in/about-us/careers/)  
