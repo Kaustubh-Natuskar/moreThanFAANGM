@@ -20,7 +20,7 @@ Please refer to the [Guidelines](#Guidelines) before contributing.
  
  |Total companies added|
  |:-------------------:|
- |      309           |
+ |      310           |
  
 
  
@@ -133,7 +133,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 ## E  
 1.   [Enfussion](https://enfusion.com/careers/)
 1.   [Envestnet Yoodlee](https://www.yodlee.com/oceania/india-careers) 
-1.   [Eurofins](https://careers.eurofins.com/in/)  
+1.   [Eurofins](https://careers.eurofins.com/in/)
+1.   [EXL Healthcare](https://exlservice.com/careers)  
 1.   [Expedia](https://lifeatexpediagroup.com/jobs/)  
 1.   [EY](https://careers.ey.com/)  
 1.   [EyeROV](https://www.eyerov.com/careers/)
