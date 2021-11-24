@@ -20,7 +20,7 @@ Please refer to the [Guidelines](#Guidelines) before contributing.
  
  |Total companies added|
  |:-------------------:|
- |      310           |
+ |      311           |
  
 
  
@@ -193,7 +193,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Informatica](https://informatica.gr8people.com/jobs)    
 1.   [Inmobi](https://www.inmobi.com/company/careers/)  
 1.   [Innovaccer](https://innovaccer.com/careers/)  
-1.   [Intel](https://www.intel.com/content/www/us/en/jobs/jobs-at-intel.html)  
+1.   [Intel](https://www.intel.com/content/www/us/en/jobs/jobs-at-intel.html)
+1.   [Intellika](https://www.intellika.in/careers/)  
 1.   [Intuit](https://www.intuit.com/careers/)  
 1.   [IP Infusion](https://www.ipinfusion.com/career/)
 1.   [ISRO](https://www.isro.gov.in/careers)  
