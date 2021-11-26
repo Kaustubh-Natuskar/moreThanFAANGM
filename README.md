@@ -20,7 +20,7 @@ Please refer to the [Guidelines](#Guidelines) before contributing.
  
  |Total companies added|
  |:-------------------:|
- |      309           |
+ |      312            |
  
 
  
@@ -133,7 +133,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 ## E  
 1.   [Enfussion](https://enfusion.com/careers/)
 1.   [Envestnet Yoodlee](https://www.yodlee.com/oceania/india-careers) 
-1.   [Eurofins](https://careers.eurofins.com/in/)  
+1.   [Eurofins](https://careers.eurofins.com/in/)
+1.   [EXL Healthcare](https://exlservice.com/careers)  
 1.   [Expedia](https://lifeatexpediagroup.com/jobs/)  
 1.   [EY](https://careers.ey.com/)  
 1.   [EyeROV](https://www.eyerov.com/careers/)
@@ -192,7 +193,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Informatica](https://informatica.gr8people.com/jobs)    
 1.   [Inmobi](https://www.inmobi.com/company/careers/)  
 1.   [Innovaccer](https://innovaccer.com/careers/)  
-1.   [Intel](https://www.intel.com/content/www/us/en/jobs/jobs-at-intel.html)  
+1.   [Intel](https://www.intel.com/content/www/us/en/jobs/jobs-at-intel.html)
+1.   [Intellika](https://www.intellika.in/careers/)  
 1.   [Intuit](https://www.intuit.com/careers/)  
 1.   [IP Infusion](https://www.ipinfusion.com/career/)
 1.   [ISRO](https://www.isro.gov.in/careers)  
@@ -257,6 +259,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [nurture.farm](https://nurture.farm/join-us/)  
 1.   [Nutanix](https://www.nutanix.com/company/careers)   
 1.   [Nvidia](https://www.nvidia.com/en-in/about-nvidia/careers/)  
+1.   [Nykaa](https://www.nykaa.com/careers?gclid=CjwKCAiAv_KMBhAzEiwAs-rX1AaeJPV4qukBH6DJnWPnJfUpAwGN9pMmMU6hYHyEfUELj3RNCKRkkBoCVHAQAvD_BwE&ef_id=CjwKCAiAv_KMBhAzEiwAs-rX1AaeJPV4qukBH6DJnWPnJfUpAwGN9pMmMU6hYHyEfUELj3RNCKRkkBoCVHAQAvD_BwE:G:s&s_kwcid=AL!599!3!560340772706!!!g!!&utm_source=GooglePaid&utm_medium=search&utm_campaign=adwords_search_dsa_full_site)
 
 ## O  
 1.   [Obvious](https://obvious.in/careers)
