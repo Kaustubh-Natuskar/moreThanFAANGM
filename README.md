@@ -18,7 +18,7 @@ Please refer to the [Guidelines](#Guidelines) before contributing.
  
  |Total companies added|
  |:-------------------:|
- |      312            |
+ |      315            |
 
 </div>
 
@@ -61,6 +61,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
  ## B  
 1.  [Barclays](https://home.barclays/careers/)
 1.  [Bain & Co](https://www.bain.com/careers/)
+1.  [BARC India](https://www.barcindia.co.in/life-at-barc)
 1.  [Bazaarvoice](https://www.bazaarvoice.com/company/careers/)
 1.  [Bellatrix Aerospace](http://www.bellatrixaerospace.com/)
 1.  [Benchmark](https://benchmarkit.zohorecruit.com/jobs/Careers) 
@@ -122,6 +123,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Dialpad](https://www.dialpad.com/careers/)
 1.   [Directi](https://careers.directi.com/)  
 1.   [Discovery inc](https://jobs.discovery.com/careers-home/)  
+1.   [Disney](https://jobs.disneycareers.com/location/india-jobs/391-28648/1269750/2)
 1.   [DP World](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions)  
 1.   [DRDO](https://www.drdo.gov.in/careers)
 1.   [Dream11](https://www.dreamsports.group/careers)  
@@ -363,6 +365,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 # W  
 1.   [Walmart](https://careers.walmart.com/technology)  
+1.   [Warner Bros.](https://warnermediacareers.com/warner-bros-jobs)
 1.   [Wells Fargo](https://www.wellsfargo.com/about/careers/)  
 1.   [Western Digital](https://jobs.westerndigital.com/)  
 1.   [Whatfix](https://whatfix.com/careers/)
