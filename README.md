@@ -18,7 +18,7 @@ Please refer to the [Guidelines](#Guidelines) before contributing.
  
  |Total companies added|
  |:-------------------:|
- |      315            |
+ |      318            |
 
 </div>
 
@@ -47,6 +47,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1. [American express](https://www.americanexpress.com/en-us/careers/)
 1. [Amway](https://www.amway.in/about-amway/careers)    
 1. [Apna](https://www.instahyre.com/jobs-at-apna/)    
+1. [Appen](https://appen.com/jobs/)
 1. [Apple](https://www.apple.com/careers/us/) 
 1. [AppInventiv](https://appinventiv.com/career/)   
 1. [Arcesium](https://www.arcesium.com/careers.html)   
@@ -235,6 +236,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Mathworks](https://in.mathworks.com/company/jobs/opportunities.html)
 1.   [Media.net](https://careers.media.net/)  
 1.   [Meesho](https://careers.meesho.com/)  
+1.   [Memory](https://memory.ai/jobs)
 1.   [Micron](https://micron.eightfold.ai/careers)
 1.   [Microsoft](https://careers.microsoft.com/us/en)        
 1.   [MindTickle](https://www.mindtickle.com/careers/)
@@ -317,6 +319,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Shopee](https://careers.shopee.sg/)
 1.   [Siemens](https://new.siemens.com/global/en/company/jobs/our-locations/india.html)
 1.   [Siemens Healthineers](https://www.siemens-healthineers.com/en-in/careers)
+1.   [SkillVertex](https://www.linkedin.com/jobs/search/?f_C=75860188&geoId=92000000)
 1.   [Skyroot Aerospace](https://skyroot.in/join/) 
 1.   [Sling Media](https://www.linkedin.com/jobs/sling-media-jobs/?originalSubdomain=in)    
 1.   [Smith Detection](https://www.smithsdetection.com/careers/)
