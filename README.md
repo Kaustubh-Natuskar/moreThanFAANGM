@@ -18,7 +18,7 @@ Please refer to the [Guidelines](#Guidelines) before contributing.
  
  |Total companies added|
  |:-------------------:|
- |      318            |
+ |      319            |
 
 </div>
 
@@ -153,6 +153,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Frappe Technologies](https://frappe.io/careers)
 1.   [FreeCharge](https://careers.freecharge.in/)  
 1.   [Freshworks](https://www.freshworks.com/company/life-at-freshworks/careers/)
+1.   [Furlenco](https://jobs.furlenco.com/)
 1.   [fyle](https://www.fylehq.com/company/team/join)
 
 ## G  
