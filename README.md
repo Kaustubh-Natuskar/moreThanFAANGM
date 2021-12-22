@@ -74,7 +74,8 @@ Please refer to the [Guidelines](#Guidelines) before contributing.
 </tr>
 </tbody>
 </table>
-</div>
+</div>  
+<br>
 <div align="center">
 <table>
 <thead>
