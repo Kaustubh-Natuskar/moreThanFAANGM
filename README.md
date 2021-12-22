@@ -1,6 +1,8 @@
 <div align="center"> <h1> Good Product Based Companies & Startups </h1>  
 This Repository contains the list of companies(more than FAANG) which you can join!  
-<br>
+	
+<br>  
+	
 
 
 <a href="https://github.com/Kaustubh-Natuskar/companies-to-apply"><img src="https://sloc.xyz/github/Kaustubh-Natuskar/companies-to-apply" alt="LOC"/></a>
