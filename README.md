@@ -436,11 +436,16 @@ Refer [rules](https://github.com/Kaustubh-Natuskar/companies-to-apply/blob/main/
   
 
 
-## Contributors
-
-<a href="https://github.com/Kaustubh-Natuskar/companies-to-apply/graphs/contributors">
+<h2 align=center>Contributors✨</h2>
+<table>
+	<tr>
+		 <td>
+  <a href="https://github.com/Kaustubh-Natuskar/companies-to-apply/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Kaustubh-Natuskar/companies-to-apply" />
-</a>  
+  </a>
+		</td>
+	</tr>
+</table>
 
 ## Feedback
 
