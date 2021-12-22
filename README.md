@@ -19,14 +19,81 @@ Please refer to the [Guidelines](#Guidelines) before contributing.
 
 <div align="center">
  
- |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+ <!-- |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
  |:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
  | [A](#A) | [B](#B) | [C](#C) | [D](#D) | [E](#E) | [F](#F) | [G](#G) | [H](#H) | [I](#I) | [J](#J) | [K](#K) | [L](#L) | [M](#M) | [N](#N)  |
- | [O](#O) | [P](#P) | [Q](#Q) | [R](#R) | [S](#S) | [T](#T) | [U](#U) | [V](#V) | [W](#W) | [X](#X) | [Y](#Y) | [Z](#Z) | [0-9](#0-9) |      |
+ | [O](#O) | [P](#P) | [Q](#Q) | [R](#R) | [S](#S) | [T](#T) | [U](#U) | [V](#V) | [W](#W) | [X](#X) | [Y](#Y) | [Z](#Z) | [0-9](#0-9) |      | -->
  
- |Total companies added|
+ <table>
+<thead>
+<tr>
+<th align="left"></th>
+<th align="left"></th>
+<th align="left"></th>
+<th align="left"></th>
+<th align="left"></th>
+<th align="left"></th>
+<th align="left"></th>
+<th align="left"></th>
+<th align="left"></th>
+<th align="left"></th>
+<th align="left"></th>
+<th align="left"></th>
+<th align="left"></th>
+<th align="left"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left"><a href="#A">A</a></td>
+<td align="left"><a href="#B">B</a></td>
+<td align="left"><a href="#C">C</a></td>
+<td align="left"><a href="#D">D</a></td>
+<td align="left"><a href="#E">E</a></td>
+<td align="left"><a href="#F">F</a></td>
+<td align="left"><a href="#G">G</a></td>
+<td align="left"><a href="#H">H</a></td>
+<td align="left"><a href="#I">I</a></td>
+<td align="left"><a href="#J">J</a></td>
+<td align="left"><a href="#K">K</a></td>
+<td align="left"><a href="#L">L</a></td>
+<td align="left"><a href="#M">M</a></td>
+<td align="left"><a href="#N">N</a></td>
+</tr>
+<tr>
+<td align="left"><a href="#O">O</a></td>
+<td align="left"><a href="#P">P</a></td>
+<td align="left"><a href="#Q">Q</a></td>
+<td align="left"><a href="#R">R</a></td>
+<td align="left"><a href="#S">S</a></td>
+<td align="left"><a href="#T">T</a></td>
+<td align="left"><a href="#U">U</a></td>
+<td align="left"><a href="#V">V</a></td>
+<td align="left"><a href="#W">W</a></td>
+<td align="left"><a href="#X">X</a></td>
+<td align="left"><a href="#Y">Y</a></td>
+<td align="left"><a href="#Z">Z</a></td>
+<td align="left"><a href="#0-9">0-9</a></td>
+<td align="left"></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr>
+<th align="center">Total companies added</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">319</td>
+</tr>
+</tbody>
+</table>
+ <!-- |Total companies added|
  |:-------------------:|
- |      319            |
+ |      319            | -->
 
 </div>
 
