@@ -17,13 +17,9 @@ Please refer to the [Guidelines](#Guidelines) before contributing.
 ## Find Companies Alphabetically
 <br>
 
+
+
 <div align="center">
- 
- <!-- |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
- |:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|:--|
- | [A](#A) | [B](#B) | [C](#C) | [D](#D) | [E](#E) | [F](#F) | [G](#G) | [H](#H) | [I](#I) | [J](#J) | [K](#K) | [L](#L) | [M](#M) | [N](#N)  |
- | [O](#O) | [P](#P) | [Q](#Q) | [R](#R) | [S](#S) | [T](#T) | [U](#U) | [V](#V) | [W](#W) | [X](#X) | [Y](#Y) | [Z](#Z) | [0-9](#0-9) |      | -->
- 
  <table>
 <thead>
 <tr>
@@ -78,7 +74,8 @@ Please refer to the [Guidelines](#Guidelines) before contributing.
 </tr>
 </tbody>
 </table>
-
+</div>
+<div align="center">
 <table>
 <thead>
 <tr>
@@ -91,11 +88,10 @@ Please refer to the [Guidelines](#Guidelines) before contributing.
 </tr>
 </tbody>
 </table>
- <!-- |Total companies added|
- |:-------------------:|
- |      319            | -->
-
 </div>
+<!-- change the above count wfter adding comapnies. -->
+
+
 
  
  <!---
@@ -103,38 +99,38 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 -->
 
  
- ## A
+## A
 1. [Accolite software](https://www.accolite.com/careers)  
-1. [Accord software](https://accord-global.com/careers.html)
-1. [Adobe](https://www.adobe.com/careers.html)  
-1. [Acko](https://acko.hirexp.com/)
-1. [Agile Solutions](http://agilesolutions.com/careers-2/)      
-1. [Agnikul Cosmos](https://agnikul.in/#/career)   
-1. [Airbnb](https://careers.airbnb.com/)  
-1. [Airbus](https://www.airbus.com/careers.html)    
-1. [Airtel x labs](https://careers.airtel.com/)  
-1. [Ajio](https://www.ajio.com/ajio-careers)    
-1. [Akamai](https://www.akamai.com/careers)   
-1. [Alstom](https://www.alstom.com/careers)
-1. [Amadeus labs](https://jobs.amadeus.com/)    
-1. [Amazon](https://www.amazon.jobs/en/)    
-1. [Amdocs](https://asset.amdocs.com/careers/)
-1. [American express](https://www.americanexpress.com/en-us/careers/)
-1. [Amway](https://www.amway.in/about-amway/careers)    
-1. [Apna](https://www.instahyre.com/jobs-at-apna/)    
-1. [Appen](https://appen.com/jobs/)
-1. [Apple](https://www.apple.com/careers/us/) 
-1. [AppInventiv](https://appinventiv.com/career/)   
-1. [Arcesium](https://www.arcesium.com/careers.html)   
-1. [Arista Networks](https://www.arista.com/en/careers)  
-1. [Aryaka networks](https://www.linkedin.com/company/aryaka-networks/jobs?originalSubdomain=in)
-1. [Asteria Aerospace Ltd](https://asteria.co.in/careers/)  
-1. [Athena Health](https://www.athenahealth.com/careers)  
-1. [Atlan](https://atlan.com/careers/)
-1. [Atlassian](https://www.atlassian.com/company/careers)  
-1. [Avaya](https://careers.avaya.com/)  
+2. [Accord software](https://accord-global.com/careers.html)
+3. [Adobe](https://www.adobe.com/careers.html)  
+4. [Acko](https://acko.hirexp.com/)
+5. [Agile Solutions](http://agilesolutions.com/careers-2/)      
+6. [Agnikul Cosmos](https://agnikul.in/#/career)   
+7. [Airbnb](https://careers.airbnb.com/)  
+8. [Airbus](https://www.airbus.com/careers.html)    
+9. [Airtel x labs](https://careers.airtel.com/)  
+10. [Ajio](https://www.ajio.com/ajio-careers)    
+11. [Akamai](https://www.akamai.com/careers)   
+12. [Alstom](https://www.alstom.com/careers)
+13. [Amadeus labs](https://jobs.amadeus.com/)    
+14. [Amazon](https://www.amazon.jobs/en/)    
+15. [Amdocs](https://asset.amdocs.com/careers/)
+16. [American express](https://www.americanexpress.com/en-us/careers/)
+17. [Amway](https://www.amway.in/about-amway/careers)    
+18. [Apna](https://www.instahyre.com/jobs-at-apna/)    
+19. [Appen](https://appen.com/jobs/)
+20. [Apple](https://www.apple.com/careers/us/) 
+21. [AppInventiv](https://appinventiv.com/career/)   
+22. [Arcesium](https://www.arcesium.com/careers.html)   
+23. [Arista Networks](https://www.arista.com/en/careers)  
+24. [Aryaka networks](https://www.linkedin.com/company/aryaka-networks/jobs?originalSubdomain=in)
+25. [Asteria Aerospace Ltd](https://asteria.co.in/careers/)  
+26. [Athena Health](https://www.athenahealth.com/careers)  
+27. [Atlan](https://atlan.com/careers/)
+28. [Atlassian](https://www.atlassian.com/company/careers)  
+29. [Avaya](https://careers.avaya.com/)  
  
- ## B  
+## B  
 1.  [Barclays](https://home.barclays/careers/)
 1.  [Bain & Co](https://www.bain.com/careers/)
 1.  [BARC India](https://www.barcindia.co.in/life-at-barc)
@@ -160,7 +156,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.  [Byju's](https://byjus.com/careers/all-openings/job-category/tech/)
 1.  [ByteDance](https://jobs.bytedance.com/en)
 
- ## C  
+## C  
 1.   [Cadence](https://www.cadence.com/en_US/home/company/careers.html)  
 1.   [Capillary](https://www.capillarytech.com/about-us/careers/)
 1.   [CarDekho](https://careers.cardekho.com/)
@@ -470,7 +466,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [ZoomCar](https://www.zoomcar.com/careers) 
 1.   [ZS](https://jobs.zs.com/all/jobs)  
 
- ## 0-9  
+## 0-9  
 1.   [1 mg](https://www.1mg.com/jobs)  
 1.   [3i Infotech](3i-infotech.com/careers/) 
 1.   [314e Corporation](https://www.314e.com/)  
