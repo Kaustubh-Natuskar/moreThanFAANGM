@@ -1,4 +1,12 @@
-<div align="center"> <h1> Good Product Based Companies & Startups </h1></div>
+<div align="center"> <h1> Good Product Based Companies & Startups </h1>
+
+
+<a href="https://github.com/Kaustubh-Natuskar/companies-to-apply"><img src="https://sloc.xyz/github/Kaustubh-Natuskar/companies-to-apply" alt="LOC"/></a>
+<a href="https://github.com/Kaustubh-Natuskar/companies-to-apply"><img src="https://visitor-badge.laobi.icu/badge?page_id=Kaustubh-Natuskar.companies-to-apply" alt="visitor count"/></a>
+<a href="https://github.com/Kaustubh-Natuskar/companies-to-apply/stargazers"><img src="https://img.shields.io/github/stars/Kaustubh-Natuskar/companies-to-apply" alt="Stars Badge"/></a>
+<a href="https://github.com/Kaustubh-Natuskar/companies-to-apply/network/members"><img src="https://img.shields.io/github/forks/Kaustubh-Natuskar/companies-to-apply" alt="Forks Badge"/></a>
+<a href="https://github.com/Kaustubh-Natuskar/companies-to-apply/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Kaustubh-Natuskar/companies-to-apply?color=2b9348"></a>
+</div>
 
 This Repository contains the list of companies(more than FAANG) which you can join!
 Please refer to the [Guidelines](#Guidelines) before contributing. 
