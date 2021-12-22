@@ -1,7 +1,9 @@
 <div align="center"> <h1> Good Product Based Companies & Startups </h1>  
 This Repository contains the list of companies(more than FAANG) which you can join!  
 	
-<br>  
+<p>
+	<br>
+</p>  
 	
 
 
@@ -14,13 +16,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
 
 
  
-
-
-
-
-## Find Companies Alphabetically
 <br>
-
 
 
 <div align="center">
