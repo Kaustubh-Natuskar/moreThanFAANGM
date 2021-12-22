@@ -19,7 +19,7 @@ Please refer to the [Guidelines](#Guidelines) before contributing.
 
 
 
-<div align="center">
+<div style="text-align:center">
    <table>
       <thead>
          <tr>
@@ -76,7 +76,7 @@ Please refer to the [Guidelines](#Guidelines) before contributing.
    </table>
 </div>
 <br>
-<div align="center">
+<div style="text-align:center">
    <table>
       <thead>
          <tr>
