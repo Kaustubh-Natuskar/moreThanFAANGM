@@ -276,6 +276,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [GE Healthcare](https://jobs.gecareers.com/healthcare/global/en)
 1.   [Ghost](https://careers.ghost.org/)
 1.   [Github](https://github.com/about/careers)
+1.   [Gitlab](https://about.gitlab.com/jobs/)
 1.   [GoDigit](https://www.godigit.com/)
 1.   [Godrej Aerospace](https://www.godrej.com/godrejandboyce/gnb-careers)
 1.   [Gojek](https://career.gojek.com/)  
