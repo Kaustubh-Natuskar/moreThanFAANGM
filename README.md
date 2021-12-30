@@ -92,10 +92,10 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </tbody>
    </table>
 </div>
-
+<!-- change the above count after adding comapnies. -->
 <p align="right">(<a href="#Bottom">Bottom</a>)</p>
 
-<!-- change the above count wfter adding comapnies. -->
+
 
 
 
