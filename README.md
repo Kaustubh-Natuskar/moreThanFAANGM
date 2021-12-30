@@ -87,7 +87,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">324</td>
+            <td align="center">325</td>
          </tr>
       </tbody>
    </table>
@@ -494,6 +494,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Shopee](https://careers.shopee.sg/)
 1.   [Siemens](https://new.siemens.com/global/en/company/jobs/our-locations/india.html)
 1.   [Siemens Healthineers](https://www.siemens-healthineers.com/en-in/careers)
+1.   [Sigmoid](https://www.sigmoid.com/careers/)
 1.   [SkillVertex](https://www.linkedin.com/jobs/search/?f_C=75860188&geoId=92000000)
 1.   [Skyroot Aerospace](https://skyroot.in/join/) 
 1.   [Sling Media](https://www.linkedin.com/jobs/sling-media-jobs/?originalSubdomain=in)    
