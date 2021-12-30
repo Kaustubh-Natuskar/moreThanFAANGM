@@ -93,6 +93,8 @@ This Repository contains the list of companies(more than FAANG) which you can jo
    </table>
 </div>
 
+<p align="right">(<a href="#Bottom">Bottom</a>)</p>
+
 <!-- change the above count wfter adding comapnies. -->
 
 
@@ -634,3 +636,4 @@ If you have any feedback or suggestions please reach out to maintainers.
 * [Kaustubh Natuskar](https://www.linkedin.com/in/kaustubhnatuskar/)  
 * [Aayushi Singh](https://www.linkedin.com/in/aayushisingh1703/)
 
+<div id="Bottom"></div>
