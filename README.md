@@ -87,7 +87,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">323</td>
+            <td align="center">324</td>
          </tr>
       </tbody>
    </table>
@@ -253,7 +253,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [FireEye inc](https://www.fireeye.com/company/jobs.html)  
 1.   [Fischer Jordan](https://fischerjordan.com/careers/) 
 1.   [fiserv](https://www.careers.fiserv.com/)
-1.   [Flipkart](https://www.flipkartcareers.com/)  
+1.   [Flipkart](https://www.flipkartcareers.com/) 
+1.   [FlyFin](https://www.linkedin.com/company/flyfin-ai/jobs/)
 1.   [Fractal](https://fractal.ai/job-openings/)  
 1.   [Frappe Technologies](https://frappe.io/careers)
 1.   [FreeCharge](https://careers.freecharge.in/)  
