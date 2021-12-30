@@ -1,3 +1,5 @@
+<div id="top"></div>
+
 <div align="center"> <h1> Good Product Based Companies & Startups </h1>  
 This Repository contains the list of companies(more than FAANG) which you can join!  
 	
@@ -131,7 +133,11 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 27. [Atlan](https://atlan.com/careers/)
 28. [Atlassian](https://www.atlassian.com/company/careers)  
 29. [Avaya](https://careers.avaya.com/)  
- 
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
+
 ## B  
 1.  [Barclays](https://home.barclays/careers/)
 1.  [Bain & Co](https://www.bain.com/careers/)
@@ -157,6 +163,10 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.  [BukuWarung](https://www.notion.so/BukuWarung-Building-the-digital-infrastructure-for-60-million-MSMEs-in-Indonesia-7e8a4f614acb4c4888659f9d36179579)
 1.  [Byju's](https://byjus.com/careers/all-openings/job-category/tech/)
 1.  [ByteDance](https://jobs.bytedance.com/en)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
 
 ## C  
 1.   [Cadence](https://www.cadence.com/en_US/home/company/careers.html)  
@@ -186,6 +196,10 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [cure.fit](https://www.cult.fit/careers)
 1.   [Cvent](https://www.cvent.com/en/careers)  
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
+
 ## D      
 1.   [DailyHunt](https://careers.dailyhunt.com/#!/)
 1.   [D. E. Shaw & Co.](https://www.deshawindia.com/careers/career-development)
@@ -203,7 +217,11 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Dream11](https://www.dreamsports.group/careers)  
 1.   [Druva](https://www.druva.com/about/careers/)  
 1.   [Dukaan](https://angel.co/company/dukaan-app/jobs)
-1.   [Dunzo](https://www.dunzo.com/careers#jobs)     
+1.   [Dunzo](https://www.dunzo.com/careers#jobs) 
+    
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
 
 ## E  
 1.   [Enfussion](https://enfusion.com/careers/)
@@ -213,6 +231,10 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Expedia](https://lifeatexpediagroup.com/jobs/)  
 1.   [EY](https://careers.ey.com/)  
 1.   [EyeROV](https://www.eyerov.com/careers/)
+    
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
 
 ## F  
 1.   [facebook](https://www.facebook.com/careers/jobs/)  
@@ -228,6 +250,10 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Freshworks](https://www.freshworks.com/company/life-at-freshworks/careers/)
 1.   [Furlenco](https://jobs.furlenco.com/)
 1.   [fyle](https://www.fylehq.com/company/team/join)
+    
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
 
 ## G  
 1.   [Garuda Aerospace private Ltd](https://www.garudaaerospace.com/)
@@ -247,6 +273,10 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Groupon](https://www.grouponcareers.com/) 
 1.   [Grofers](https://grofers.com/careers/)  
 1.   [Groww](https://groww.skillate.com/)  
+    
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
 
 ## H  
 1.   [Hackerearth](https://www.hackerearth.com/careers/)
@@ -258,6 +288,10 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [HBO](https://warnermediacareers.com/hbo-jobs)  
 1.   [Hotstar](https://tech.hotstar.com/)  
 1.   [HP](https://jobs.hp.com/)  
+    
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
 
 ## I  
 1.   [IBM](https://www.ibm.com/in-en/employment/)
@@ -275,6 +309,10 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [IP Infusion](https://www.ipinfusion.com/career/)
 1.   [ISRO](https://www.isro.gov.in/careers)  
 1.   [iQuanti](https://www.iquanti.com/contact-us/careers/)
+    
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
 
 ## J  
 1.   [Jaguar](https://www.jaguarlandrovercareers.com/)  
