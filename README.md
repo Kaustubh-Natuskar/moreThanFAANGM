@@ -105,7 +105,9 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 -->
 
  
-## A
+<!-- ## A   -->
+<h2 id="A">A</h2>  
+
 1. [Accolite software](https://www.accolite.com/careers)  
 1. [Accord software](https://accord-global.com/careers.html)
 1. [Adobe](https://www.adobe.com/careers.html)  
@@ -576,7 +578,9 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <br>
 
-## 0-9  
+<!-- ## 0-9   -->
+<h2 id="0-9">0-9</h2>  
+
 1.   [1 mg](https://www.1mg.com/jobs)  
 1.   [3i Infotech](3i-infotech.com/careers/) 
 1.   [314e Corporation](https://www.314e.com/)  
