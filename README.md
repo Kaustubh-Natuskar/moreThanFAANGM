@@ -295,11 +295,12 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Hackerearth](https://www.hackerearth.com/careers/)
 1.   [HackerRank](https://www.hackerrank.com/careers/)
 1.   [Hashedin](https://hashedin.com/careers/)
+1.   [HBO](https://warnermediacareers.com/hbo-jobs)
 1.   [HealthAsyst](https://www.healthasyst.com/careers/)
 1.   [Healthify me](https://www.healthifyme.com/careers/)  
 1.   [HERE](https://www.here.com/careers)
-1.   [HBO](https://warnermediacareers.com/hbo-jobs)  
-1.   [Hotstar](https://tech.hotstar.com/)  
+1.   [Hotstar](https://tech.hotstar.com/)
+1.   [Honeywell](https://tech.hotstar.com/)
 1.   [HP](https://jobs.hp.com/)  
     
 <p align="right">(<a href="#top">back to top</a>)</p>
