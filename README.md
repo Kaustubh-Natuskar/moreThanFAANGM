@@ -87,7 +87,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">326</td>
+            <td align="center">334</td>
          </tr>
       </tbody>
    </table>
@@ -160,6 +160,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.  [BMC software](https://www.bmc.com/careers/careers.html)  
 1.  [BNY Mellon](https://jobs.bnymellon.com/)
 1.  [Boeing](https://jobs.boeing.com/) 
+1.  [Booking.com](https://jobs.booking.com/careers)
 1.  [Bosch](https://www.bosch.in/careers/)
 1.  [Bottemline Technologies](https://www.bottomline.com/apac/about/careers) 
 1.  [Bounce](https://careers-bounce.peoplestrong.com/portal/job/joblist)
@@ -218,6 +219,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Dhruva Space](https://angel.co/company/dhruvaspace)
 1.   [Dialpad](https://www.dialpad.com/careers/)
 1.   [Directi](https://careers.directi.com/)  
+1.   [Discord](https://discord.com/jobs)
 1.   [Discovery inc](https://jobs.discovery.com/careers-home/)  
 1.   [Disney](https://jobs.disneycareers.com/location/india-jobs/391-28648/1269750/2)
 1.   [DP World](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions)  
@@ -233,6 +235,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <h2 id="E">E</h2>  
 
+1.   [EA Games](https://www.ea.com/careers)
 1.   [Enfussion](https://enfusion.com/careers/)
 1.   [Envestnet Yoodlee](https://www.yodlee.com/oceania/india-careers) 
 1.   [Eurofins](https://careers.eurofins.com/in/)
@@ -274,6 +277,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [GE Healthcare](https://jobs.gecareers.com/healthcare/global/en)
 1.   [Ghost](https://careers.ghost.org/)
 1.   [Github](https://github.com/about/careers)
+1.   [Gitlab](https://about.gitlab.com/jobs/)
 1.   [GoDigit](https://www.godigit.com/)
 1.   [Godrej Aerospace](https://www.godrej.com/godrejandboyce/gnb-careers)
 1.   [Gojek](https://career.gojek.com/)  
@@ -361,6 +365,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 1.   [Land rover](https://www.jaguarlandrovercareers.com/)  
 1.   [Lenskart](https://hiring.lenskart.com/)
+1.   [Leap Finance](https://leapfinance.freshteam.com/jobs)
 1.   [Licious](https://www.careers.in/)  
 1.   [LinkedIn](https://careers.linkedin.com/) 
 1.   [LogicFruit](https://www.logic-fruit.com/) 
@@ -471,8 +476,11 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Razorpay](https://razorpay.com/jobs/)  
 1.   [Red hat](https://www.redhat.com/en/jobs)  
 1.   [Reelo](https://angel.co/company/reelohq)  
-3.   [Rivigo](https://www.rivigo.com/careers/)
-4.   [Rocket Companies](https://www.myrocketcareer.com/)
+1.   [Rivigo](https://www.rivigo.com/careers/)
+1.   [Rocket Companies](https://www.myrocketcareer.com/)
+1.   [Rockstar Games](https://www.rockstargames.com/careers/)
+1.   [Rubrik](https://www.rubrik.com/company/careers)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -538,6 +546,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <h2 id="U">U</h2>  
 
 1.   [Uber](https://www.uber.com/us/en/careers/)  
+1.   [Ubisoft](https://www.ubisoft.com/en-us/company/careers)
 1.   [Udaan](https://careers.udaan.com/)    
 1.   [unacadamy](https://unacademy.com/careers)    
 1.   [Unicommerce](https://unicommerce.com/careers/)    
