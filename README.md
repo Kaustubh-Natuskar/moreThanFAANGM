@@ -606,7 +606,10 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 Refer [rules](https://github.com/Kaustubh-Natuskar/companies-to-apply/blob/main/GUIDELINES.MD)
 
-  
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>  
   
 
 
@@ -620,6 +623,10 @@ Refer [rules](https://github.com/Kaustubh-Natuskar/companies-to-apply/blob/main/
 		</td>
 	</tr>
 </table>
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
 
 ## Feedback
 
