@@ -87,7 +87,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">320</td>
+            <td align="center">322</td>
          </tr>
       </tbody>
    </table>
@@ -448,6 +448,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Proximity Labs](https://www.proximity.tech/careers)  
 1.   [Prodapt](https://www.prodapt.com/en/careers/)
 1.   [Publicis Sapient](https://careers.publicissapient.com/)
+1.   [PubMatic](https://pubmatic.com/careers/home/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
