@@ -444,10 +444,12 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Practo](https://practo.app.param.ai/jobs)
 1.   [priceline](https://careers.priceline.com/search)  
 1.   [Principal](https://www.principal.com/about-us/careers/global-jobs)
+1.   [Privado.ai](https://www.privado.ai)
 1.   [Providence Healthcare](https://www.providencehealthcare.org/careers)
 1.   [Proximity Labs](https://www.proximity.tech/careers)  
 1.   [Prodapt](https://www.prodapt.com/en/careers/)
 1.   [Publicis Sapient](https://careers.publicissapient.com/)
+1.   [PubMatic](https://pubmatic.com/careers/home/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
