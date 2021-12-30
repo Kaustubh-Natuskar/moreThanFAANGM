@@ -323,6 +323,10 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Juspay](https://www.juspay.in/careers/)  
 1.   [Jumbotail](https://jumbotail.com/careers/)
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
+
 ## K
 1.   [Kantar](https://www.kantar.com/careers)  
 1.   [Kesari bharat](https://www.linkedin.com/in/deepak-sharda-6594561b1/)  
@@ -332,6 +336,10 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [KLA Tencor](https://www.kla-tencor.com/careers)  
 1.   [Koch](https://jobs.kochcareers.com/)
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
+
 ## L  
 1.   [Land rover](https://www.jaguarlandrovercareers.com/)  
 1.   [Lenskart](https://hiring.lenskart.com/)
@@ -340,6 +348,10 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [LogicFruit](https://www.logic-fruit.com/) 
 1.   [Logicmonitor](https://www.logicmonitor.com/careers)
 1.   [Lowe's companies, inc](https://corporate.lowes.com/careers/search-apply)  
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
 
 ## M  
 1.   [Magicpin](https://magicpin.darwinbox.in/ms/candidate/careers)  
@@ -357,6 +369,10 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Mount talent](https://careers.mounttalent.com/)
 1.   [MPL](https://mpl.darwinbox.in/ms/candidate/careers)    
 1.   [Myntra](https://careers.myntra.com/)  
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
 
 ## N  
 1.   [Nagarro](https://www.nagarro.com/en/careers)  
@@ -376,6 +392,10 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Nvidia](https://www.nvidia.com/en-in/about-nvidia/careers/)  
 1.   [Nykaa](https://www.nykaa.com/careers?gclid=CjwKCAiAv_KMBhAzEiwAs-rX1AaeJPV4qukBH6DJnWPnJfUpAwGN9pMmMU6hYHyEfUELj3RNCKRkkBoCVHAQAvD_BwE&ef_id=CjwKCAiAv_KMBhAzEiwAs-rX1AaeJPV4qukBH6DJnWPnJfUpAwGN9pMmMU6hYHyEfUELj3RNCKRkkBoCVHAQAvD_BwE:G:s&s_kwcid=AL!599!3!560340772706!!!g!!&utm_source=GooglePaid&utm_medium=search&utm_campaign=adwords_search_dsa_full_site)
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
+
 ## O  
 1.   [Obvious](https://obvious.in/careers)
 1.   [Ola](https://www.olacabs.com/careers) 
@@ -384,6 +404,10 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [OYO](https://www.naukri.com/oyo-jobs-careers-2884032)
 1.   [Observe.ai](https://www.observe.ai/careers#section-current-openings)
 1.   [Optum](https://www.optum.in/about/careers.html)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
 
 ## P  
 1.   [Park+](https://parkplus.io/we-are-hiring#hiring)  
@@ -405,15 +429,27 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Prodapt](https://www.prodapt.com/en/careers/)
 1.   [Publicis Sapient](https://careers.publicissapient.com/)
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
+
 ## Q  
 1.   [Qualcomm](https://www.qualcomm.com/company/careers) 
 1.   [Quora](https://www.quora.com/careers)  
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
 
 ## R  
 1.   [Razorpay](https://razorpay.com/jobs/)  
 1.   [Red hat](https://www.redhat.com/en/jobs)  
 1.   [Rivigo](https://www.rivigo.com/careers/)
 1.   [Rocket Companies](https://www.myrocketcareer.com/)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
 
 ## S  
 1.   [Saavan](https://www.jiosaavn.com/corporate/jobs)  
@@ -442,6 +478,10 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Swiggy](https://careers.swiggy.com/)  
 1.   [Synopsys](https://www.synopsys.com/careers.html)  
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
+
 ## T  
 1.   [Target](https://corporate.target.com/careers)  
 1.   [TATA Advanced Sysytems Ltd](https://www.tataadvancedsystems.com/careers.php)
@@ -461,6 +501,10 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Twilio](https://www.twilio.com/company/jobs)  
 1.   [Twitter](https://careers.twitter.com/) 
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
+
 ## U  
 1.   [Uber](https://www.uber.com/us/en/careers/)  
 1.   [Udaan](https://careers.udaan.com/)    
@@ -470,7 +514,11 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Upgrad](https://www.upgrad.com/us/careers/)   
 1.   [Upstox](https://jobs.lever.co/upstox)      
 1.   [Urban company](https://careers.urbancompany.com/)     
-       
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
+
 ## V  
 1.   [Viasat](https://careers.viasat.com/)  
 1.   [Vicara](https://vicara.ch/careers/)
@@ -478,7 +526,11 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Vmware](https://careers.vmware.com/main/)  
 1.   [Vogo](https://vogo.in/careers/)
 
-# W  
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
+
+## W  
 1.   [Walmart](https://careers.walmart.com/technology)  
 1.   [Warner Bros.](https://warnermediacareers.com/warner-bros-jobs)
 1.   [Wells Fargo](https://www.wellsfargo.com/about/careers/)  
@@ -487,15 +539,27 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Wooqer](https://wooqer.com/careers/)
 1.   [worldQuant](https://www.worldquant.com/careers/)  
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
+
 ## X  
 1.   [Xiaomi](https://xiaomi.app.param.ai/jobs/)  
 1.   [Xicom Technologies](https://www.xicom.biz/careers/) 
-      
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
+
 ## Y  
 1.   [Yahoo](https://research.yahoo.com/careers)
 1.   [yellow.ai](https://yellow.ai/career)  
 1.   [yugabyte](https://www.yugabyte.com/careers/)
 1.   [Yulu Bikes](https://www.yulu.bike/careers/)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
 
 ## Z  
 1.   [zerodha](https://careers.zerodha.com/)  
@@ -506,12 +570,19 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [ZoomCar](https://www.zoomcar.com/careers) 
 1.   [ZS](https://jobs.zs.com/all/jobs)  
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
+
 ## 0-9  
 1.   [1 mg](https://www.1mg.com/jobs)  
 1.   [3i Infotech](3i-infotech.com/careers/) 
 1.   [314e Corporation](https://www.314e.com/)  
 1.   [[24]7.ai](https://www.247.ai/career-search) 
-  
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>  
  
  
  
