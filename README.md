@@ -477,7 +477,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Rivigo](https://www.rivigo.com/careers/)
 1.   [Rocket Companies](https://www.myrocketcareer.com/)
 1.   [Rockstar Games](https://www.rockstargames.com/careers/)
-.   [Rubrik](https://www.rubrik.com/company/careers)
+1.   [Rubrik](https://www.rubrik.com/company/careers)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
