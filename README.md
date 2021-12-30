@@ -142,7 +142,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <br>
 
-## B  
+<h2 id="B">B</h2>  
+
 1.  [Barclays](https://home.barclays/careers/)
 1.  [Bain & Co](https://www.bain.com/careers/)
 1.  [BARC India](https://www.barcindia.co.in/life-at-barc)
@@ -172,7 +173,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <br>
 
-## C  
+<h2 id="C">C</h2>  
+
 1.   [Cadence](https://www.cadence.com/en_US/home/company/careers.html)  
 1.   [Capillary](https://www.capillarytech.com/about-us/careers/)
 1.   [CarDekho](https://careers.cardekho.com/)
@@ -204,7 +206,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <br>
 
-## D      
+<h2 id="D">D</h2>  
+
 1.   [DailyHunt](https://careers.dailyhunt.com/#!/)
 1.   [D. E. Shaw & Co.](https://www.deshawindia.com/careers/career-development)
 1.   [DealShare](https://www.dealshare.in/careers#home)  
@@ -227,7 +230,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <br>
 
-## E  
+<h2 id="E">E</h2>  
+
 1.   [Enfussion](https://enfusion.com/careers/)
 1.   [Envestnet Yoodlee](https://www.yodlee.com/oceania/india-careers) 
 1.   [Eurofins](https://careers.eurofins.com/in/)
@@ -240,7 +244,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <br>
 
-## F  
+<h2 id="F">F</h2>  
+
 1.   [facebook](https://www.facebook.com/careers/jobs/)  
 1.   [FamPay](https://fampay.in/careers)
 1.   [Fidelity investments](https://jobs.fidelity.com/)  
@@ -259,7 +264,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <br>
 
-## G  
+<h2 id="G">G</h2>  
+
 1.   [Garuda Aerospace private Ltd](https://www.garudaaerospace.com/)
 1.   [GeeksForGeeks](https://www.geeksforgeeks.org/careers/?)
 1.   [GE](https://www.ge.com/in/careers/opportunities)
@@ -282,7 +288,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <br>
 
-## H  
+<h2 id="H">H</h2>   
+
 1.   [Hackerearth](https://www.hackerearth.com/careers/)
 1.   [HackerRank](https://www.hackerrank.com/careers/)
 1.   [Hashedin](https://hashedin.com/careers/)
@@ -297,7 +304,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <br>
 
-## I  
+<h2 id="I">I</h2>  
+
 1.   [IBM](https://www.ibm.com/in-en/employment/)
 1.   [IdeaForge](https://www.ideaforge.co.in/career/)
 1.   [IHS Markit](https://careers.ihsmarkit.com/)  
@@ -318,7 +326,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <br>
 
-## J  
+<h2 id="J">J</h2>  
+
 1.   [Jaguar](https://www.jaguarlandrovercareers.com/)  
 1.   [Jio](https://careers.jio.com/)  
 1.   [JP Morgan](https://careers.jpmorgan.com/IN/en/home)  
@@ -331,7 +340,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <br>
 
-## K
+<h2 id="K">K</h2>
+
 1.   [Kantar](https://www.kantar.com/careers)  
 1.   [Kesari bharat](https://www.linkedin.com/in/deepak-sharda-6594561b1/)  
 1.   [Keyvalue](https://keyvalue.systems/)
@@ -344,7 +354,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <br>
 
-## L  
+<h2 id="L">L</h2>   
+
 1.   [Land rover](https://www.jaguarlandrovercareers.com/)  
 1.   [Lenskart](https://hiring.lenskart.com/)
 1.   [Licious](https://www.careers.in/)  
@@ -357,7 +368,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <br>
 
-## M  
+<h2 id="M">M</h2>  
+
 1.   [Magicpin](https://magicpin.darwinbox.in/ms/candidate/careers)  
 1.   [MakeMyTrip](https://careers.makemytrip.com/)  
 1.   [Mastercard](https://www.mastercard.us/en-us/vision/who-we-are/careers.html)  
@@ -378,7 +390,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <br>
 
-## N  
+<h2 id="N">N</h2>  
+
 1.   [Nagarro](https://www.nagarro.com/en/careers)  
 1.   [NASDAQ](https://www.nasdaq.com/about/careers)  
 1.   [National instruments](https://www.ni.com/en-in/about-ni/careers.html)  
@@ -400,7 +413,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <br>
 
-## O  
+<h2 id="O">O</h2>  
+
 1.   [Obvious](https://obvious.in/careers)
 1.   [Ola](https://www.olacabs.com/careers) 
 1.   [Olx](https://careers.olxgroup.com/) 
@@ -413,7 +427,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <br>
 
-## P  
+<h2 id="P">P</h2>  
+
 1.   [Park+](https://parkplus.io/we-are-hiring#hiring)  
 1.   [Paypal](https://www.paypal.com/in/webapps/mpp/jobs)  
 1.   [Paytm](https://paytm.com/careers/)  
@@ -437,7 +452,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <br>
 
-## Q  
+<h2 id="Q">Q</h2>  
+
 1.   [Qualcomm](https://www.qualcomm.com/company/careers) 
 1.   [Quora](https://www.quora.com/careers)  
 
@@ -445,7 +461,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <br>
 
-## R  
+<h2 id="R">R</h2>  
+
 1.   [Razorpay](https://razorpay.com/jobs/)  
 1.   [Red hat](https://www.redhat.com/en/jobs)  
 1.   [Rivigo](https://www.rivigo.com/careers/)
@@ -455,7 +472,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <br>
 
-## S  
+<h2 id="S">S</h2>  
+
 1.   [Saavan](https://www.jiosaavn.com/corporate/jobs)  
 1.   [Sabre corporation](https://www.sabre.com/careers/)  
 1.   [Salesforce](https://www.salesforce.com/)  
@@ -486,7 +504,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <br>
 
-## T  
+<h2 id="T">T</h2>  
+
 1.   [Target](https://corporate.target.com/careers)  
 1.   [TATA Advanced Sysytems Ltd](https://www.tataadvancedsystems.com/careers.php)
 1.   [TE Connectivity](https://careers.te.com/)
@@ -509,7 +528,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <br>
 
-## U  
+<h2 id="U">U</h2>  
+
 1.   [Uber](https://www.uber.com/us/en/careers/)  
 1.   [Udaan](https://careers.udaan.com/)    
 1.   [unacadamy](https://unacademy.com/careers)    
@@ -523,7 +543,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <br>
 
-## V  
+<h2 id="V">V</h2>  
+
 1.   [Viasat](https://careers.viasat.com/)  
 1.   [Vicara](https://vicara.ch/careers/)
 1.   [Visa](https://www.visa.co.in/careers.html)
@@ -534,7 +555,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <br>
 
-## W  
+<h2 id="W">W</h2>  
+
 1.   [Walmart](https://careers.walmart.com/technology)  
 1.   [Warner Bros.](https://warnermediacareers.com/warner-bros-jobs)
 1.   [Wells Fargo](https://www.wellsfargo.com/about/careers/)  
@@ -547,7 +569,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <br>
 
-## X  
+<h2 id="X">X</h2>  
+
 1.   [Xiaomi](https://xiaomi.app.param.ai/jobs/)  
 1.   [Xicom Technologies](https://www.xicom.biz/careers/) 
 
@@ -555,7 +578,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <br>
 
-## Y  
+<h2 id="Y">Y</h2>  
+
 1.   [Yahoo](https://research.yahoo.com/careers)
 1.   [yellow.ai](https://yellow.ai/career)  
 1.   [yugabyte](https://www.yugabyte.com/careers/)
@@ -565,7 +589,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <br>
 
-## Z  
+<h2 id="Z">Z</h2>  
+
 1.   [zerodha](https://careers.zerodha.com/)  
 1.   [Zeta](https://careers.zeta.tech/work-with-us/)
 1.   [ZivaMe](https://careers.zivame.com/)  
