@@ -502,7 +502,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [SerpApi](https://serpapi.com/team)  
 1.   [ServiceNow](https://www.servicenow.com/careers.html)  
 1.   [Shaadi.com](https://www.naukri.com/)  
-1.   [ShareChat](https://we.sharechat.com/careers)
+1.   [ShareChat](https://sharechat.com/careers)
 1.   [Shell](https://www.shell.com/careers.html)  
 1.   [Shipsy](https://shipsy.io/career/)
 1.   [Shopee](https://careers.shopee.sg/)
