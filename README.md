@@ -87,7 +87,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">340</td>
+            <td align="center">341</td>
          </tr>
       </tbody>
    </table>
@@ -127,6 +127,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1. [American express](https://www.americanexpress.com/en-us/careers/)
 1. [Amway](https://www.amway.in/about-amway/careers)    
 1. [Apna](https://www.instahyre.com/jobs-at-apna/)    
+1. [App Dynamics](https://www.appdynamics.com/company/careers/india)
 1. [Appen](https://appen.com/jobs/)
 1. [Apple](https://www.apple.com/careers/us/) 
 1. [AppInventiv](https://appinventiv.com/career/)   
