@@ -87,7 +87,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">334</td>
+            <td align="center">339</td>
          </tr>
       </tbody>
    </table>
@@ -114,6 +114,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1. [Acko](https://acko.hirexp.com/)
 1. [Agile Solutions](http://agilesolutions.com/careers-2/)      
 1. [Agnikul Cosmos](https://agnikul.in/#/career)   
+1. [Airbase](https://www.airbase.com/careers)
 1. [Airbnb](https://careers.airbnb.com/)  
 1. [Airbus](https://www.airbus.com/careers.html)    
 1. [Airtel x labs](https://careers.airtel.com/)  
@@ -271,6 +272,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <h2 id="G">G</h2>  
 
+1.   [Gartner](https://jobs.gartner.com/)
 1.   [Garuda Aerospace private Ltd](https://www.garudaaerospace.com/)
 1.   [GeeksForGeeks](https://www.geeksforgeeks.org/careers/?)
 1.   [GE](https://www.ge.com/in/careers/opportunities)
@@ -278,6 +280,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Ghost](https://careers.ghost.org/)
 1.   [Github](https://github.com/about/careers)
 1.   [Gitlab](https://about.gitlab.com/jobs/)
+1.   [GoDaddy](https://careers.godaddy.com/)
 1.   [GoDigit](https://www.godigit.com/)
 1.   [Godrej Aerospace](https://www.godrej.com/godrejandboyce/gnb-careers)
 1.   [Gojek](https://career.gojek.com/)  
@@ -424,6 +427,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <h2 id="O">O</h2>  
 
 1.   [Obvious](https://obvious.in/careers)
+1.   [Ocrolus](https://www.ocrolus.com/careers/)
 1.   [Ola](https://www.olacabs.com/careers) 
 1.   [Olx](https://careers.olxgroup.com/) 
 1.   [Oracle](https://www.oracle.com/apac/corporate/careers/)  
@@ -437,6 +441,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <h2 id="P">P</h2>  
 
+1.   [Palo Alto Networks](https://jobs.paloaltonetworks.com/en/)
 1.   [Park+](https://parkplus.io/we-are-hiring#hiring)  
 1.   [Paypal](https://www.paypal.com/in/webapps/mpp/jobs)  
 1.   [Paytm](https://paytm.com/careers/)  
