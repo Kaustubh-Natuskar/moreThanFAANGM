@@ -87,7 +87,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">342</td>
+            <td align="center">345</td>
          </tr>
       </tbody>
    </table>
@@ -131,6 +131,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1. [Appen](https://appen.com/jobs/)
 1. [Apple](https://www.apple.com/careers/us/) 
 1. [AppInventiv](https://appinventiv.com/career/)   
+1. [Aptiv](https://jobs.aptiv.com/)
 1. [Arcesium](https://www.arcesium.com/careers.html)   
 1. [Arista Networks](https://www.arista.com/en/careers)  
 1. [Aryaka networks](https://www.linkedin.com/company/aryaka-networks/jobs?originalSubdomain=in)
@@ -241,6 +242,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [EA Games](https://www.ea.com/careers)
 1.   [Enfussion](https://enfusion.com/careers/)
 1.   [Envestnet Yoodlee](https://www.yodlee.com/oceania/india-careers) 
+1.   [Ericsson](https://www.ericsson.com/en/careers)
 1.   [Eurofins](https://careers.eurofins.com/in/)
 1.   [EXL Healthcare](https://exlservice.com/careers)  
 1.   [Expedia](https://lifeatexpediagroup.com/jobs/)  
@@ -259,6 +261,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [FireEye inc](https://www.fireeye.com/company/jobs.html)  
 1.   [Fischer Jordan](https://fischerjordan.com/careers/) 
 1.   [fiserv](https://www.careers.fiserv.com/)
+1.   [Flexport](https://www.flexport.com/careers/jobs/)
 1.   [Flipkart](https://www.flipkartcareers.com/) 
 1.   [FlyFin](https://www.linkedin.com/company/flyfin-ai/jobs/)
 1.   [Fractal](https://fractal.ai/job-openings/)  
