@@ -87,7 +87,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">341</td>
+            <td align="center">342</td>
          </tr>
       </tbody>
    </table>
@@ -181,6 +181,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Cadence](https://www.cadence.com/en_US/home/company/careers.html)  
 1.   [Capillary](https://www.capillarytech.com/about-us/careers/)
 1.   [CarDekho](https://careers.cardekho.com/)
+1.   [CarWale](https://www.carwale.com/career/)
 1.   [Cimpress](https://cimpress.com/careers/)
 1.   [Celigo](https://www.celigo.com/company/careers/)  
 1.   [Cerner](https://careers.cerner.com/)
