@@ -87,7 +87,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">345</td>
+            <td align="center">348</td>
          </tr>
       </tbody>
    </table>
@@ -232,7 +232,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Druva](https://www.druva.com/about/careers/)  
 1.   [Dukaan](https://angel.co/company/dukaan-app/jobs)
 1.   [Dunzo](https://www.dunzo.com/careers#jobs) 
-    
+1.   [DuPont](https://careers.dupont.com/us/en)    
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <br>
@@ -327,6 +328,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Impact Analytics](https://www.impactanalytics.co/join-us/)
 1.   [Indeed](https://in.indeed.com/cmp/Indeed)
 1.   [India Mart](https://careers.indiamart.com/)
+1.   [Infor](https://www.infor.com/nordics/about/careers)
 1.   [Informatica](https://informatica.gr8people.com/jobs)    
 1.   [Inmobi](https://www.inmobi.com/company/careers/)  
 1.   [Innovaccer](https://innovaccer.com/careers/)  
@@ -438,6 +440,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Oracle](https://www.oracle.com/apac/corporate/careers/)  
 1.   [OYO](https://www.naukri.com/oyo-jobs-careers-2884032)
 1.   [Observe.ai](https://www.observe.ai/careers#section-current-openings)
+1.   [OpenText](https://careers.opentext.com/)
 1.   [Optum](https://www.optum.in/about/careers.html)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
