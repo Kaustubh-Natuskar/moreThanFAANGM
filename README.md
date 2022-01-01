@@ -87,7 +87,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">348</td>
+            <td align="center">349</td>
          </tr>
       </tbody>
    </table>
@@ -391,6 +391,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Magicpin](https://magicpin.darwinbox.in/ms/candidate/careers)  
 1.   [MakeMyTrip](https://careers.makemytrip.com/)  
 1.   [Mastercard](https://www.mastercard.us/en-us/vision/who-we-are/careers.html)  
+1.   [Mastery](https://mastery.net/careers/)
 1.   [Mathworks](https://in.mathworks.com/company/jobs/opportunities.html)
 1.   [Media.net](https://careers.media.net/)  
 1.   [Meesho](https://careers.meesho.com/)  
