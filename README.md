@@ -87,7 +87,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">356</td>
+            <td align="center">359</td>
          </tr>
       </tbody>
    </table>
@@ -263,7 +263,9 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <h2 id="F">F</h2>  
 
-1.   [facebook](https://www.facebook.com/careers/jobs/)  
+1.   [F5](https://www.f5.com/company/careers/) 
+1.   [facebook](https://www.facebook.com/careers/jobs/) 
+1.   [factset](https://www.factset.com/careers)  
 1.   [FamPay](https://fampay.in/careers)
 1.   [Fidelity investments](https://jobs.fidelity.com/)  
 1.   [FireEye inc](https://www.fireeye.com/company/jobs.html)  
@@ -409,7 +411,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [MobiKwik](https://mobikwik.recruiterbox.com/)  
 1.   [Morgan Stanley](https://www.morganstanley.com/people-opportunities/)  
 1.   [Mount talent](https://careers.mounttalent.com/)
-1.   [MPL](https://mpl.darwinbox.in/ms/candidate/careers)    
+1.   [MPL](https://mpl.darwinbox.in/ms/candidate/careers)   
+1.   [MTX](https://www.mtxb2b.com/s/career)    
 1.   [Myntra](https://careers.myntra.com/)  
 
 <p align="right">(<a href="#top">back to top</a>)</p>
