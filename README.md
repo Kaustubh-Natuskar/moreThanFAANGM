@@ -87,7 +87,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">349</td>
+            <td align="center">356</td>
          </tr>
       </tbody>
    </table>
@@ -181,6 +181,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 1.   [Cadence](https://www.cadence.com/en_US/home/company/careers.html)  
 1.   [Capillary](https://www.capillarytech.com/about-us/careers/)
+1.   [Capital One](https://www.capitalonecareers.com/)
 1.   [CarDekho](https://careers.cardekho.com/)
 1.   [CarWale](https://www.carwale.com/career/)
 1.   [Cimpress](https://cimpress.com/careers/)
@@ -189,6 +190,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Chargebee](https://careers.chargebee.com/jobs/)
 1.   [Chronus](https://chronus.com/about-us/careers)  
 1.   [Cisco](https://jobs.cisco.com/)  
+1.   [Citadel](https://www.citadel.com/careers/open-positions/)
 1.   [Citrix](https://jobs.citrix.com/)  
 1.   [Cleartrip](https://careers.cleartrip.com/#!/)
 1.   [Cloudera](https://www.cloudera.com/careers.html)  
@@ -199,6 +201,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Coinswitch kuber](https://recruiterflow.com/coinswitch/jobs)  
 1.   [Commvault](https://careers.commvault.com/)
 1.   [Continental](https://www.continental.com/en/career/)
+1.   [Coupang](https://rocketyourcareer.usa.coupang.com/)
 1.   [Cradlepoint](https://cradlepoint.com/about-us/careers/job-listings/) 
 1.   [Cred](https://careers.cred.club/)  
 1.   [Credit Suisse](https://www.credit-suisse.com/careers/en/apply.html)
@@ -215,6 +218,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <h2 id="D">D</h2>  
 
 1.   [DailyHunt](https://careers.dailyhunt.com/#!/)
+1.   [Databricks](https://databricks.com/company/careers/open-positions)
+1.   [Dataminr](https://www.dataminr.com/careers)
 1.   [D. E. Shaw & Co.](https://www.deshawindia.com/careers/career-development)
 1.   [DealShare](https://www.dealshare.in/careers#home)  
 1.   [Delhivery](https://www.delhivery.com/careers/)  
@@ -226,9 +231,11 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Discord](https://discord.com/jobs)
 1.   [Discovery inc](https://jobs.discovery.com/careers-home/)  
 1.   [Disney](https://jobs.disneycareers.com/location/india-jobs/391-28648/1269750/2)
+1.   [DoorDash](https://careers.doordash.com/)
 1.   [DP World](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions)  
 1.   [DRDO](https://www.drdo.gov.in/careers)
 1.   [Dream11](https://www.dreamsports.group/careers)  
+1.   [Dropbox](https://www.dropbox.com/jobs)
 1.   [Druva](https://www.druva.com/about/careers/)  
 1.   [Dukaan](https://angel.co/company/dukaan-app/jobs)
 1.   [Dunzo](https://www.dunzo.com/careers#jobs) 
