@@ -87,7 +87,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">359</td>
+            <td align="center">361</td>
          </tr>
       </tbody>
    </table>
@@ -158,6 +158,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.  [BigBasket](https://careers.bigbasket.com/)  
 1.  [BlackBuck](https://www.blackbuck.com/careers.php)
 1.  [Blackrock](https://careers.blackrock.com/)
+1.  [Bloomberg LP](https://careers.bloomberg.com/job/search)
 1.  [BlueJeans](https://www.bluejeans.com/careers)
 1.  [Bluestacks](https://www.bluestacks.com/work-at-bluestacks.html)
 1.  [BMC software](https://www.bmc.com/careers/careers.html)  
@@ -167,6 +168,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.  [Bosch](https://www.bosch.in/careers/)
 1.  [Bottemline Technologies](https://www.bottomline.com/apac/about/careers) 
 1.  [Bounce](https://careers-bounce.peoplestrong.com/portal/job/joblist)
+1.  [Box](https://www.box.com/en-in/careers)
 1.  [Brahmastra Aerospace](https://www.brahmastraspace.org/career)
 1.  [Browser stack](https://www.browserstack.com/careers)  
 1.  [BukuWarung](https://www.notion.so/BukuWarung-Building-the-digital-infrastructure-for-60-million-MSMEs-in-Indonesia-7e8a4f614acb4c4888659f9d36179579)
