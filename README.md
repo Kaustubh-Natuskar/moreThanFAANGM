@@ -87,7 +87,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">361</td>
+            <td align="center">362</td>
          </tr>
       </tbody>
    </table>
@@ -220,6 +220,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <h2 id="D">D</h2>  
 
 1.   [DailyHunt](https://careers.dailyhunt.com/#!/)
+1.   [Dashlane](https://www.dashlane.com/about/careers)
 1.   [Databricks](https://databricks.com/company/careers/open-positions)
 1.   [Dataminr](https://www.dataminr.com/careers)
 1.   [D. E. Shaw & Co.](https://www.deshawindia.com/careers/career-development)
