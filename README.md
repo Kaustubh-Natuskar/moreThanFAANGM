@@ -87,7 +87,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">362</td>
+            <td align="center">363</td>
          </tr>
       </tbody>
    </table>
@@ -203,6 +203,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Coinswitch kuber](https://recruiterflow.com/coinswitch/jobs)  
 1.   [Commvault](https://careers.commvault.com/)
 1.   [Continental](https://www.continental.com/en/career/)
+1.   [Contra](https://contra.com/careers)
 1.   [Coupang](https://rocketyourcareer.usa.coupang.com/)
 1.   [Cradlepoint](https://cradlepoint.com/about-us/careers/job-listings/) 
 1.   [Cred](https://careers.cred.club/)  
