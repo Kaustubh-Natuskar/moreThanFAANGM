@@ -194,6 +194,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Cisco](https://jobs.cisco.com/)  
 1.   [Citadel](https://www.citadel.com/careers/open-positions/)
 1.   [Citrix](https://jobs.citrix.com/)  
+1.   [Classplus](https://www.linkedin.com/jobs/classplus-jobs/?originalSubdomain=in)
 1.   [Cleartrip](https://careers.cleartrip.com/#!/)
 1.   [Cloudera](https://www.cloudera.com/careers.html)  
 1.   [Codenation innovation labs](http://codenation.co.in/hiringprocess.html)  
