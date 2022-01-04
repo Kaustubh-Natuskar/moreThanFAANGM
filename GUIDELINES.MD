@@ -20,7 +20,7 @@
 
 # GUIDELINES TO ADD COMPANY  
 
-1. companies which provide remote wroek are welcome.  
+1. companies which provide remote work are welcome.  
 
  
 3. Work Life Balance MUST be good.  
@@ -28,7 +28,7 @@
 # Help us to resolve issue [#4](https://github.com/Kaustubh-Natuskar/companies-to-apply/issues/4#issue-1000096274) 
 
 1. fork the latest main.  
-2. There will be a file categories.md, where we have mentioned domanins of companies, feel free to add new ones.  
+2. There will be a file categories.md, where we have mentioned domain names of companies, feel free to add new ones.  
 3. Now add the companies from readme.md to their respective categories alphabetically.
 4. make a PR :)
 * NOTE: As of now we are adding these changes only to categories.md only once we decided about how we should organize the new section on readme.md(on front pagre which people will see) till then no need to add add new section in readme.md. 
