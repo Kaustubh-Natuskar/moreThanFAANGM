@@ -504,6 +504,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <h2 id="R">R</h2>  
 
+1.   [Ramp](https://ramp.com/careers)  
 1.   [Razorpay](https://razorpay.com/jobs/)  
 1.   [Red hat](https://www.redhat.com/en/jobs)  
 1.   [Reelo](https://angel.co/company/reelohq)  
