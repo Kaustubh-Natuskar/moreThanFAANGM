@@ -87,7 +87,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">366</td>
+            <td align="center">368</td>
          </tr>
       </tbody>
    </table>
@@ -194,6 +194,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Chronus](https://chronus.com/about-us/careers)  
 1.   [Cisco](https://jobs.cisco.com/)  
 1.   [Citadel](https://www.citadel.com/careers/open-positions/)
+1.   [Citadel Securities](https://www.citadelsecurities.com/careers/open-roles/)
 1.   [Citrix](https://jobs.citrix.com/)  
 1.   [Classplus](https://www.linkedin.com/jobs/classplus-jobs/?originalSubdomain=in)
 1.   [Cleartrip](https://careers.cleartrip.com/#!/)
@@ -408,6 +409,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Mastercard](https://www.mastercard.us/en-us/vision/who-we-are/careers.html)  
 1.   [Mastery](https://mastery.net/careers/)
 1.   [Mathworks](https://in.mathworks.com/company/jobs/opportunities.html)
+1.   [McKinsey](https://www.mckinsey.com/in/careers-in-india)
 1.   [Media.net](https://careers.media.net/)  
 1.   [Meesho](https://careers.meesho.com/)  
 1.   [Memory](https://memory.ai/jobs)
