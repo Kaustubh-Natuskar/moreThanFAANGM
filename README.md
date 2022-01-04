@@ -9,7 +9,8 @@ This Repository contains the list of companies(more than FAANG) which you can jo
 	
 
 
-<a href="https://github.com/Kaustubh-Natuskar/companies-to-apply"><img src="https://sloc.xyz/github/Kaustubh-Natuskar/companies-to-apply" alt="LOC"/></a>
+  
+[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Get%20over%20170%20free%20design%20blocks%20based%20on%20Bootstrap%204&url=https://froala.com/design-blocks&via=froala&hashtags=bootstrap,design,templates,blocks,developers)
 <a href="https://github.com/Kaustubh-Natuskar/companies-to-apply"><img src="https://visitor-badge.laobi.icu/badge?page_id=Kaustubh-Natuskar.companies-to-apply" alt="visitor count"/></a>
 <a href="https://github.com/Kaustubh-Natuskar/companies-to-apply/stargazers"><img src="https://img.shields.io/github/stars/Kaustubh-Natuskar/companies-to-apply" alt="Stars Badge"/></a>
 <a href="https://github.com/Kaustubh-Natuskar/companies-to-apply/network/members"><img src="https://img.shields.io/github/forks/Kaustubh-Natuskar/companies-to-apply" alt="Forks Badge"/></a>
