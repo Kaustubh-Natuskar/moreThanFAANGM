@@ -226,6 +226,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Dashlane](https://www.dashlane.com/about/careers)
 1.   [Databricks](https://databricks.com/company/careers/open-positions)
 1.   [Dataminr](https://www.dataminr.com/careers)
+1.   [DBS](https://www.dbs.com/careers/default.page)
 1.   [D. E. Shaw & Co.](https://www.deshawindia.com/careers/career-development)
 1.   [DealShare](https://www.dealshare.in/careers#home)  
 1.   [Delhivery](https://www.delhivery.com/careers/)  
