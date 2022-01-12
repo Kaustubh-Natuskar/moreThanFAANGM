@@ -86,7 +86,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">369</td>
+            <td align="center">370</td>
          </tr>
       </tbody>
    </table>
@@ -196,6 +196,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Citadel Securities](https://www.citadelsecurities.com/careers/open-roles/)
 1.   [Citrix](https://jobs.citrix.com/)  
 1.   [Classplus](https://www.linkedin.com/jobs/classplus-jobs/?originalSubdomain=in)
+1.   [ClearGlass](https://clearglass.com/careers/)
 1.   [Cleartrip](https://careers.cleartrip.com/#!/)
 1.   [Cloudera](https://www.cloudera.com/careers.html)  
 1.   [Codenation innovation labs](http://codenation.co.in/hiringprocess.html)  
