@@ -86,7 +86,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">370</td>
+            <td align="center">371</td>
          </tr>
       </tbody>
    </table>
@@ -510,7 +510,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Ramp](https://ramp.com/careers)  
 1.   [Razorpay](https://razorpay.com/jobs/)  
 1.   [Red hat](https://www.redhat.com/en/jobs)  
-1.   [Reelo](https://angel.co/company/reelohq)  
+1.   [Reelo](https://angel.co/company/reelohq)
+1.   [Reprise](https://www.getreprise.com/careers/)
 1.   [Rivigo](https://www.rivigo.com/careers/)
 1.   [Rocket Companies](https://www.myrocketcareer.com/)
 1.   [Rockstar Games](https://www.rockstargames.com/careers/)
