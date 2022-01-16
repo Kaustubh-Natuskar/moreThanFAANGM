@@ -86,7 +86,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">371</td>
+            <td align="center">372</td>
          </tr>
       </tbody>
    </table>
@@ -548,6 +548,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Sprinklr](https://www.sprinklr.com/careers/)
 1.   [Squadstack](https://www.squadstack.com/careers/)
 1.   [Stripe](https://stripe.com/in/jobs)  
+1.   [Sureify](https://sureify.com/careers/)
 1.   [Swiggy](https://careers.swiggy.com/)  
 1.   [Synopsys](https://www.synopsys.com/careers.html)  
 
