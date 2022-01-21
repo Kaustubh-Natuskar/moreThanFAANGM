@@ -462,6 +462,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Observe.ai](https://www.observe.ai/careers#section-current-openings)
 1.   [OpenText](https://careers.opentext.com/)
 1.   [Optum](https://www.optum.in/about/careers.html)
+1.   [Optym](https://optym.com/careers/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
