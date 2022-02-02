@@ -86,7 +86,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">372</td>
+            <td align="center">373</td>
          </tr>
       </tbody>
    </table>
@@ -390,6 +390,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <h2 id="L">L</h2>   
 
+1.   [LambdaTest](https://www.lambdatest.com/career)
 1.   [Land rover](https://www.jaguarlandrovercareers.com/)  
 1.   [Lenskart](https://hiring.lenskart.com/)
 1.   [Leap Finance](https://leapfinance.freshteam.com/jobs)
