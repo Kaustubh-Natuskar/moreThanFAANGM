@@ -86,7 +86,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">372</td>
+            <td align="center">375</td>
          </tr>
       </tbody>
    </table>
@@ -202,20 +202,21 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Codenation innovation labs](http://codenation.co.in/hiringprocess.html)  
 1.   [CodingNinjas](https://www.linkedin.com/jobs/coding-ninjas-jobs/?originalSubdomain=in) 
 1.   [Cognizant](https://careers.cognizant.com/in/en)
-1.   [CoinDCX](https://careers.coindcx.com/)  
-1.   [Coinswitch kuber](https://recruiterflow.com/coinswitch/jobs)  
-1.   [Commvault](https://careers.commvault.com/)
-1.   [Continental](https://www.continental.com/en/career/)
-1.   [Contra](https://contra.com/careers)
-1.   [Coupang](https://rocketyourcareer.usa.coupang.com/)
-1.   [Cradlepoint](https://cradlepoint.com/about-us/careers/job-listings/) 
-1.   [Cred](https://careers.cred.club/)  
-1.   [Credit Suisse](https://www.credit-suisse.com/careers/en/apply.html)
-1.   [Crestron](https://www.crestron.com/About/careers-jobs-employment-opportunities)
-1.   [Crowdstrike](https://www.crowdstrike.com/careers/)
-1.   [CSS Corp](https://www.csscorp.com/company/careers/)  
-1.   [cure.fit](https://www.cult.fit/careers)
-1.   [Cvent](https://www.cvent.com/en/careers)  
+1.   [CoinBase](https://www.coinbase.com/careers)
+3.   [CoinDCX](https://careers.coindcx.com/)  
+4.   [Coinswitch kuber](https://recruiterflow.com/coinswitch/jobs)  
+5.   [Commvault](https://careers.commvault.com/)
+6.   [Continental](https://www.continental.com/en/career/)
+7.   [Contra](https://contra.com/careers)
+8.   [Coupang](https://rocketyourcareer.usa.coupang.com/)
+9.   [Cradlepoint](https://cradlepoint.com/about-us/careers/job-listings/) 
+10.   [Cred](https://careers.cred.club/)  
+11.   [Credit Suisse](https://www.credit-suisse.com/careers/en/apply.html)
+12.   [Crestron](https://www.crestron.com/About/careers-jobs-employment-opportunities)
+13.   [Crowdstrike](https://www.crowdstrike.com/careers/)
+14.   [CSS Corp](https://www.csscorp.com/company/careers/)  
+15.   [cure.fit](https://www.cult.fit/careers)
+16.   [Cvent](https://www.cvent.com/en/careers)  
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -481,17 +482,18 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Phillips](https://www.careers.philips.com/professional/in/en)
 1.   [Phonepe](https://www.phonepe.com/careers/)  
 1.   [Playment](https://www.playment.io/careers)
-1.   [postman](https://www.postman.com/company/careers/)  
-1.   [Practo](https://practo.app.param.ai/jobs)
-1.   [priceline](https://careers.priceline.com/search)  
-1.   [Principal](https://www.principal.com/about-us/careers/global-jobs)
-1.   [Privado.ai](https://www.privado.ai)
-1.   [Providence Healthcare](https://www.providencehealthcare.org/careers)
-1.   [Protegrity](https://jobs.lever.co/protegrity?location=Bengaluru)  
-1.   [Proximity Labs](https://www.proximity.tech/careers)  
-1.   [Prodapt](https://www.prodapt.com/en/careers/)
-1.   [Publicis Sapient](https://careers.publicissapient.com/)
-1.   [PubMatic](https://pubmatic.com/careers/home/)
+1.   [Polygon Technology](https://polygon.technology/careers/)
+3.   [postman](https://www.postman.com/company/careers/)  
+4.   [Practo](https://practo.app.param.ai/jobs)
+5.   [priceline](https://careers.priceline.com/search)  
+6.   [Principal](https://www.principal.com/about-us/careers/global-jobs)
+7.   [Privado.ai](https://www.privado.ai)
+8.   [Providence Healthcare](https://www.providencehealthcare.org/careers)
+9.   [Protegrity](https://jobs.lever.co/protegrity?location=Bengaluru)  
+10.   [Proximity Labs](https://www.proximity.tech/careers)  
+11.   [Prodapt](https://www.prodapt.com/en/careers/)
+12.   [Publicis Sapient](https://careers.publicissapient.com/)
+13.   [PubMatic](https://pubmatic.com/careers/home/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -538,19 +540,20 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Shell](https://www.shell.com/careers.html)  
 1.   [Shipsy](https://shipsy.io/career/)
 1.   [Shopee](https://careers.shopee.sg/)
-1.   [Siemens](https://new.siemens.com/global/en/company/jobs/our-locations/india.html)
-1.   [Siemens Healthineers](https://www.siemens-healthineers.com/en-in/careers)
-1.   [Sigmoid](https://www.sigmoid.com/careers/)
-1.   [SkillVertex](https://www.linkedin.com/jobs/search/?f_C=75860188&geoId=92000000)
-1.   [Skyroot Aerospace](https://skyroot.in/join/) 
-1.   [Sling Media](https://www.linkedin.com/jobs/sling-media-jobs/?originalSubdomain=in)    
-1.   [Smith Detection](https://www.smithsdetection.com/careers/)
-1.   [Spinny](https://spinny.freshteam.com/jobs)  
-1.   [Sprinklr](https://www.sprinklr.com/careers/)
-1.   [Squadstack](https://www.squadstack.com/careers/)
-1.   [Stripe](https://stripe.com/in/jobs)  
-1.   [Swiggy](https://careers.swiggy.com/)  
-1.   [Synopsys](https://www.synopsys.com/careers.html)  
+1.   [Shopify](https://www.shopify.com/careers)
+3.   [Siemens](https://new.siemens.com/global/en/company/jobs/our-locations/india.html)
+4.   [Siemens Healthineers](https://www.siemens-healthineers.com/en-in/careers)
+5.   [Sigmoid](https://www.sigmoid.com/careers/)
+6.   [SkillVertex](https://www.linkedin.com/jobs/search/?f_C=75860188&geoId=92000000)
+7.   [Skyroot Aerospace](https://skyroot.in/join/) 
+8.   [Sling Media](https://www.linkedin.com/jobs/sling-media-jobs/?originalSubdomain=in)    
+9.   [Smith Detection](https://www.smithsdetection.com/careers/)
+10.   [Spinny](https://spinny.freshteam.com/jobs)  
+11.   [Sprinklr](https://www.sprinklr.com/careers/)
+12.   [Squadstack](https://www.squadstack.com/careers/)
+13.   [Stripe](https://stripe.com/in/jobs)  
+14.   [Swiggy](https://careers.swiggy.com/)  
+15.   [Synopsys](https://www.synopsys.com/careers.html)  
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
