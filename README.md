@@ -86,7 +86,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">375</td>
+            <td align="center">376</td>
          </tr>
       </tbody>
    </table>
@@ -301,21 +301,22 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [GeeksForGeeks](https://www.geeksforgeeks.org/careers/?)
 1.   [GE](https://www.ge.com/in/careers/opportunities)
 1.   [GE Healthcare](https://jobs.gecareers.com/healthcare/global/en)
-1.   [Ghost](https://careers.ghost.org/)
-1.   [Github](https://github.com/about/careers)
-1.   [Gitlab](https://about.gitlab.com/jobs/)
-1.   [GoDaddy](https://careers.godaddy.com/)
-1.   [GoDigit](https://www.godigit.com/)
-1.   [Godrej Aerospace](https://www.godrej.com/godrejandboyce/gnb-careers)
-1.   [Gojek](https://career.gojek.com/)  
-1.   [Goldman Sachs](https://www.goldmansachs.com/careers/)   
-1.   [Google](https://careers.google.com/)
-1.   [Global Logic](https://www.globallogic.com/in/careers/)
-1.   [Grab](https://grab.careers/)
-1.   [Gravitont Rading](https://www.gravitontrading.com/careers.html)   
-1.   [Groupon](https://www.grouponcareers.com/) 
-1.   [Grofers](https://grofers.com/careers/)  
-1.   [Groww](https://groww.skillate.com/)  
+1.   [GeekyAnts](https://geekyants.com/join-geekyants)
+3.   [Ghost](https://careers.ghost.org/)
+4.   [Github](https://github.com/about/careers)
+5.   [Gitlab](https://about.gitlab.com/jobs/)
+6.   [GoDaddy](https://careers.godaddy.com/)
+7.   [GoDigit](https://www.godigit.com/)
+8.   [Godrej Aerospace](https://www.godrej.com/godrejandboyce/gnb-careers)
+9.   [Gojek](https://career.gojek.com/)  
+10.   [Goldman Sachs](https://www.goldmansachs.com/careers/)   
+11.   [Google](https://careers.google.com/)
+12.   [Global Logic](https://www.globallogic.com/in/careers/)
+13.   [Grab](https://grab.careers/)
+14.   [Gravitont Rading](https://www.gravitontrading.com/careers.html)   
+15.   [Groupon](https://www.grouponcareers.com/) 
+16.   [Grofers](https://grofers.com/careers/)  
+17.   [Groww](https://groww.skillate.com/)  
     
 <p align="right">(<a href="#top">back to top</a>)</p>
 
