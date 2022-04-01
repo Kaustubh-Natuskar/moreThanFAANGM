@@ -86,7 +86,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">375</td>
+            <td align="center">376</td>
          </tr>
       </tbody>
    </table>
@@ -601,6 +601,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <h2 id="V">V</h2>  
 
+1.   [Valuefy](https://valuefy-solutions.breezy.hr/)
 1.   [Viasat](https://careers.viasat.com/)  
 1.   [Vicara](https://vicara.ch/careers/)
 1.   [Visa](https://www.visa.co.in/careers.html)
