@@ -86,7 +86,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">376</td>
+            <td align="center">378</td>
          </tr>
       </tbody>
    </table>
@@ -237,18 +237,20 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Dhruva Space](https://angel.co/company/dhruvaspace)
 1.   [Dialpad](https://www.dialpad.com/careers/)
 1.   [Directi](https://careers.directi.com/)  
-1.   [Discord](https://discord.com/jobs)
-1.   [Discovery inc](https://jobs.discovery.com/careers-home/)  
-1.   [Disney](https://jobs.disneycareers.com/location/india-jobs/391-28648/1269750/2)
-1.   [DoorDash](https://careers.doordash.com/)
-1.   [DP World](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions)  
-1.   [DRDO](https://www.drdo.gov.in/careers)
-1.   [Dream11](https://www.dreamsports.group/careers)  
-1.   [Dropbox](https://www.dropbox.com/jobs)
-1.   [Druva](https://www.druva.com/about/careers/)  
-1.   [Dukaan](https://angel.co/company/dukaan-app/jobs)
-1.   [Dunzo](https://www.dunzo.com/careers#jobs) 
-1.   [DuPont](https://careers.dupont.com/us/en)    
+1.   [digit](https://digit.co/careers)   
+3.   [Discord](https://discord.com/jobs)
+4.   [Discovery inc](https://jobs.discovery.com/careers-home/)  
+5.   [Disney](https://jobs.disneycareers.com/location/india-jobs/391-28648/1269750/2)
+6.   [DoorDash](https://careers.doordash.com/)
+7.   [DP World](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions)  
+8.   [DRDO](https://www.drdo.gov.in/careers)
+9.   [Dream11](https://www.dreamsports.group/careers) 
+10.   [droom](https://droom.in/career)       
+11.   [Dropbox](https://www.dropbox.com/jobs)
+12.   [Druva](https://www.druva.com/about/careers/)  
+13.   [Dukaan](https://angel.co/company/dukaan-app/jobs)
+14.   [Dunzo](https://www.dunzo.com/careers#jobs) 
+15.   [DuPont](https://careers.dupont.com/us/en)    
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
