@@ -86,7 +86,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">378</td>
+            <td align="center">380</td>
          </tr>
       </tbody>
    </table>
@@ -157,6 +157,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.  [BigBasket](https://careers.bigbasket.com/)  
 1.  [BlackBuck](https://www.blackbuck.com/careers.php)
 1.  [Blackrock](https://careers.blackrock.com/)
+1.  [Block Inc](https://block.xyz/careers)
 1.  [Bloomberg LP](https://careers.bloomberg.com/job/search)
 1.  [BlueJeans](https://www.bluejeans.com/careers)
 1.  [Bluestacks](https://www.bluestacks.com/work-at-bluestacks.html)
@@ -594,7 +595,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Unicommerce](https://unicommerce.com/careers/)    
 1.   [Unisys](https://jobs.unisys.com/us/en)    
 1.   [Upgrad](https://www.upgrad.com/us/careers/)   
-1.   [Upstox](https://jobs.lever.co/upstox)      
+1.   [Upstox](https://jobs.lever.co/upstox)    
+1.   [Upwork](https://www.upwork.com/careers)  
 1.   [Urban company](https://careers.urbancompany.com/)     
 
 <p align="right">(<a href="#top">back to top</a>)</p>
