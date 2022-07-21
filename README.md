@@ -184,6 +184,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Capillary](https://www.capillarytech.com/about-us/careers/)
 1.   [Capital One](https://www.capitalonecareers.com/)
 1.   [CarDekho](https://careers.cardekho.com/)
+1.   [Careem](https://www.careem.com/en-ae/careers/)
 1.   [CarWale](https://www.carwale.com/career/)
 1.   [Cashfree](https://www.cashfree.com/careers)
 1.   [Cimpress](https://cimpress.com/careers/)
