@@ -86,7 +86,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">379</td>
+            <td align="center">380</td>
          </tr>
       </tbody>
    </table>
@@ -331,6 +331,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [HealthAsyst](https://www.healthasyst.com/careers/)
 1.   [Healthify me](https://www.healthifyme.com/careers/)  
 1.   [HERE](https://www.here.com/careers)
+1.   [Hexagone](https://hexagon.com/about/careers)
 1.   [Hotstar](https://tech.hotstar.com/)
 1.   [Honeywell](https://careers.honeywell.com/)
 1.   [HP](https://jobs.hp.com/)  
