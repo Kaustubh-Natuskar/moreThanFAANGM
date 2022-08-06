@@ -727,7 +727,6 @@ Refer [rules](https://github.com/Kaustubh-Natuskar/companies-to-apply/blob/main/
 
 If you have any feedback or suggestions please reach out to maintainers.  
 * [Kaustubh Natuskar](https://www.linkedin.com/in/kaustubhnatuskar/)  
-* [Aayushi Singh](https://www.linkedin.com/in/aayushisingh1703/)
-* [Ayush Mishra](https://www.linkedin.com/in/ayush-b-m/)
+
 
 <div id="Bottom"></div>
