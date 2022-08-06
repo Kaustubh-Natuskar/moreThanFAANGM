@@ -86,7 +86,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">378</td>
+            <td align="center">380</td>
          </tr>
       </tbody>
    </table>
@@ -331,6 +331,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [HealthAsyst](https://www.healthasyst.com/careers/)
 1.   [Healthify me](https://www.healthifyme.com/careers/)  
 1.   [HERE](https://www.here.com/careers)
+1.   [Hexagone](https://hexagon.com/about/careers)
 1.   [Hotstar](https://tech.hotstar.com/)
 1.   [Honeywell](https://careers.honeywell.com/)
 1.   [HP](https://jobs.hp.com/)  
@@ -348,7 +349,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Indeed](https://in.indeed.com/cmp/Indeed)
 1.   [India Mart](https://careers.indiamart.com/)
 1.   [Infor](https://www.infor.com/nordics/about/careers)
-1.   [Informatica](https://informatica.gr8people.com/jobs)    
+1.   [Informatica](https://informatica.gr8people.com/jobs)
+1.   [Infospoke](http://www.infospoke.in/careers.html)    
 1.   [Inmobi](https://www.inmobi.com/company/careers/)  
 1.   [Innovaccer](https://innovaccer.com/careers/)  
 1.   [Intel](https://www.intel.com/content/www/us/en/jobs/jobs-at-intel.html)
