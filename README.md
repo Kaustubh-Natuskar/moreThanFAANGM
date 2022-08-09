@@ -86,7 +86,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">380</td>
+            <td align="center">381</td>
          </tr>
       </tbody>
    </table>
@@ -302,6 +302,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [GeeksForGeeks](https://www.geeksforgeeks.org/careers/?)
 1.   [GE](https://www.ge.com/in/careers/opportunities)
 1.   [GE Healthcare](https://jobs.gecareers.com/healthcare/global/en)
+1.   [Genpact](https://www.genpact.com/careers)
 1.   [Ghost](https://careers.ghost.org/)
 1.   [Github](https://github.com/about/careers)
 1.   [Gitlab](https://about.gitlab.com/jobs/)
