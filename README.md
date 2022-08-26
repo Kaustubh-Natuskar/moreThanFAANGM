@@ -508,6 +508,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <h2 id="Q">Q</h2>  
 
 1.   [Qualcomm](https://www.qualcomm.com/company/careers) 
+1.   [QuickSell](https://www.linkedin.com/company/quicksell/jobs/) 
 1.   [Quora](https://www.quora.com/careers)  
 
 <p align="right">(<a href="#top">back to top</a>)</p>
