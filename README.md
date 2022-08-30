@@ -86,7 +86,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">384</td>
+            <td align="center">385</td>
          </tr>
       </tbody>
    </table>
@@ -369,7 +369,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <h2 id="J">J</h2>  
 
 1.   [Jaguar](https://www.jaguarlandrovercareers.com/)  
-1.   [Jio](https://careers.jio.com/)  
+1.   [Jio](https://careers.jio.com/)    
+1.   [JM Financial](https://jmfl.com/careers)  
 1.   [JP Morgan](https://careers.jpmorgan.com/IN/en/home)  
 1.   [Juniper networks](https://www.juniper.net/us/en/company/culture-careers.html)
 1.   [Jupiter money](https://jobs.lever.co/jupiter)  
