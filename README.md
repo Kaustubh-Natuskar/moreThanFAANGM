@@ -5,8 +5,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
 	
 <p>
 	<br>
-</p>  
-
+</p>
 
 <a href="https://twitter.com/intent/tweet?text=This%20repo%20contains%20opportunities%20for%20you%20to%20apply%20more%20than%20300%20good%20companies%20&url=https://kaustubh-natuskar.github.io/moreThanFAANGM/&hashtags=githubrepository,productbasedcompanies,goodstartups,bestservicebasedcompanies"><img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social" alt="Tweet" ></a>
 <a href="https://github.com/Kaustubh-Natuskar/companies-to-apply"><img src="https://visitor-badge.laobi.icu/badge?page_id=Kaustubh-Natuskar.companies-to-apply" alt="visitor count"/></a>
@@ -84,7 +83,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">386</td>
+            <td align="center">387</td>
          </tr>
       </tbody>
    </table>
@@ -685,7 +684,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
  
  
  
- 
 
 
 ## Guidelines
@@ -694,8 +692,7 @@ Refer [rules](https://github.com/Kaustubh-Natuskar/companies-to-apply/blob/main/
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<br>  
-
+<br>
 
 <h2 align=center>Contributors✨</h2>
 <table>
