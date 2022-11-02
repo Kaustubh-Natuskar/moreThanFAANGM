@@ -86,7 +86,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">387</td>
+            <td align="center">388</td>
          </tr>
       </tbody>
    </table>
@@ -292,6 +292,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Freshworks](https://www.freshworks.com/company/life-at-freshworks/careers/)
 1.   [Furlenco](https://jobs.furlenco.com/)
 1.   [fyle](https://www.fylehq.com/company/team/join)
+1.   [Fico](https://www.fico.com/en/careers)
     
 <p align="right">(<a href="#top">back to top</a>)</p>
 
