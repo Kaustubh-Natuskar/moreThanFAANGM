@@ -292,6 +292,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Freshworks](https://www.freshworks.com/company/life-at-freshworks/careers/)
 1.   [Furlenco](https://jobs.furlenco.com/)
 1.   [fyle](https://www.fylehq.com/company/team/join)
+1.   [Fico](https://www.fico.com/en/careers)
     
 <p align="right">(<a href="#top">back to top</a>)</p>
 
