@@ -86,7 +86,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">388</td>
+            <td align="center">389</td>
          </tr>
       </tbody>
    </table>
@@ -455,6 +455,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Nutanix](https://www.nutanix.com/company/careers)   
 1.   [Nvidia](https://www.nvidia.com/en-in/about-nvidia/careers/)  
 1.   [Nykaa](https://www.nykaa.com/careers?gclid=CjwKCAiAv_KMBhAzEiwAs-rX1AaeJPV4qukBH6DJnWPnJfUpAwGN9pMmMU6hYHyEfUELj3RNCKRkkBoCVHAQAvD_BwE&ef_id=CjwKCAiAv_KMBhAzEiwAs-rX1AaeJPV4qukBH6DJnWPnJfUpAwGN9pMmMU6hYHyEfUELj3RNCKRkkBoCVHAQAvD_BwE:G:s&s_kwcid=AL!599!3!560340772706!!!g!!&utm_source=GooglePaid&utm_medium=search&utm_campaign=adwords_search_dsa_full_site)
+1.   [Ninjacart](https://ninjacart.in/careers/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
