@@ -111,7 +111,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1. [Accord software](https://accord-global.com/careers.html)
 1. [Adobe](https://www.adobe.com/careers.html)  
 1. [Acko](https://acko.hirexp.com/)
-1. [Agile Solutions](http://agilesolutions.com/careers-2/)      
+1. [Agile Solutions](https://agilesolutions.com/en/about-us/?id=6)
 1. [Agnikul Cosmos](https://agnikul.in/#/career)   
 1. [Airbase](https://www.airbase.com/careers)
 1. [Airbnb](https://careers.airbnb.com/)  
