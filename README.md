@@ -86,7 +86,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">392</td>
+            <td align="center">393</td>
          </tr>
       </tbody>
    </table>
