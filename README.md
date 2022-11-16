@@ -86,7 +86,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">389</td>
+            <td align="center">392</td>
          </tr>
       </tbody>
    </table>
@@ -110,7 +110,10 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1. [Accolite software](https://www.accolite.com/careers)  
 1. [Accord software](https://accord-global.com/careers.html)
 1. [Adobe](https://www.adobe.com/careers.html)  
+1. [Able](https://able.co/team)  
+1. [Abstract](https://angel.co/company/abstract/jobs)  
 1. [Acko](https://acko.hirexp.com/)
+1. [Accredible](https://careers.accredible.com/)  
 1. [Agile Solutions](http://agilesolutions.com/careers-2/)      
 1. [Agnikul Cosmos](https://agnikul.in/#/career)   
 1. [Airbase](https://www.airbase.com/careers)
