@@ -86,7 +86,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">392</td>
+            <td align="center">393</td>
          </tr>
       </tbody>
    </table>
@@ -578,6 +578,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 1.   [Target](https://corporate.target.com/careers)  
 1.   [TATA Advanced Sysytems Ltd](https://www.tataadvancedsystems.com/careers.php)
+1.   [TATA nexarc](https://www.tatanexarc.com/careers/)      
 1.   [TE Connectivity](https://careers.te.com/)
 1.   [TEK Systems](https://www.teksystems.com/en-in/careers)
 1.   [Tekion corp](https://tekion.com/careers) 
