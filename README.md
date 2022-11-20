@@ -162,11 +162,14 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.  [Barclays](https://home.barclays/careers/)
 1.  [Bain & Co](https://www.bain.com/careers/)
 1.  [BARC India](https://www.barcindia.co.in/life-at-barc)
+1.  [bankbazaar](https://www.bankbazaar.com/careers.html)   
 1.  [Bazaarvoice](https://www.bazaarvoice.com/company/careers/)
+1.  [BCG](https://careers.bcg.com/)   
 1.  [Bellatrix Aerospace](http://www.bellatrixaerospace.com/)
 1.  [Benchmark](https://benchmarkit.zohorecruit.com/jobs/Careers) 
 1.  [Better](https://better.com/about-us/careers)
 1.  [BharatPe](https://bharatpe.com/career)  
+1.  [Bidgely](https://www.bidgely.com/bidgely-career-opportunities/)   
 1.  [BigBasket](https://careers.bigbasket.com/)  
 1.  [BlackBuck](https://www.blackbuck.com/careers.php)
 1.  [Blackrock](https://careers.blackrock.com/)
@@ -185,7 +188,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.  [Brahmastra Aerospace](https://www.brahmastraspace.org/career)
 1.  [Browser stack](https://www.browserstack.com/careers)  
 1.  [BukuWarung](https://www.notion.so/BukuWarung-Building-the-digital-infrastructure-for-60-million-MSMEs-in-Indonesia-7e8a4f614acb4c4888659f9d36179579)
-1.  [Byju's](https://byjus.com/careers/all-openings/job-category/tech/)
 1.  [ByteDance](https://jobs.bytedance.com/en)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
