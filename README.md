@@ -86,7 +86,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">393</td>
+            <td align="center">395</td>
          </tr>
       </tbody>
    </table>
@@ -114,6 +114,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1. [Abstract](https://angel.co/company/abstract/jobs)  
 1. [Acko](https://acko.hirexp.com/)
 1. [Accredible](https://careers.accredible.com/)  
+1. [Affinidi](https://www.affinidi.com/careers)  
 1. [Agile Solutions](http://agilesolutions.com/careers-2/)      
 1. [Agnikul Cosmos](https://agnikul.in/#/career)   
 1. [Airbase](https://www.airbase.com/careers)
@@ -123,17 +124,23 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1. [Ajio](https://www.ajio.com/ajio-careers)    
 1. [Akamai](https://www.akamai.com/careers)   
 1. [Alstom](https://www.alstom.com/careers)
+1. [Alpha-grep](https://www.alpha-grep.com/career/)  
+1. [Alphonso](https://lgads.tv/careers/)  
 1. [Amadeus labs](https://jobs.amadeus.com/)    
+1. [Amagi](https://www.amagi.com/careers)  
 1. [Amazon](https://www.amazon.jobs/en/)    
 1. [Amdocs](https://asset.amdocs.com/careers/)
 1. [American express](https://www.americanexpress.com/en-us/careers/)
 1. [Amway](https://www.amway.in/about-amway/careers)    
+1. [Angelone](https://www.angelone.in/careers)  
+1. [Ansys](https://www.ansys.com/en-in/careers)  
 1. [Apna](https://www.instahyre.com/jobs-at-apna/)    
 1. [App Dynamics](https://www.appdynamics.com/company/careers/india)
 1. [Appen](https://appen.com/jobs/)
 1. [Apple](https://www.apple.com/careers/us/) 
 1. [AppInventiv](https://appinventiv.com/career/)   
 1. [Aptiv](https://jobs.aptiv.com/)
+1. [AQR](https://www.aqr.com/About-Us/Careers)  
 1. [Arcesium](https://www.arcesium.com/careers.html)   
 1. [Arista Networks](https://www.arista.com/en/careers)  
 1. [Aryaka networks](https://www.linkedin.com/company/aryaka-networks/jobs?originalSubdomain=in)
@@ -141,6 +148,9 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1. [Athena Health](https://www.athenahealth.com/careers)  
 1. [Atlan](https://atlan.com/careers/)
 1. [Atlassian](https://www.atlassian.com/company/careers)  
+1. [Auzmor](https://auzmor.com/career/)  
+1. [Avail finance](https://availfinance.in/opportunities/)  
+1. [Avalara](https://www.avalara.com/us/en/about/jobs/job-openings.html)  
 1. [Avaya](https://careers.avaya.com/)  
 
 <p align="right">(<a href="#top">back to top</a>)</p>
