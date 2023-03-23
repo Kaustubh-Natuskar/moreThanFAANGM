@@ -86,7 +86,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">405</td>
+            <td align="center">406</td>
          </tr>
       </tbody>
    </table>
@@ -500,24 +500,25 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Paypal](https://www.paypal.com/in/webapps/mpp/jobs)  
 1.   [Paytm](https://paytm.com/careers/)  
 1.   [PayU](https://payu.in/careers)
-1.   [PeopleStrong](https://www.peoplestrong.com/careers/)
-1.   [persistent systems](https://www.persistent.com/careers/)  
-1.   [PharmEasy](https://pharmeasy.in/careers/)  
-1.   [Phillips](https://www.careers.philips.com/professional/in/en)
-1.   [Phonepe](https://www.phonepe.com/careers/)  
-1.   [Playment](https://www.playment.io/careers)
-1.   [Polygon Technology](https://polygon.technology/careers/)
-3.   [postman](https://www.postman.com/company/careers/)  
-4.   [Practo](https://practo.app.param.ai/jobs)
-5.   [priceline](https://careers.priceline.com/search)  
-6.   [Principal](https://www.principal.com/about-us/careers/global-jobs)
-7.   [Privado.ai](https://www.privado.ai)
-8.   [Providence Healthcare](https://www.providencehealthcare.org/careers)
-9.   [Protegrity](https://jobs.lever.co/protegrity?location=Bengaluru)  
-10.   [Proximity Labs](https://www.proximity.tech/careers)  
-11.   [Prodapt](https://www.prodapt.com/en/careers/)
-12.   [Publicis Sapient](https://careers.publicissapient.com/)
-13.   [PubMatic](https://pubmatic.com/careers/home/)
+1.   [Pazo](https://www.gopazo.com/)
+3.   [PeopleStrong](https://www.peoplestrong.com/careers/)
+4.   [persistent systems](https://www.persistent.com/careers/)  
+5.   [PharmEasy](https://pharmeasy.in/careers/)  
+6.   [Phillips](https://www.careers.philips.com/professional/in/en)
+7.   [Phonepe](https://www.phonepe.com/careers/)  
+8.   [Playment](https://www.playment.io/careers)
+9.   [Polygon Technology](https://polygon.technology/careers/)
+10.   [postman](https://www.postman.com/company/careers/)  
+11.   [Practo](https://practo.app.param.ai/jobs)
+12.   [priceline](https://careers.priceline.com/search)  
+13.   [Principal](https://www.principal.com/about-us/careers/global-jobs)
+14.   [Privado.ai](https://www.privado.ai)
+15.   [Providence Healthcare](https://www.providencehealthcare.org/careers)
+16.   [Protegrity](https://jobs.lever.co/protegrity?location=Bengaluru)  
+17.   [Proximity Labs](https://www.proximity.tech/careers)  
+18.   [Prodapt](https://www.prodapt.com/en/careers/)
+19.   [Publicis Sapient](https://careers.publicissapient.com/)
+20.   [PubMatic](https://pubmatic.com/careers/home/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
