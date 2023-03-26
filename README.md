@@ -86,7 +86,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">406</td>
+            <td align="center">407</td>
          </tr>
       </tbody>
    </table>
@@ -499,7 +499,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Park+](https://parkplus.io/we-are-hiring#hiring)  
 1.   [Paypal](https://www.paypal.com/in/webapps/mpp/jobs)  
 1.   [Paytm](https://paytm.com/careers/)  
-1.   [PayU](https://payu.in/careers)
+1.   [PayU](https://payu.in/careers)  
+1.   [Pazo](https://www.gopazo.com/)  
 1.   [PeopleStrong](https://www.peoplestrong.com/careers/)
 1.   [persistent systems](https://www.persistent.com/careers/)  
 1.   [PharmEasy](https://pharmeasy.in/careers/)  
