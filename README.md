@@ -112,7 +112,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1. [Adobe](https://www.adobe.com/careers.html)  
 1. [Able](https://able.co/team)  
 1. [Abstract](https://angel.co/company/abstract/jobs)  
-1. [Acko](https://acko.hirexp.com/)
+1. [Acko](https://acko.skillate.com/)
 1. [Accredible](https://careers.accredible.com/)  
 1. [Affinidi](https://www.affinidi.com/careers)  
 1. [Agile Solutions](http://agilesolutions.com/careers-2/)      
