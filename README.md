@@ -86,7 +86,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">407</td>
+            <td align="center">409</td>
          </tr>
       </tbody>
    </table>
@@ -217,6 +217,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Cleartrip](https://careers.cleartrip.com/#!/)
 1.   [Cloudera](https://www.cloudera.com/careers.html)  
 1.   [Codenation innovation labs](http://codenation.co.in/hiringprocess.html)  
+1.   [CodeParva Technologies Pvt Ltd](https://cutshort.io/company/codeparva-technologies-pvt-ltd-t0cDhxZW)
 1.   [CodingNinjas](https://www.linkedin.com/jobs/coding-ninjas-jobs/?originalSubdomain=in) 
 1.   [Cognizant](https://careers.cognizant.com/in/en)
 1.   [CoinBase](https://www.coinbase.com/careers)
@@ -319,7 +320,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Garuda Aerospace private Ltd](https://www.garudaaerospace.com/)
 1.   [GeeksForGeeks](https://www.geeksforgeeks.org/careers/?)
 1.   [GE](https://www.ge.com/in/careers/opportunities)
-1.   [GE Healthcare](https://jobs.gecareers.com/healthcare/global/en)
+1.   [GE Healthcare](https://jobs.gecareers.com/healthcare/global/en)  
+1.   [Genpact](https://www.genpact.com/careers)  
 1.   [Ghost](https://careers.ghost.org/)
 1.   [Github](https://github.com/about/careers)
 1.   [Gitlab](https://about.gitlab.com/jobs/)
@@ -506,7 +508,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [PharmEasy](https://pharmeasy.in/careers/)  
 1.   [Phillips](https://www.careers.philips.com/professional/in/en)
 1.   [Phonepe](https://www.phonepe.com/careers/)  
-1.   [Playment](https://www.playment.io/careers)
+1.   [Playment](https://www.playment.io/careers)  
+1.   [Planful](https://planful.com/jobs/)  
 1.   [Polygon Technology](https://polygon.technology/careers/)
 1.   [postman](https://www.postman.com/company/careers/)  
 1.   [Practo](https://practo.app.param.ai/jobs)
@@ -542,6 +545,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Red hat](https://www.redhat.com/en/jobs)  
 1.   [Reelo](https://angel.co/company/reelohq)
 1.   [Reprise](https://www.getreprise.com/careers/)
+1.   [Rippling](https://www.rippling.com/careers)  
 1.   [Rivigo](https://www.rivigo.com/careers/)
 1.   [Rocket Companies](https://www.myrocketcareer.com/)
 1.   [Rockstar Games](https://www.rockstargames.com/careers/)
