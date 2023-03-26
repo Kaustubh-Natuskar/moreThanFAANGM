@@ -348,8 +348,9 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <h2 id="H">H</h2>   
 
 1.   [Hackerearth](https://www.hackerearth.com/careers/)
-1.   [HackerRank](https://www.hackerrank.com/careers/)
+1.   [HackerRank](https://www.hackerrank.com/careers/)  
 1.   [Hashedin](https://hashedin.com/careers/)
+1.   [Hashnode]( https://careers.hashnode.com/jobs)
 1.   [HBO](https://warnermediacareers.com/hbo-jobs)
 1.   [HealthAsyst](https://www.healthasyst.com/careers/)
 1.   [Healthify me](https://www.healthifyme.com/careers/)  
