@@ -86,7 +86,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">418</td>
+            <td align="center">419</td>
          </tr>
       </tbody>
    </table>
@@ -423,7 +423,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Land rover](https://www.jaguarlandrovercareers.com/)  
 1.   [Lenskart](https://hiring.lenskart.com/)
 1.   [Leap Finance](https://leapfinance.freshteam.com/jobs)
-1.   [Licious](https://www.careers.in/)  
+1.   [Licious](https://www.careers.in/)
+1.   [Liebherr](https://www.liebherr.com/en/usa/start/start-page.html)
 1.   [LinkedIn](https://careers.linkedin.com/) 
 1.   [LogicFruit](https://www.logic-fruit.com/) 
 1.   [Logicmonitor](https://www.logicmonitor.com/careers)
