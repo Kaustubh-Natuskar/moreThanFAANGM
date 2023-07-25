@@ -91,7 +91,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </tbody>
    </table>
 </div>
-<!-- change the above count after adding comapnies. -->
+<!-- change the above count after adding companies. -->
 <p align="right">(<a href="#Bottom">Bottom</a>)</p>
 
 
@@ -304,6 +304,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Flexport](https://www.flexport.com/careers/jobs/)
 1.   [Flipkart](https://www.flipkartcareers.com/) 
 1.   [FlyFin](https://www.linkedin.com/company/flyfin-ai/jobs/)
+1.   [fincover](https://www.fincover.com/)
 1.   [Fractal](https://fractal.ai/job-openings/)  
 1.   [Frappe Technologies](https://frappe.io/careers)
 1.   [FreeCharge](https://careers.freecharge.in/)  
