@@ -187,6 +187,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.  [Box](https://www.box.com/en-in/careers)
 1.  [Brahmastra Aerospace](https://www.brahmastraspace.org/career)
 1.  [Browser stack](https://www.browserstack.com/careers)  
+1.  [Broadcom](https://www.broadcom.com/company/careers)  
 1.  [BukuWarung](https://www.notion.so/BukuWarung-Building-the-digital-infrastructure-for-60-million-MSMEs-in-Indonesia-7e8a4f614acb4c4888659f9d36179579)
 1.  [ByteDance](https://jobs.bytedance.com/en)
 
@@ -611,7 +612,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Tencent](https://careers.tencent.com/en-us/search.html?query=ot_40001001,ot_40001002,ot_40001003,ot_40001004,ot_40001005,ot_40001006)  
 1.   [Tesla](https://www.tesla.com/careers) 
 1.   [Teradata](https://careers.teradata.com/)
-1.   [texas instruments](https://careers.ti.com/)
+1.   [texas instruments](https://careers.ti.com/) 
+1.   [tsmc](https://www.tsmc.com/static/english/careers/index.htm)
 1.   [ThoughtSpot](https://www.thoughtspot.com/careers-listing)  
 1.   [thoughtWorks](https://www.thoughtworks.com/careers/jobs) 
 1.   [Topcoder](https://www.topcoder.com/company/jobs/)
