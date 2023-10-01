@@ -86,7 +86,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">419</td>
+            <td align="center">422</td>
          </tr>
       </tbody>
    </table>
@@ -107,6 +107,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <!-- ## A   -->
 <h2 id="A">A</h2>  
 
+1. [Accenture](https://accord-global.com/careers.html)
 1. [Accolite software](https://www.accolite.com/careers)  
 1. [Accord software](https://accord-global.com/careers.html)
 1. [Adobe](https://www.adobe.com/careers.html)  
@@ -124,6 +125,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1. [Airtel x labs](https://careers.airtel.com/)  
 1. [Ajio](https://www.ajio.com/ajio-careers)    
 1. [Akamai](https://www.akamai.com/careers)   
+1. [Alibaba Group](https://talent.alibaba.com/en/home?lang=en)
 1. [Alstom](https://www.alstom.com/careers)
 1. [Alpha-grep](https://www.alpha-grep.com/career/)  
 1. [Alphonso](https://lgads.tv/careers/)  
@@ -140,6 +142,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1. [Apna](https://www.instahyre.com/jobs-at-apna/)    
 1. [App Dynamics](https://www.appdynamics.com/company/careers/india)
 1. [Appen](https://appen.com/jobs/)
+1. [Appfolio](https://www.appfolio.com/company/careers)
 1. [Apple](https://www.apple.com/careers/us/) 
 1. [AppInventiv](https://appinventiv.com/career/)   
 1. [Applied Materials](https://www.appliedmaterials.com/us/en/careers.html)   
