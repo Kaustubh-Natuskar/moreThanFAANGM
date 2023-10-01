@@ -86,8 +86,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">427</td>
-
+            <td align="center">423</td>
          </tr>
       </tbody>
    </table>
@@ -181,15 +180,11 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.  [BharatPe](https://bharatpe.com/career)  
 1.  [Bidgely](https://www.bidgely.com/bidgely-career-opportunities/)   
 1.  [BigBasket](https://careers.bigbasket.com/)  
-1.  [bitdefender](https://www.bitdefender.com/company/job-opportunities/)  
-1.  [bitly](https://bitly.com/pages/careers)  
 1.  [BlackBuck](https://www.blackbuck.com/careers.php)
 1.  [Blackrock](https://careers.blackrock.com/)
-1.  [blackberry](https://bb.wd3.myworkdayjobs.com/BlackBerry/jobs)
 1.  [Block Inc](https://block.xyz/careers)
 1.  [Bloomberg LP](https://careers.bloomberg.com/job/search)
 1.  [BlueJeans](https://www.bluejeans.com/careers)
-1.  [blueorigin](https://www.blueorigin.com/careers)
 1.  [Bluestacks](https://www.bluestacks.com/work-at-bluestacks.html)
 1.  [BMC software](https://www.bmc.com/careers/careers.html)  
 1.  [BNY Mellon](https://jobs.bnymellon.com/)
