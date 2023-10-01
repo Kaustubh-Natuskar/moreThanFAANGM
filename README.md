@@ -86,7 +86,8 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">426</td>
+            <td align="center">427</td>
+
          </tr>
       </tbody>
    </table>
@@ -472,7 +473,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Morgan Stanley](https://www.morganstanley.com/people-opportunities/)  
 1.   [Mount talent](https://careers.mounttalent.com/)
 1.   [MPL](https://mpl.darwinbox.in/ms/candidate/careers)   
-1.   [MTX](https://www.mtxb2b.com/s/career)    
+1.   [MTX](https://www.mtxb2b.com/s/career)
+1.   [Multiverse Software](https://multiverseapp.com/)
 1.   [Myntra](https://careers.myntra.com/)  
 
 <p align="right">(<a href="#top">back to top</a>)</p>
