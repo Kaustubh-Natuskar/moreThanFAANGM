@@ -86,7 +86,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">427</td>
+            <td align="center">434</td>
          </tr>
       </tbody>
    </table>
@@ -231,6 +231,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [ClearGlass](https://clearglass.com/careers/)
 1.   [Cleartrip](https://careers.cleartrip.com/#!/)
 1.   [Cloudera](https://www.cloudera.com/careers.html)  
+1.   [cloudflare](https://www.cloudflare.com/careers/jobs/)  
 1.   [Codenation innovation labs](http://codenation.co.in/hiringprocess.html)  
 1.   [CodeParva Technologies Pvt Ltd](https://cutshort.io/company/codeparva-technologies-pvt-ltd-t0cDhxZW)
 1.   [CodingNinjas](https://www.linkedin.com/jobs/coding-ninjas-jobs/?originalSubdomain=in) 
@@ -271,10 +272,13 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Dialpad](https://www.dialpad.com/careers/)
 1.   [Directi](https://careers.directi.com/)  
 1.   [digit](https://digit.co/careers)   
+1.   [digitalocean](https://www.digitalocean.com/careers)   
 1.   [Discord](https://discord.com/jobs)
 1.   [Discovery inc](https://jobs.discovery.com/careers-home/)  
 1.   [Disney](https://jobs.disneycareers.com/location/india-jobs/391-28648/1269750/2)
+1.   [dolby](https://www.dolby.com/careers/)
 1.   [DoorDash](https://careers.doordash.com/)
+1.   [doximity](https://www.doximity.com/careers)
 1.   [DP World](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions)  
 1.   [DRDO](https://www.drdo.gov.in/careers)
 1.   [Dream11](https://www.dreamsports.group/careers) 
@@ -283,7 +287,9 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Druva](https://www.druva.com/about/careers/)  
 1.   [Dukaan](https://angel.co/company/dukaan-app/jobs)
 1.   [Dunzo](https://www.dunzo.com/careers#jobs) 
+1.   [duo](https://duo.com/careers) 
 1.   [DuPont](https://careers.dupont.com/us/en)    
+1.   [dynatrace](https://careers.dynatrace.com/)    
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
