@@ -86,7 +86,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">427</td>
+            <td align="center">433</td>
          </tr>
       </tbody>
    </table>
@@ -233,6 +233,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://clearglass.com/careers/">ClearGlass</a></li>
 <li><a href="https://careers.cleartrip.com/#!/">Cleartrip</a></li>
 <li><a href="https://www.cloudera.com/careers.html">Cloudera</a>  </li>
+<li><a href="https://www.cloudflare.com/careers/jobs/">cloudflare</a>  </li>
 <li><a href="http://codenation.co.in/hiringprocess.html">Codenation innovation labs</a>  </li>
 <li><a href="https://cutshort.io/company/codeparva-technologies-pvt-ltd-t0cDhxZW">CodeParva Technologies Pvt Ltd</a></li>
 <li><a href="https://www.linkedin.com/jobs/coding-ninjas-jobs/?originalSubdomain=in">CodingNinjas</a> </li>
@@ -273,11 +274,14 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://angel.co/company/dhruvaspace">Dhruva Space</a></li>
 <li><a href="https://www.dialpad.com/careers/">Dialpad</a></li>
 <li><a href="https://careers.directi.com/">Directi</a>  </li>
-<li><a href="https://digit.co/careers">digit</a>   </li>
+<li><a href="https://digit.co/careers">digit</a>  </li>
+<li><a href="https://www.digitalocean.com/careers">digitalocean</a>  </li>
 <li><a href="https://discord.com/jobs">Discord</a></li>
 <li><a href="https://jobs.discovery.com/careers-home/">Discovery inc</a>  </li>
 <li><a href="https://jobs.disneycareers.com/location/india-jobs/391-28648/1269750/2">Disney</a></li>
+<li><a href="https://www.dolby.com/careers/">dolby</a></li>
 <li><a href="https://careers.doordash.com/">DoorDash</a></li>
+<li><a href="https://www.doximity.com/careers">doximity</a></li>
 <li><a href="https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions">DP World</a>  </li>
 <li><a href="https://www.drdo.gov.in/careers">DRDO</a></li>
 <li><a href="https://www.dreamsports.group/careers">Dream11</a> </li>
@@ -286,7 +290,9 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://www.druva.com/about/careers/">Druva</a>  </li>
 <li><a href="https://angel.co/company/dukaan-app/jobs">Dukaan</a></li>
 <li><a href="https://www.dunzo.com/careers#jobs">Dunzo</a> </li>
+<li><a href="(https://duo.com/careers">duo</a> </li>
 <li><a href="https://careers.dupont.com/us/en">DuPont</a></li>
+<li><a href="https://careers.dynatrace.com/">dynatrace</a></li>
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
