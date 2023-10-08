@@ -86,7 +86,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">433</td>
+            <td align="center">446</td>
          </tr>
       </tbody>
    </table>
@@ -302,9 +302,11 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 <ol>
 <li><a href="https://www.ea.com/careers">EA Games</a></li>
+<li><a href="https://jobs.ebayinc.com/us/en">eBay</a></li>
 <li><a href="https://enfusion.com/careers/">Enfussion</a></li>
 <li><a href="https://www.yodlee.com/oceania/india-careers">Envestnet Yoodlee</a>   </li>
 <li><a href="https://www.epam.com/">Epam</a></li>
+<li><a href="https://www.epicgames.com/site/en-US/careers">Epic Games</a></li>
 <li><a href="https://www.ericsson.com/en/careers">Ericsson</a></li>
 <li><a href="https://careers.eurofins.com/in/">Eurofins</a> </li>
 <li><a href="https://careers.equinix.com/homepage">Equinix</a>  </li>
@@ -338,6 +340,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://jobs.furlenco.com/">Furlenco</a></li>
 <li><a href="https://www.fylehq.com/company/team/join">fyle</a></li>
 <li><a href="https://www.fico.com/en/careers">Fico</a></li>
+<li><a href="https://www.fujitsu.com/global/about/careers/">Fujitsu</a></li>
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -356,14 +359,17 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://careers.ghost.org/">Ghost</a></li>
 <li><a href="https://github.com/about/careers">Github</a></li>
 <li><a href="https://about.gitlab.com/jobs/">Gitlab</a></li>
+<li><a href="https://www.glassdoor.com/Jobs/Glassdoor-Jobs-E100431.htm">Glass Door</a></li>
 <li><a href="https://careers.godaddy.com/">GoDaddy</a></li>
 <li><a href="https://www.godigit.com/">GoDigit</a></li>
 <li><a href="https://www.godrej.com/godrejandboyce/gnb-careers">Godrej Aerospace</a></li>
 <li><a href="https://career.gojek.com/">Gojek</a>  </li>
 <li><a href="https://www.goldmansachs.com/careers/">Goldman Sachs</a>   </li>
 <li><a href="https://careers.google.com/">Google</a></li>
+<li><a href="https://jobs.gopro.com/?lang=en-us#/">Go Pro</a></li>
 <li><a href="https://www.globallogic.com/in/careers/">Global Logic</a></li>
 <li><a href="https://grab.careers/">Grab</a></li>
+<li><a href="https://grafana.com/about/careers/">Grafana</a></li>
 <li><a href="https://www.gravitontrading.com/careers.html">Gravitont Rading</a>   </li>
 <li><a href="https://www.grouponcareers.com/">Groupon</a> </li>
 <li><a href="https://grofers.com/careers/">Grofers</a>  </li>
@@ -381,13 +387,16 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://hashedin.com/careers/">Hashedin</a></li>
 <li><a href="https://careers.hashnode.com/jobs">Hashnode</a></li>
 <li><a href="https://warnermediacareers.com/hbo-jobs">HBO</a></li>
+<li><a href="https://www.hcltech.com/careers">HCL Tech</a></li>
 <li><a href="https://www.healthasyst.com/careers/">HealthAsyst</a></li>
 <li><a href="https://www.healthifyme.com/careers/">Healthify me</a>  </li>
 <li><a href="https://www.here.com/careers">HERE</a></li>
 <li><a href="https://hexagon.com/about/careers">Hexagone</a></li>
+<li><a href="https://jobs.disneycareers.com/">Disney</a></li>
 <li><a href="https://tech.hotstar.com/">Hotstar</a></li>
 <li><a href="https://careers.honeywell.com/">Honeywell</a></li>
 <li><a href="https://jobs.hp.com/">HP</a></li>
+<li><a href="https://www.hubspot.com/careers/">Hub Spot</a></li>
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -396,6 +405,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <h2 id="I">I</h2>  
 
 <ol>
+<li><a href="https://www.iac.com/join-team">IAC</a></li>
 <li><a href="https://www.ibm.com/in-en/employment/">IBM</a></li>
 <li><a href="https://www.ideaforge.co.in/career/">IdeaForge</a></li>
 <li><a href="https://careers.ihsmarkit.com/">IHS Markit</a>  </li>
@@ -457,6 +467,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://www.lamresearch.com/careers/careers-overview/">Lam Research</a>   </li>
 <li><a href="https://www.jaguarlandrovercareers.com/">Land rover</a>  </li>
 <li><a href="https://hiring.lenskart.com/">Lenskart</a></li>
+<li><a href="https://jobs.lenovo.com/en_US/careers">Lenovo</a></li>
 <li><a href="https://leapfinance.freshteam.com/jobs">Leap Finance</a></li>
 <li><a href="https://www.careers.in/">Licious</a></li>
 <li><a href="https://www.liebherr.com/en/usa/start/start-page.html">Liebherr</a></li>
@@ -531,9 +542,11 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://www.ocrolus.com/careers/">Ocrolus</a></li>
 <li><a href="https://www.olacabs.com/careers">Ola</a> </li>
 <li><a href="https://careers.olxgroup.com/">Olx</a> </li>
+<li><a href="https://www.oneplus.com/global/careers">Oneplus</a> </li>
 <li><a href="https://www.oracle.com/apac/corporate/careers/">Oracle</a>  </li>
 <li><a href="https://www.naukri.com/oyo-jobs-careers-2884032">OYO</a></li>
 <li><a href="https://www.observe.ai/careers#section-current-openings">Observe.ai</a></li>
+<li><a href="https://openai.com/careers">Open AI</a></li>
 <li><a href="https://careers.opentext.com/">OpenText</a></li>
 <li><a href="https://www.optum.in/about/careers.html">Optum</a></li>
 <li><a href="https://optym.com/careers/">Optym</a></li>
