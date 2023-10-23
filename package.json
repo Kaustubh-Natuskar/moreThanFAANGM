@@ -1,0 +1,30 @@
+{
+  "name": "moreThanFAANGM",
+  "version": "2.0.0",
+  "description": "List of Coampnies with their career pages",
+  "main": "index.js",
+  "scripts": {
+    "build-prod": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaustubh-Natuskar/moreThanFAANGM.git"
+  },
+  "keywords": [
+    "moreThanFAANGM",
+    "big tech",
+    "startups"
+  ],
+  "author": "Kaustubh Natuskar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kaustubh-Natuskar/moreThanFAANGM/issues"
+  },
+  "homepage": "https://github.com/Kaustubh-Natuskar/moreThanFAANGM#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.52.0"
+  }
+}
