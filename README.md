@@ -86,7 +86,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">446</td>
+            <td align="center">461</td>
          </tr>
       </tbody>
    </table>
@@ -290,7 +290,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://www.druva.com/about/careers/">Druva</a>  </li>
 <li><a href="https://angel.co/company/dukaan-app/jobs">Dukaan</a></li>
 <li><a href="https://www.dunzo.com/careers#jobs">Dunzo</a> </li>
-<li><a href="(https://duo.com/careers">duo</a> </li>
+<li><a href="https://duo.com/careers">duo</a> </li>
 <li><a href="https://careers.dupont.com/us/en">DuPont</a></li>
 <li><a href="https://careers.dynatrace.com/">dynatrace</a></li>
 </ol>
@@ -392,7 +392,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://www.healthifyme.com/careers/">Healthify me</a>  </li>
 <li><a href="https://www.here.com/careers">HERE</a></li>
 <li><a href="https://hexagon.com/about/careers">Hexagone</a></li>
-<li><a href="https://jobs.disneycareers.com/">Disney</a></li>
 <li><a href="https://tech.hotstar.com/">Hotstar</a></li>
 <li><a href="https://careers.honeywell.com/">Honeywell</a></li>
 <li><a href="https://jobs.hp.com/">HP</a></li>
