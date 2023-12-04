@@ -454,6 +454,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://khoros.com/about/careers">khoros</a></li>
 <li><a href="https://www.kla-tencor.com/careers">KLA Tencor</a>  </li>
 <li><a href="https://jobs.kochcareers.com/">Koch</a></li>
+<li><a href="https://www.krayo.io/careers.html/">Krayo</a></li>
+
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
