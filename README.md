@@ -86,7 +86,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">462</td>
+            <td align="center">463</td>
          </tr>
       </tbody>
    </table>
@@ -396,6 +396,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://careers.honeywell.com/">Honeywell</a></li>
 <li><a href="https://jobs.hp.com/">HP</a></li>
 <li><a href="https://www.hubspot.com/careers/">Hub Spot</a></li>
+<li><a href="https://apply.workable.com/huggingface/">Huggingface</li>
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
