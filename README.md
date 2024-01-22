@@ -86,7 +86,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">462</td>
+            <td align="center">464</td>
          </tr>
       </tbody>
    </table>
@@ -276,6 +276,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://careers.directi.com/">Directi</a>  </li>
 <li><a href="https://digit.co/careers">digit</a>  </li>
 <li><a href="https://www.digitalocean.com/careers">digitalocean</a>  </li>
+<li><a href="https://diggibyte.zohorecruit.in/jobs/careers-diggibyte">Diggibyte</a></li>
 <li><a href="https://discord.com/jobs">Discord</a></li>
 <li><a href="https://jobs.discovery.com/careers-home/">Discovery inc</a>  </li>
 <li><a href="https://jobs.disneycareers.com/location/india-jobs/391-28648/1269750/2">Disney</a></li>
@@ -607,6 +608,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://www.redhat.com/en/jobs">Red hat</a>  </li>
 <li><a href="https://angel.co/company/reelohq">Reelo</a></li>
 <li><a href="https://www.getreprise.com/careers/">Reprise</a></li>
+<li><a href="https://www.relanto.ai/jobs">Relanto</a></li>
 <li><a href="https://www.rippling.com/careers">Rippling</a>  </li>
 <li><a href="https://www.rivigo.com/careers/">Rivigo</a></li>
 <li><a href="https://www.myrocketcareer.com/">Rocket Companies</a></li>
