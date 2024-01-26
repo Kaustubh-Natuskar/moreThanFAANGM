@@ -86,7 +86,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">466</td>
+            <td align="center">469</td>
          </tr>
       </tbody>
    </table>
@@ -181,6 +181,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://bharatpe.com/career">BharatPe</a>  </li>
 <li><a href="https://www.bidgely.com/bidgely-career-opportunities/">Bidgely</a>   </li>
 <li><a href="https://careers.bigbasket.com/">BigBasket</a>  </li>
+<li><a href="https://www.linkedin.com/company/billdesk/jobs/">Billdesk</a>  </li>
 <li><a href="https://www.bitdefender.com/company/job-opportunities/">bitdefender</a>  </li>
 <li><a href="https://bitly.com/pages/careers">bitly</a>  </li>
 <li><a href="https://www.blackbuck.com/careers.php">BlackBuck</a></li>
@@ -405,6 +406,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <h2 id="I">I</h2>  
 
 <ol>
+<li><a href="https://www.5ire.org/carreer-blockchain">5ire</a></li>
 <li><a href="https://www.iac.com/join-team">IAC</a></li>
 <li><a href="https://www.ibm.com/in-en/employment/">IBM</a></li>
 <li><a href="https://www.ideaforge.co.in/career/">IdeaForge</a></li>
@@ -543,6 +545,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://www.ocrolus.com/careers/">Ocrolus</a></li>
 <li><a href="https://www.olacabs.com/careers">Ola</a> </li>
 <li><a href="https://careers.olxgroup.com/">Olx</a> </li>
+<li><a href="https://www.getonecard.app/careers/">OneCard</a> </li>
 <li><a href="https://www.oneplus.com/global/careers">Oneplus</a> </li>
 <li><a href="https://www.oracle.com/apac/corporate/careers/">Oracle</a>  </li>
 <li><a href="https://www.naukri.com/oyo-jobs-careers-2884032">OYO</a></li>
