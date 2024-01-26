@@ -498,6 +498,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://careers.microsoft.com/us/en">Microsoft</a>        </li>
 <li><a href="https://www.mindtickle.com/careers/">MindTickle</a></li>
 <li><a href="https://mobikwik.recruiterbox.com/">MobiKwik</a>  </li>
+ <li><a href="https://www.molbiodiagnostics.com/career.php">Molbio Diagnostics</a>  </li>
 <li><a href="https://www.morganstanley.com/people-opportunities/">Morgan Stanley</a>  </li>
 <li><a href="https://careers.mounttalent.com/">Mount talent</a></li>
 <li><a href="https://mpl.darwinbox.in/ms/candidate/careers">MPL</a>   </li>
@@ -634,6 +635,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://www.naukri.com/">Shaadi.com</a>  </li>
 <li><a href="https://sharechat.com/careers">ShareChat</a></li>
 <li><a href="https://www.shell.com/careers.html">Shell</a>  </li>
+<li><a href="https://careers.shiprocket.in/">Shiprocket</a></li>
 <li><a href="https://shipsy.io/career/">Shipsy</a></li>
 <li><a href="https://careers.shopee.sg/">Shopee</a></li>
 <li><a href="https://www.shopify.com/careers">Shopify</a></li>
