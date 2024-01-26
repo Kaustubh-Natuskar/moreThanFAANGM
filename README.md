@@ -758,6 +758,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <h2 id="Z">Z</h2>  
 
 <ol>
+<li><a href="https://zeptonow.openings.co/#!/#openpositions">Zepto</a></li>
 <li><a href="https://careers.zerodha.com/">zerodha</a>  </li>
 <li><a href="https://careers.zeta.tech/work-with-us/">Zeta</a></li>
 <li><a href="https://careers.zivame.com/">ZivaMe</a>  </li>
