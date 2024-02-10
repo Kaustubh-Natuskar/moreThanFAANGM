@@ -107,7 +107,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <h2 id="A">A</h2>  
 
 <ol>
-<li><a href="https://accord-global.com/careers.html">Accenture</a></li>
+<li><a href="https://www.accenture.com/in-en/careers">Accenture</a></li>
 <li><a href="https://www.accolite.com/careers">Accolite software</a>  </li>
 <li><a href="https://accord-global.com/careers.html">Accord software</a></li>
 <li><a href="https://www.adobe.com/careers.html">Adobe</a>  </li>
