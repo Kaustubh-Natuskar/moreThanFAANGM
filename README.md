@@ -542,6 +542,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <h2 id="O">O</h2>  
 
 <ol>
+<li><a href="https://www.optmyzr.com/">Optmyzr</a></li>
 <li><a href="https://obvious.in/careers">Obvious</a></li>
 <li><a href="https://www.ocrolus.com/careers/">Ocrolus</a></li>
 <li><a href="https://www.olacabs.com/careers">Ola</a> </li>
