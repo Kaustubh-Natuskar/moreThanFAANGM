@@ -86,7 +86,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">474</td>
+            <td align="center">475</td>
          </tr>
       </tbody>
    </table>
@@ -107,7 +107,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <h2 id="A">A</h2>  
 
 <ol>
-<li><a href="https://accord-global.com/careers.html">Accenture</a></li>
+<li><a href="https://www.accenture.com/in-en/careers">Accenture</a></li>
 <li><a href="https://www.accolite.com/careers">Accolite software</a>  </li>
 <li><a href="https://accord-global.com/careers.html">Accord software</a></li>
 <li><a href="https://www.adobe.com/careers.html">Adobe</a>  </li>
@@ -476,6 +476,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://hiring.lenskart.com/">Lenskart</a></li>
 <li><a href="https://jobs.lenovo.com/en_US/careers">Lenovo</a></li>
 <li><a href="https://leapfinance.freshteam.com/jobs">Leap Finance</a></li>
+<li><a href="https://thelevel.ai/career/">Level AI</a></li>
 <li><a href="https://www.careers.in/">Licious</a></li>
 <li><a href="https://www.liebherr.com/en/usa/start/start-page.html">Liebherr</a></li>
 <li><a href="https://careers.linkedin.com/">LinkedIn</a> </li>
