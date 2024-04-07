@@ -86,7 +86,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">470</td>
+            <td align="center">475</td>
          </tr>
       </tbody>
    </table>
@@ -161,6 +161,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://availfinance.in/opportunities/">Avail finance</a>  </li>
 <li><a href="https://www.avalara.com/us/en/about/jobs/job-openings.html">Avalara</a>  </li>
 <li><a href="https://careers.avaya.com/">Avaya</a></li>
+<li><a href="https://www.axisbank.com/careers">Axis Bank</a></li>
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -222,6 +223,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://www.cashfree.com/careers">Cashfree</a></li>
 <li><a href="https://cimpress.com/careers/">Cimpress</a></li>
 <li><a href="https://www.celigo.com/company/careers/">Celigo</a>  </li>
+<li><a href="https://jobs.citi.com/">Citi Bank</a>  </li>    
 <li><a href="https://careers.cerner.com/">Cerner</a></li>
 <li><a href="https://careers.chargebee.com/jobs/">Chargebee</a> </li>
 <li><a href="https://www.checkout.com/careers#jobs">Checkout.com</a> </li>
@@ -389,6 +391,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://careers.hashnode.com/jobs">Hashnode</a></li>
 <li><a href="https://warnermediacareers.com/hbo-jobs">HBO</a></li>
 <li><a href="https://www.hcltech.com/careers">HCL Tech</a></li>
+<li><a href="https://www.hdfcbank.com/personal/about-us/careers">HDFC Bank</a></li>
 <li><a href="https://www.healthasyst.com/careers/">HealthAsyst</a></li>
 <li><a href="https://www.healthifyme.com/careers/">Healthify me</a>  </li>
 <li><a href="https://www.here.com/careers">HERE</a></li>
@@ -396,6 +399,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://tech.hotstar.com/">Hotstar</a></li>
 <li><a href="https://careers.honeywell.com/">Honeywell</a></li>
 <li><a href="https://jobs.hp.com/">HP</a></li>
+<li><a href="https://www.hsbc.com/careers">HSBC Bank</a></li>    
 <li><a href="https://www.hubspot.com/careers/">Hub Spot</a></li>
 <li><a href="https://apply.workable.com/huggingface/">Huggingface</li>
 </ol>
@@ -457,6 +461,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://khoros.com/about/careers">khoros</a></li>
 <li><a href="https://www.kla-tencor.com/careers">KLA Tencor</a>  </li>
 <li><a href="https://jobs.kochcareers.com/">Koch</a></li>
+<li><a href="https://www.kotak.com/en/about-us/careers.html">Kotak Mahindra Bank</a></li>    
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
