@@ -157,7 +157,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://atlan.com/careers/">Atlan</a></li>
 <li><a href="https://www.atlassian.com/company/careers">Atlassian</a>  </li>
 <li><a href="https://jobs.adp.com/">Automatic Data Processing</a>   </li>
-<li><a href="https://auzmor.com/career/">Auzmor</a>  </li>
+<li><a href="https://auzmor.com/careers/">Auzmor</a>  </li>
 <li><a href="https://availfinance.in/opportunities/">Avail finance</a>  </li>
 <li><a href="https://www.avalara.com/us/en/about/jobs/job-openings.html">Avalara</a>  </li>
 <li><a href="https://careers.avaya.com/">Avaya</a></li>
