@@ -401,6 +401,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://jobs.hp.com/">HP</a></li>
 <li><a href="https://www.hsbc.com/careers">HSBC Bank</a></li>    
 <li><a href="https://www.hubspot.com/careers/">Hub Spot</a></li>
+<li><a href="https://www.healu360.com">HealU</a></li>
 <li><a href="https://apply.workable.com/huggingface/">Huggingface</li>
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
