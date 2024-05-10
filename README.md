@@ -790,7 +790,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://www.3i-infotech.com/careers/">3i Infotech</a> </li>
 <li><a href="https://www.4iapps.com/careers/#jobs">4i Apps</a> </li>
 <li><a href="https://www.314e.com/">314e Corporation</a>  </li>
-<li><a href="https://www.247.ai/career-search">[24]7.ai</a></li>
+<li><a href="https://www.247.ai/company/careers">[24]7.ai</a></li>
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
