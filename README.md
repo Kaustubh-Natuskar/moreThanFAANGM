@@ -86,7 +86,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">475</td>
+            <td align="center">478</td>
          </tr>
       </tbody>
    </table>
@@ -291,6 +291,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://droom.in/career">droom</a>       </li>
 <li><a href="https://www.dropbox.com/jobs">Dropbox</a></li>
 <li><a href="https://www.druva.com/about/careers/">Druva</a>  </li>
+<li><a href="https://www.dryfruitshome.com/contact-dfh/">DryFruitsHome</a>  </li>
 <li><a href="https://angel.co/company/dukaan-app/jobs">Dukaan</a></li>
 <li><a href="https://www.dunzo.com/careers#jobs">Dunzo</a> </li>
 <li><a href="https://duo.com/careers">duo</a> </li>
@@ -639,6 +640,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://jobs.sap.com/">SAP</a>  </li>
 <li><a href="https://www.se.com/in/en/about-us/careers/overview.jsp">Schneider Electric</a>   </li>
 <li><a href="https://jobs.sendinblue.com/en">SendinBlue</a></li>
+<li><a href="https://seoservicescore.com/contact-us/">SEOServiceScore</a></li>    
 <li><a href="https://serpapi.com/team">SerpApi</a>  </li>
 <li><a href="https://www.servicenow.com/careers.html">ServiceNow</a>  </li>
 <li><a href="https://www.naukri.com/">Shaadi.com</a>  </li>
@@ -659,6 +661,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://spinny.freshteam.com/jobs">Spinny</a>  </li>
 <li><a href="https://www.sprinklr.com/careers/">Sprinklr</a></li>
 <li><a href="https://www.squadstack.com/careers/">Squadstack</a></li>
+<li><a href="https://www.srihayavadhana.com/contacts/">Sri Hayavadhana</a></li>
 <li><a href="https://stripe.com/in/jobs">Stripe</a>  </li>
 <li><a href="https://sureify.com/careers/">Sureify</a></li>
 <li><a href="https://careers.swiggy.com/">Swiggy</a>  </li>
