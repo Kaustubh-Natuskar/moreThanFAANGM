@@ -86,7 +86,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">475</td>
+            <td align="center">476</td>
          </tr>
       </tbody>
    </table>
@@ -679,6 +679,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://tekion.com/careers">Tekion corp</a></li>
 <li><a href="https://careers.tencent.com/en-us/search.html?query=ot_40001001,ot_40001002,ot_40001003,ot_40001004,ot_40001005,ot_40001006">Tencent</a>  </li>
 <li><a href="https://www.tesla.com/careers">Tesla</a> </li>
+<li><a href="https://testingbot.com/careers">TestingBot</a></li>
 <li><a href="https://careers.teradata.com/">Teradata</a></li>
 <li><a href="https://careers.ti.com/">Texas Instruments</a> </li>
 <li><a href="https://www.tsmc.com/static/english/careers/index.htm">TSMC</a></li>
