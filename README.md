@@ -623,6 +623,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://www.myrocketcareer.com/">Rocket Companies</a></li>
 <li><a href="https://www.rockstargames.com/careers/">Rockstar Games</a></li>
 <li><a href="https://www.rubrik.com/company/careers">Rubrik</a></li>
+<li><a href="https://www.weareroku.com/jobs/search">Roku</a></li>
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
