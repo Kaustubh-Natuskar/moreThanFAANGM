@@ -306,6 +306,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <ol>
 <li><a href="https://www.ea.com/careers">EA Games</a></li>
 <li><a href="https://jobs.ebayinc.com/us/en">eBay</a></li>
+<li><a href="https://www.edifecs.com/careers" target="_blank">Edifecs</a></li>    
 <li><a href="https://enfusion.com/careers/">Enfussion</a></li>
 <li><a href="https://www.yodlee.com/oceania/india-careers">Envestnet Yoodlee</a>   </li>
 <li><a href="https://www.epam.com/">Epam</a></li>
