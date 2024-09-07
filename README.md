@@ -133,7 +133,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://www.amagi.com/careers">Amagi</a>  </li>
 <li><a href="https://careers.amd.com/careers-home">AMD</a>   </li>
 <li><a href="https://www.amazon.jobs/en/">Amazon</a>    </li>
-<li><a href="https://asset.amdocs.com/careers/">Amdocs</a></li>
+<li><a href="https://asset.amdocs.com/careers/home">Amdocs</a></li>
 <li><a href="https://www.americanexpress.com/en-us/careers/">American express</a></li>
 <li><a href="https://www.amway.in/about-amway/careers">Amway</a>    </li>
 <li><a href="https://www.angelone.in/careers">Angelone</a>  </li>
