@@ -113,7 +113,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://www.adobe.com/careers.html">Adobe</a>  </li>
 <li><a href="https://able.co/team">Able</a>  </li>
 <li><a href="https://angel.co/company/abstract/jobs">Abstract</a>  </li>
-<li><a href="https://acko.skillate.com/">Acko</a></li>
+<li><a href="https://www.acko.com/careers/jobs/">Acko</a></li>
 <li><a href="https://careers.accredible.com/">Accredible</a>  </li>
 <li><a href="https://careers.activisionblizzard.com/">Activision Blizzard</a>  </li>
 <li><a href="https://www.affinidi.com/careers">Affinidi</a>  </li>
