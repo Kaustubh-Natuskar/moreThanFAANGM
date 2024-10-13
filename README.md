@@ -86,7 +86,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">477</td>
+            <td align="center">478</td>
          </tr>
       </tbody>
    </table>
@@ -639,6 +639,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://www.samsung.com/in/about-us/careers/">Samsung</a>  </li>
 <li><a href="https://jobs.sap.com/">SAP</a>  </li>
 <li><a href="https://www.se.com/in/en/about-us/careers/overview.jsp">Schneider Electric</a>   </li>
+<li><a href="https://www.searchapi.io/careers">SearchApi</a></li>
 <li><a href="https://jobs.sendinblue.com/en">SendinBlue</a></li>
 <li><a href="https://serpapi.com/team">SerpApi</a>  </li>
 <li><a href="https://www.servicenow.com/careers.html">ServiceNow</a>  </li>
