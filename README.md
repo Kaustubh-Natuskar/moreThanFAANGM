@@ -459,6 +459,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://keyvalue.systems/">Keyvalue</a></li>
 <li><a href="https://khatabook.com/hiring">Khatabook</a></li>
 <li><a href="https://khoros.com/about/careers">khoros</a></li>
+<li><a href="https://kilobytetech.com/contact-us">Kilobyte</a></li>
 <li><a href="https://www.kla-tencor.com/careers">KLA Tencor</a>  </li>
 <li><a href="https://jobs.kochcareers.com/">Koch</a></li>
 <li><a href="https://www.kotak.com/en/about-us/careers.html">Kotak Mahindra Bank</a></li>    
