@@ -86,7 +86,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">478</td>
+            <td align="center">479</td>
          </tr>
       </tbody>
    </table>
@@ -764,6 +764,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://yellow.ai/career">yellow.ai</a>  </li>
 <li><a href="https://www.yugabyte.com/careers/">yugabyte</a></li>
 <li><a href="https://www.yulu.bike/careers/">Yulu Bikes</a></li>
+<li><a href="https://www.yeasitech.com/career">YeasiTech</a></li>
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
