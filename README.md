@@ -188,6 +188,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://www.blackbuck.com/careers.php">BlackBuck</a></li>
 <li><a href="https://careers.blackrock.com/">Blackrock</a></li>
 <li><a href="https://bb.wd3.myworkdayjobs.com/BlackBerry/jobs">blackberry</a></li>
+<li><a href="https://blinkit.com/careers">Blinkit</a></li>
 <li><a href="https://block.xyz/careers">Block Inc</a></li>
 <li><a href="https://careers.bloomberg.com/job/search">Bloomberg LP</a></li>
 <li><a href="https://www.bluejeans.com/careers">BlueJeans</a></li>
