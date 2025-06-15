@@ -377,6 +377,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://www.grouponcareers.com/">Groupon</a> </li>
 <li><a href="https://grofers.com/careers/">Grofers</a>  </li>
 <li><a href="https://groww.skillate.com/">Groww</a></li>
+<li><a href="https://groq.com/careers/">Groq</a></li>
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
