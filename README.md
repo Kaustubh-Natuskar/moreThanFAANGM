@@ -485,6 +485,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://www.logic-fruit.com/">LogicFruit</a> </li>
 <li><a href="https://www.logicmonitor.com/careers">Logicmonitor</a></li>
 <li><a href="https://corporate.lowes.com/careers/search-apply">Lowe&#39;s companies, inc</a></li>
+<li><a href="https://www.lumigo.tv">Lumigo</a></li>
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
