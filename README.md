@@ -86,7 +86,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">481</td>
+            <td align="center">482</td>
          </tr>
       </tbody>
    </table>
@@ -161,6 +161,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://availfinance.in/opportunities/">Avail finance</a>  </li>
 <li><a href="https://www.avalara.com/us/en/about/jobs/job-openings.html">Avalara</a>  </li>
 <li><a href="https://careers.avaya.com/">Avaya</a></li>
+<li><a href="https://averybit.com/">AveryBit</a></li>
 <li><a href="https://www.axisbank.com/careers">Axis Bank</a></li>
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
