@@ -86,7 +86,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">481</td>
+            <td align="center">482</td>
          </tr>
       </tbody>
    </table>
@@ -369,6 +369,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://www.godrej.com/godrejandboyce/gnb-careers">Godrej Aerospace</a></li>
 <li><a href="https://career.gojek.com/">Gojek</a>  </li>
 <li><a href="https://www.goldmansachs.com/careers/">Goldman Sachs</a>   </li>
+<li><a href="https://goodspace.ai/careers">GoodSpace</a></li>
 <li><a href="https://careers.google.com/">Google</a></li>
 <li><a href="https://jobs.gopro.com/?lang=en-us#/">Go Pro</a></li>
 <li><a href="https://www.globallogic.com/in/careers/">Global Logic</a></li>
