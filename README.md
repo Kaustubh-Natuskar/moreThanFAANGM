@@ -344,6 +344,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://jobs.furlenco.com/">Furlenco</a></li>
 <li><a href="https://www.fylehq.com/company/team/join">fyle</a></li>
 <li><a href="https://www.fico.com/en/careers">Fico</a></li>
+<li><a href="https://www.fliocars.com/">Fliocars</a></li>
 <li><a href="https://www.fujitsu.com/global/about/careers/">Fujitsu</a></li>
 </ol>
 <p align="right">(<a href="#top">back to top</a>)</p>
