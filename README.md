@@ -227,6 +227,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://jobs.citi.com/">Citi Bank</a>  </li>    
 <li><a href="https://careers.cerner.com/">Cerner</a></li>
 <li><a href="https://careers.chargebee.com/jobs/">Chargebee</a> </li>
+<li><a href="https://nubo.email">Chandorkar Technologies</a> (Nubo Email - Privacy-first email platform, Pune)</li>
 <li><a href="https://www.checkout.com/careers#jobs">Checkout.com</a> </li>
 <li><a href="https://chronus.com/about-us/careers">Chronus</a>  </li>
 <li><a href="https://jobs.cisco.com/">Cisco</a>  </li>
